@@ -1,0 +1,128 @@
+.swarm{
+  height: 500px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+.swarm-chart-wrapper{
+  position: relative;
+  margin-top: 100px;
+}
+
+.swarm-circle{
+  stroke: white;
+  stroke-width: .5px;
+  fill:#FFD62C;
+}
+
+.swarm-average-line{
+  stroke: black;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.swarm-average-text{
+  text-anchor: middle;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.swarm-average-text-label{
+  font-size: 11px;
+  font-weight: 400;
+  /* text-transform: uppercase; */
+}
+
+/*
+.histogram{
+  position: relative;
+  margin: 0 auto;
+  margin-left: 100px;
+  position: relative;
+  height: 500px;
+  margin-top: 200px;
+}
+
+.histogram-chart-toggle-wrapper{
+  position: absolute;
+  width: 1000px;
+}
+
+.histogram-chart-wrapper{
+  position: relative;
+}
+
+p{
+  margin: 0px;
+  font-size: 12px;
+  font-family: sans-serif;
+  position: absolute;
+  font-weight: 800;
+  bottom:  -46px;
+}
+
+
+.histogram-year-item{
+  width: 19px;
+  height: 10px;
+  margin-bottom: 1px;
+  background-color: red;
+}
+
+.histogram-chart-toggle-type{
+  display: flex
+}
+
+.histogram-chart-toggle-item{
+  font-size: 18px;
+  font-family: sans-serif;
+  margin-right: 10px;
+}
+
+.histogram-chart-toggle-size{
+  display: flex;
+  width: 1000px;
+  height: 30px;
+}
+
+.histogram-chart-toggle-item{
+  font-size: 18px;
+  font-family: sans-serif;
+  margin-right: 10px;
+  line-height: 10px;
+  width: 100px;
+  margin: 0px;
+  position: relative;
+}
+
+.histogram-year-container{
+  display: flex;
+  flex-direction: column;
+  margin-right: 1px;
+  position: absolute;
+  top: 0px;
+  height: auto;
+  transform: translate(0%,-50%);
+  justify-content: flex-end;
+}
+
+
+.histogram-avg-div {
+    height: 100px;
+    width: 1px;
+    background: black;
+    position: absolute;
+    background: blue;
+}
+
+.histogram-avg-div p{
+    font-weight: 600;
+}*/
+
+
+.swarm-axis-line {
+    stroke: #ccc;
+    shape-rendering: crispEdges;
+}

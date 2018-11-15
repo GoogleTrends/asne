@@ -1,0 +1,1715 @@
+newsid,company,year,circ,city,state
+1,the anniston star,1997,E,anniston,al
+2,the birmingham news,1997,C,birmingham,al
+3,birmingham post-herald,1997,D,birmingham,al
+4,the decatur daily,1997,E,decatur,al
+5,the huntsville times,1997,D,huntsville,al
+6,montgomery advertiser,1997,D,montgomery,al
+8,the tuscaloosa news,1997,E,tuscaloosa,al
+9,anchorage daily news,1997,D,anchorage,ak
+11,the daily news,1994,H,ketchikan,ak
+12,the arizona republic/phoenix gazette,1996,B,phoenix,az
+13,the gazette,1994,D,phoenix,az
+14,the scottsdale progress,1994,F,mesa,az
+15,arizona daily star,2002,D,tucson,az
+16,tucson citizen,1997,E,tucson,az
+17,the sun,2012,F,yuma,az
+18,camden news,2002,H,camden,ar
+19,times record,2002,E,fort smith,ar
+22,paragould daily press,1998,G,paragould,ar
+23,texarkana gazette,1998,E,texarkana,tx
+25,the bakersfield californian,1997,D,bakersfield,ca
+26,chico enterprise-record,2000,E,chico,ca
+27,daily pilot,1997,E,costa mesa,ca
+28,the escondido north county times,2003,D,escondido,ca
+29,the fresno bee,1997,C,fresno,ca
+31,the glendale news-press,2001,G,glendale,ca
+32,press-telegram,1997,C,long beach,ca
+34,los angeles times,1997,A,los angeles,ca
+35,the modesto bee,1997,D,modesto,ca
+36,the monterey county herald,1997,E,monterey,ca
+37,the oakland tribune,1999,D,oakland,ca
+38,the inland valley daily bulletin,1996,D,ontario,ca
+42,the press-enterprise,2008,C,rivlou ureneckerside,ca
+45,the sacramento bee,1997,B,sacramento,ca
+46,the san bernardino county sun,1997,D,san bernardino,ca
+48,the san diego union-tribune,1997,B,san diego,ca
+49,the examiner.san francisco,2013,C,san francisco,ca
+50,san francisco chronicle,1997,B,san francisco,ca
+51,san jose mercury news,1997,B,san jose,ca
+53,the san mateo county times,1998,E,san mateo,ca
+55,marin independent journal,2008,E,novato,ca
+56,santa barbara news-press,1997,E,santa barbara,ca
+57,the santa monica outlook,1994,E,torrance,ca
+58,the press democrat,1994,D,santa rosa,ca
+59,the union democrat,1998,F,sonora,ca
+60,daily breeze,1998,D,torrance,ca
+61,los angeles daily news,1998,C,woodland hills,ca
+62,ventura county star,2009,D,camarillo,ca
+63,register-pajaronian,2005,G,watsonville,ca
+65,daily camera,1997,E,boulder,co
+67,the denver post,1995,B,denver,co
+68,denver rocky mountain news,2000,B,denver,co
+69,daily times-call,2003,F,longmont,co
+70,the pueblo chieftain,1998,D,pueblo,co
+73,connecticut post,1997,D,bridgeport,ct
+74,the news times,1996,E,danbury,ct
+75,greenwich time,1997,F,greenwich,ct
+76,hartford courant,1999,C,hartford,ct
+77,record-journal,1997,E,meriden,ct
+79,the middletown press,1999,F,middletown,ct
+80,the herald,1994,E,new britain,ct
+81,new haven register,1998,C,new haven,ct
+83,the advocate and greenwich time,1998,E,stamford,ct
+84,the chronicle,1994,F,willimantic,ct
+85,delaware state news,1998,F,dover,de
+86,the news journal,1998,C,new castle,de
+88,the washington post,1994,A,washington,dc
+91,the daytona beach news-journal,2002,C,daytona beach,fl
+93,the gainesville sun | the ocala starbanner,2013,E,gainesville,fl
+94,the times,1994,F,gainesville,ga
+96,the florida times-union,1994,C,jacksonville,fl
+98,the ledger,1994,D,lakeland,fl
+99,the miami herald,1997,B,miami,fl
+101,orlando sentinel,2001,B,orlando,fl
+104,south florida sun-sentinel,2001,B,fort lauderdale,fl
+105,sarasota herald tribune,2014,E,sarasota,fl
+108,tampa bay times,2012,B,st. petersburg,fl
+109,scripps treasure coast newspapers,2003,D,stuart,fl
+110,tallahassee democrat,1997,D,tallahassee,fl
+111,the tampa tribune,1997,B,tampa,fl
+112,the palm beach post,1997,C,west palm beach,fl
+115,the atlanta journal-constitution,2001,B,atlanta,ga
+116,the augusta chronicle,1997,D,augusta,ga
+118,columbus ledger-enquirer,1997,D,columbus,ga
+121,the macon telegraph,1997,D,macon,ga
+122,savannah morning news,1997,D,savannah,ga
+124,hawaii tribune-herald,1998,F,hilo,hi
+125,the honolulu advertiser,1998,C,honolulu,hi
+126,honolulu star-advertiser,2012,C,honolulu,hi
+127,lewiston tribune,2008,F,lewiston,id
+128,the telegraph,1994,E,alton,il
+129,daily herald,1997,C,arlington heights,il
+130,the beacon-news,1996,E,aurora,il
+131,the pantagraph,1995,D,bloomington,il
+132,southern illinoisan,1998,E,carbondale,il
+134,chicago sun-times,2006,B,chicago,il
+135,chicago tribune,1997,A,chicago,il
+136,commercial-news,1998,F,danville,il
+137,the register-mail,1994,F,galesburg,il
+138,the daily journal,1994,E,kankakee,il
+139,the dispatch and the rock island argus,1998,E,moline,il
+140,journal star,1997,D,peoria,il
+141,quincy herald-whig,2014,F,quincy,il
+142,the state journal-register,1994,D,springfield,il
+143,the news-sun,2014,F,gurnee,il
+144,the republic,1994,F,columbus,in
+145,the elkhart truth,1997,E,elkhart,in
+146,evansville courier & press,2005,D,evansville,in
+147,the journal gazette,1996,D,fort wayne,in
+148,the news-sentinel,1994,D,fort wayne,in
+149,post-tribune,2009,D,merrillville,in
+150,the times of northwest indiana,2006,D,munster,in
+151,the news,1994,C,indianapolis,in
+152,the indianapolis star,2000,B,indianapolis,in
+153,kokomo tribune,1998,F,kokomo,in
+154,the star press,1997,E,muncie,in
+155,the courier-times,1996,F,new castle,in
+156,south bend tribune,1997,D,south bend,in
+157,tribune-star,1998,E,terre haute,in
+159,the hawk eye,1994,F,burlington,ia
+160,the gazette,1994,D,cedar rapids,ia
+161,quad-city times,1998,D,davenport,ia
+163,the des moines register,1997,C,des moines,ia
+165,marshalltown times-republican,1997,F,marshalltown,ia
+166,waterloo-cedar falls courier,2000,E,waterloo,ia
+167,the coffeyville journal,1998,G,coffeyville,ks
+168,the emporia gazette,1997,F,emporia,ks
+169,the hutchinson news,1998,E,hutchinson,ks
+170,lawrence journal-world,2000,F,lawrence,ks
+171,the manhattan mercury,1997,F,manhattan,ks
+172,the olathe daily news,1999,G,olathe,ks
+173,the ottawa herald,1998,G,ottawa,ks
+174,parsons sun,1997,G,parsons,ks
+176,the topeka capital-journal,1997,D,topeka,ks
+177,the wichita eagle,1997,C,wichita,ks
+179,kypost.com,2010,O,cincinnati,oh
+181,lexington herald-leader,1997,C,lexington,ky
+183,the courier-journal,1994,C,louisville,ky
+184,borger news-herald,2002,H,borger,tx
+185,messenger inquirer,2001,E,owensboro,ky
+187,the paducah sun,1998,E,paducah,ky
+188,the town talk,2005,E,alexandria,la
+189,american press,2000,E,lake charles,la
+190,the news-star,1994,E,monroe,la
+192,the times-picayune,1994,B,new orleans,la
+194,the times,1994,D,shreveport,la
+196,bangor daily news,1997,D,bangor,me
+197,the capital,1994,E,annapolis,md
+199,the sun,1994,B,baltimore,md
+200,the herald-mail,1998,E,hagerstown,md
+201,the daily mail/morning herald,1994,E,hagerstown,md
+202,the boston globe,2014,B,dorchester,ma
+203,boston herald,1997,B,boston,ma
+204,the christian science monitor,1994,C,boston,ma
+205,gloucester daily times,2012,G,gloucester,ma
+207,cape cod times,1997,E,hyannis,ma
+208,the sun,1994,D,lowell,ma
+210,the daily news of newburyport,1998,F,newburyport,ma
+211,north adams transcript,1998,G,north adams,ma
+212,the patriot ledger/the enterprise,2013,E,quincy,ma
+213,the salem news,2003,E,beverly,ma
+214,the southbridge evening news,2001,G,southbridge,ma
+216,the republican,2004,D,springfield,ma
+218,waltham news-tribune,1997,G,waltham,ma
+219,telegram & gazette,1998,C,worcester,ma
+221,the ann arbor news,1997,D,ann arbor,mi
+222,battle creek enquirer,1998,E,battle creek,mi
+224,the bay city times,1997,E,bay city,mi
+225,detroit free press,1997,A,detroit,mi
+226,the detroit news,1997,B,detroit,mi
+227,the flint journal,1997,C,flint,mi
+228,the grand rapids press,1997,C,grand rapids,mi
+229,the holland sentinel,1997,F,holland,mi
+230,the jackson citizen patriot,2000,E,jackson,mi
+231,kalamazoo gazette,1997,D,kalamazoo,mi
+232,the monroe evening news,1998,F,monroe,mi
+233,the muskegon chronicle,1997,E,muskegon,mi
+234,the oakland press,1994,D,pontiac,mi
+235,traverse city record-eagle,1998,E,traverse city,mi
+236,duluth news tribune,2003,E,duluth,mn
+238,the free press,1994,E,mankato,mn
+240,minneapolis star tribune,2013,B,minneapolis,mn
+242,post-bulletin,1998,E,rochester,mn
+243,st. paul pioneer press,2002,C,st. paul,mn
+245,winona daily news,1998,F,winona,mn
+247,the sun herald,1994,E,biloxi,ms
+248,the greenwood commonwealth,1997,G,greenwood,ms
+249,the clarion-ledger,1994,C,jackson,ms
+251,enterprise-journal,1997,F,mccomb,ms
+252,the natchez democrat,1998,F,natchez,ms
+253,columbia daily tribune,1998,F,columbia,mo
+254,the joplin globe,2000,E,joplin,mo
+255,the kansas city star,1997,B,kansas city,mo
+257,mexico ledger,2001,G,mexico,mo
+258,springfield news-leader,1997,D,springfield,mo
+260,st. joseph news-press,1997,E,st. joseph,mo
+263,st. louis post dispatch,2014,B,st. louis,mo
+265,billings gazette,1999,D,billings,mt
+266,great falls tribune,1998,E,great falls,mt
+267,the livingston enterprise,2005,H,livingston,mt
+268,missoulian,1998,E,missoula,mt
+269,the journal star,1996,E,lincoln,ne
+270,lincoln journal star,1997,E,lincoln,ne
+271,omaha world-herald,1997,C,omaha,ne
+272,star-herald,1998,F,scottsbluff,ne
+273,las vegas review-journal,2011,C,las vegas,nv
+275,reno gazette-journal,1997,D,reno,nv
+276,concord monitor,1997,F,concord,nh
+277,the keene sentinel,1998,F,keene,nh
+278,valley news,2001,F,white river junction,vt
+279,the press of atlantic city,1997,D,pleasantville,nj
+280,the courier news,2010,E,somerville,nj
+282,the record,2010,C,woodland park,nj
+283,the jersey journal,1994,D,jersey city,nj
+284,the star-ledger,1994,B,newark,nj
+285,home news tribune,1998,D,east brunswick,nj
+286,herald news,2003,E,west paterson,nj
+288,the trentonian,1995,D,trenton,nj
+289,the daily journal,1994,F,vineland,nj
+290,albuquerque journal,1997,C,albuquerque,nm
+291,new york post,1997,B,new york,ny
+292,the new york times,1997,A,new york,ny
+293,the wall street journal,1994,A,new york,ny
+294,oneonta daily star,1997,F,oneonta,ny
+295,rochester democrat and chronicle,1999,C,rochester,ny
+296,the daily gazette,2010,E,schenectady,ny
+297,the post-standard,2003,C,syracuse,ny
+298,syracuse newspapers,1995,C,syracuse,ny
+299,observer-dispatch,1997,D,utica,ny
+301,watertown daily times/the journal and courier-observer,2012,F,watertown,ny
+302,the journal news,1999,C,white plains,ny
+303,asheville citizen-times,1997,D,asheville,nc
+305,times-news,1998,E,burlington,nc
+306,the charlotte observer,1997,C,charlotte,nc
+308,the fayetteville observer,2000,D,fayetteville,nc
+309,news & record,1997,C,greensboro,nc
+311,henderson daily dispatch,2002,G,henderson,nc
+312,times-news,1997,F,hendersonville,nc
+313,high point enterprise,1997,E,high point,nc
+314,the news herald,1995,F,morganton,nc
+315,the news & observer,1994,C,raleigh,nc
+318,the shelby star,1998,F,shelby,nc
+319,washington daily news,1998,F,washington,nc
+320,starnews media,2013,E,wilmington,nc
+322,the wilson times,2013,F,wilson,nc
+323,the bismarck tribune,1998,E,bismarck,nd
+324,the forum,1994,D,fargo,nd
+325,grand forks herald,1997,E,grand forks,nd
+326,akron beacon journal,1997,C,akron,oh
+327,the repository,1994,D,canton,oh
+328,the cincinnati enquirer,1997,C,cincinnati,oh
+329,the cincinnati post and the kentucky post,2002,D,cincinnati,oh
+330,the plain dealer,1994,B,cleveland,oh
+334,dayton daily news,1997,C,dayton,oh
+336,the chronicle telegram,2001,E,elyria,oh
+337,journalnews & middletown journal,2014,F,hamilton,oh
+338,the morning journal,1997,E,lorain,oh
+339,record-courier,1997,F,ravenna,oh
+340,the advocate,1996,F,newark,oh
+341,norwalk reflector,1998,G,norwalk,oh
+342,the blade and pittsburgh post-gazette,1997,C,toledo,oh
+343,the troy daily news,2004,G,troy,oh
+344,the daily record,1994,E,wooster,oh
+345,the duncan banner,1998,G,duncan,ok
+346,the shawnee news-star,2000,F,shawnee,ok
+347,tulsa world,1997,C,tulsa,ok
+349,albany democrat-herald,1998,F,albany,or
+350,the bulletin,1994,F,bend,or
+351,corvallis gazette-times,1998,F,corvallis,or
+352,the register-guard,1994,D,eugene,or
+353,the observer,1994,G,la grande,or
+354,mail tribune/ashland daily tidings,2011,E,medford,or
+355,east oregonian,1998,F,pendleton,or
+357,the oregonian,1994,B,portland,or
+358,statesman journal,1997,D,salem,or
+362,the progress,1998,F,clearfield,pa
+363,the express-times,1994,D,easton,pa
+364,erie times-news,2001,D,erie,pa
+365,the news,1994,D,erie,pa
+366,the patriot-news,2011,D,mechanicsburg,pa
+368,standard-speaker,1998,F,hazleton,pa
+369,the tribune-democrat,1994,E,johnstown,pa
+370,lancaster new era,2001,E,lancaster,pa
+371,intelligencer journal/lancaster new era,2010,E,lancaster,pa
+372,bucks county courier times,1997,D,levittown,pa
+373,the derrick and the news-herald,2010,F,oil city,pa
+375,the philadelphia inquirer,1997,A,philadelphia,pa
+376,philadelphia daily news,1997,C,philadelphia,pa
+377,pittsburgh post-gazette,1997,C,pittsburgh,pa
+380,reading eagle,2003,D,reading,pa
+381,the scranton times and the tribune,1997,D,scranton,pa
+382,the herald,1994,E,sharon,pa
+383,centre daily times,1997,E,state college,pa
+384,the daily item,1994,E,sunbury,pa
+385,valley news dispatch,1998,E,tarentum,pa
+386,times leader,2001,E,wilkes-barre,pa
+387,the citizens' voice,1994,E,wilkes-barre,pa
+388,williamsport sun-gazette,1999,E,williamsport,pa
+389,the providence journal,1999,C,providence,ri
+391,the kent county daily times,1996,G,west warwick,ri
+392,the call,1995,E,woonsocket,ri
+393,anderson independent-mail,1997,E,anderson,sc
+394,the post and courier,1994,C,charleston,sc
+398,the state,1994,C,columbia,sc
+399,morning news,2000,E,florence,sc
+401,the greenville news,1997,D,greenville,sc
+403,the item,1994,F,sumter,sc
+404,rapid city journal,1998,E,rapid city,sd
+405,argus leader,1997,E,sioux falls,sd
+407,the leaf-chronicle,1994,F,clarksville,tn
+408,the sun,1996,F,greeneville,tn
+409,the jackson sun,1998,E,jackson,tn
+410,johnson city press,1997,E,johnson city,tn
+411,the times-news,1996,E,kingsport,tn
+413,the knoxville news sentinel,2007,C,knoxville,tn
+415,the commercial appeal,1994,C,memphis,tn
+416,the banner,1995,D,nashville,tn
+417,the tennessean,1994,C,nashville,tn
+418,the oak ridger,1994,F,oak ridge,tn
+419,abilene reporter-news,1998,E,abilene,tx
+420,amarillo globe-news,2002,D,amarillo,tx
+422,austin american-statesman,1997,C,austin,tx
+424,the beaumont enterprise,2006,D,beaumont,tx
+425,corpus christi caller-times,1998,D,corpus christi,tx
+427,the dallas morning news,1997,B,dallas,tx
+429,el paso herald-post,1997,F,el paso,tx
+430,el paso times,1997,D,el paso,tx
+431,fort worth star-telegram,1997,C,fort worth,tx
+432,houston chronicle,1997,B,houston,tx
+433,the post,1994,B,houston,tx
+434,kerrville daily times,1998,G,kerrville,tx
+435,lubbock avalanche-journal,1997,D,lubbock,tx
+436,palestine herald-press,1998,G,palestine,tx
+438,san angelo standard-times,1998,E,san angelo,tx
+439,san antonio express-news,2013,C,houston,tx
+441,temple daily telegram,1997,F,temple,tx
+442,waco tribune-herald,1997,E,waco,tx
+444,times record news,1998,E,wichita falls,tx
+446,deseret morning news,2004,D,salt lake city,ut
+447,salt lake tribune,1997,C,salt lake city,ut
+448,the burlington free press,1998,D,burlington,vt
+451,the free lance-star,1994,E,fredericksburg,va
+452,daily news-record,2000,E,harrisonburg,va
+455,the virginian-pilot,1998,C,norfolk,va
+456,richmond times-dispatch,1997,C,richmond,va
+457,the roanoke times,1997,C,roanoke,va
+458,the bellingham herald,2000,E,bellingham,wa
+459,kitsap sun,2006,E,bremerton,wa
+460,the chronicle,2006,F,centralia,wa
+461,herald,2004,D,everett,wa
+462,the daily news,1994,F,longview,wa
+463,tri-city herald,2010,E,kennewick,wa
+464,seattlepi.com,2010,O,seattle,wa
+465,the seattle times,1997,C,seattle,wa
+466,the spokesman-review,1994,C,spokane,wa
+467,the news tribune,1994,C,tacoma,wa
+468,the columbian,1994,D,vancouver,wa
+469,the wenatchee world,1997,E,wenatchee,wa
+470,yakima herald-republic,1998,E,yakima,wa
+471,the charleston gazette,2006,E,charleston,wv
+472,wheeling news-register,1999,F,wheeling,wv
+473,the post-crescent,1994,D,appleton,wi
+474,the chippewa herald,1998,G,chippewa falls,wi
+475,green bay press-gazette,2000,D,green bay,wi
+476,kenosha news,1997,E,kenosha,wi
+477,the capital times,1994,F,madison,wi
+478,wisconsin state journal,1997,D,madison,wi
+479,milwaukee journal sentinel,1997,B,milwaukee,wi
+480,the sentinel,1994,C,milwaukee,wi
+481,the sheboygan press,1999,E,sheboygan,wi
+483,daily boomerang,1999,G,laramie,wy
+485,the albuquerque tribune,1998,E,albuquerque,nm
+486,the santa fe new mexican,1998,F,santa fe,nm
+487,times union,1997,C,albany,ny
+489,press & sun-bulletin,2000,D,binghamtom,ny
+491,the buffalo news,2001,C,buffalo,ny
+492,messenger post newspapers,2009,F,canandaigua,ny
+493,star-gazette,1998,E,elmira,ny
+494,newsday,1994,A,melville,ny
+495,new york daily news,2013,A,new york,ny
+496,the news-courier,1999,G,athens,al
+497,the cullman times,2004,F,cullman,al
+498,dothan eagle,2006,E,dothan,al
+499,enterprise ledger,1998,G,enterprise,al
+500,timesdaily,1997,E,florence,al
+501,the gadsden times,1999,E,gadsden,al
+502,the news,1995,F,huntsville,al
+503,the daily mountain eagle,1999,F,jasper,al
+504,valley times-news,1998,G,lanett,al
+506,press-register,2007,D,mobile,al
+507,opelika-auburn news,1998,F,opelika,al
+508,the daily sentinel,1997,G,scottsboro,al
+509,the selma times-journal,1998,G,selma,al
+510,the daily home,1994,G,talladega,al
+511,the messenger,1994,H,troy,al
+512,fairbanks daily news-miner,1997,F,fairbanks,ak
+513,juneau empire,2000,G,juneau,ak
+514,the kodiak daily mirror,1998,H,kodiak,ak
+515,the daily sitka sentinel,1998,H,sitka,ak
+517,casa grande dispatch,1998,G,casa grande,az
+518,the daily dispatch,1994,H,douglas,az
+519,arizona daily sun,1997,F,flagstaff,az
+520,the kingman daily miner,1998,G,kingman,az
+521,east valley tribune,2014,D2,tempe,az
+523,the daily courier,2001,F,prescott,az
+524,sierra vista herald/bisbee daily review,2005,F,sierra vista,az
+525,the tempe daily news-tribune,1994,F,mesa,az
+526,arkadelphia daily siftings herald,2008,H,arkadelphia,ar
+527,batesville daily guard,1998,G,batesville,ar
+528,the benton courier,1998,G,benton,ar
+529,blytheville courier news,1999,H,blytheville,ar
+530,log cabin democrat,1999,F,conway,ar
+531,the daily citizen,1994,H,de queen,ar
+532,the news-times,1994,F,el dorado,ar
+533,northwest arkansas times,1998,F,fayetteville,ar
+534,times-herald,2004,H,forrest city,ar
+535,harrison daily times,2004,G,harrison,ar
+536,the daily world,1994,G,helena,ar
+537,hope star,1998,H,hope,ar
+538,the sentinel-record,2010,F,hot springs national park,ar
+540,the jonesboro sun,2001,E,jonesboro,ar
+541,banner-news,1999,H,magnolia,ar
+542,malvern daily record,2004,G,malvern,ar
+544,newport daily independent,1998,H,newport,ar
+546,pine bluff commercial,1997,F,pine bluff,ar
+548,the courier,1997,F,russellville,ar
+549,the daily citizen,1994,G,searcy,ar
+550,northwest arkansas newspapers llc,2010,E,springdale,ar
+551,stuttgart daily leader,2008,H,stuttgart,ar
+552,evening times,2000,G,west memphis,ar
+553,the times star,1994,G,alameda,ca
+555,the daily ledger-post dispatch,1994,F,antioch,ca
+556,the record-gazette,1995,H,banning,ca
+557,desert dispatch,1998,G,barstow,ca
+564,the davis enterprise,1998,F,davis,ca
+567,the daily californian,1994,F,el cajon,ca
+568,imperial valley press,1998,F,el centro,ca
+569,times-standard,1998,F,eureka,ca
+570,daily republic,1998,F,fairfield,ca
+572,fremont argus,1999,E,fremont,ca
+575,the union,1994,F,grass valley,ca
+576,the hanford sentinel,1999,F,hanford,ca
+577,the daily review,1994,E,hayward,ca
+578,the hemet news,1998,F,hemet,ca
+579,free lance,1998,H,hollister,ca
+583,tri-valley herald,2003,E,pleasanton,ca
+584,the valley times,1994,E,pleasanton,ca
+585,lodi news-sentinel,1998,F,lodi,ca
+586,the lompoc record,1998,G,lompoc,ca
+587,madera tribune,1998,G,madera,ca
+589,appeal-democrat,1998,F,marysville,ca
+590,merced sun-star,1998,F,merced,ca
+591,the napa valley register,2004,F,napa,ca
+594,the mercury register,1996,G,oroville,ca
+595,the press-courier,1994,F,oxnard,ca
+596,the desert sun,1994,E,palm springs,ca
+599,the daily press,1994,G,paso robles,ca
+602,the porterville recorder,1999,F,porterville,ca
+603,daily news,1998,G,red bluff,ca
+604,record searchlight,1997,E,redding,ca
+605,redlands daily facts,1998,G,redlands,ca
+607,the daily independent,1994,G,ridgecrest,ca
+609,the salinas californian,2005,F,salinas,ca
+610,the sun post news,1995,G,san clemente,ca
+611,san diego daily transcript,1998,G,san diego,ca
+612,san gabriel valley newspaper group,1997,C,west covina,ca
+613,the tribune,2002,E,san luis obispo,ca
+614,the san pedro news-pilot,1994,F,torrance,ca
+615,the orange county register,1994,B,santa ana,ca
+616,santa cruz sentinel,2008,F,scotts valley,ca
+617,santa maria times/lompoc record,2014,F,santa maria,ca
+619,tahoe daily tribune,1998,G,south lake tahoe,ca
+620,the record,1994,D,stockton,ca
+621,daily midway driller,2001,H,taft,ca
+622,the news-chronicle,1994,F,thousand oaks,ca
+623,tulare advance-register,1998,G,tulare,ca
+624,turlock journal,1998,G,turlock,ca
+625,ukiah daily journal,1998,G,ukiah,ca
+626,times-herald,1998,F,vallejo,ca
+627,the daily press,1994,E,victorville,ca
+628,times-delta and tulare advance-register,2004,E,visalia,ca
+630,"bay area news group, east bay",2010,C,walnut creek,ca
+632,the daily democrat,1994,F,woodland,ca
+633,siskiyou daily news,1998,G,yreka,ca
+634,valley courier,2002,G,alamosa,co
+635,daily record,1997,G,canon city,co
+636,the gazette,1997,C,colorado springs,co
+637,craig daily press,2006,H,craig,co
+638,the durango herald,1998,G,durango,co
+639,coloradoan,2013,F,fort collins,co
+640,the fort morgan times,1998,G,fort morgan,co
+641,post independent,2006,G,glenwood springs,co
+643,the journal-advocate,2003,G,sterling,co
+644,the daily sentinel,1994,E,grand junction,co
+645,greeley tribune,2000,F,greeley,co
+647,la junta tribune democrat,2008,H,la junta,co
+648,the lamar daily news,1998,H,lamar,co
+650,loveland daily reporter-herald,2000,F,loveland,co
+651,the montrose daily press,1998,G,montrose,co
+652,rocky ford daily gazette,1998,H,rocky ford,co
+653,the mountain mail,1995,H,salida,co
+654,the chronicle-news,2002,H,trinidad,co
+656,the bristol press/new britain herald,2014,G,bristol,ct
+660,the citizen,1995,G,milford,ct
+661,the daily news,1995,H,naugatuck,ct
+662,the day,1994,E,new london,ct
+663,the hour,1994,F,norwalk,ct
+664,norwich bulletin,1998,E,norwich,ct
+665,the register citizen,1995,F,torrington,ct
+666,republican-american,2006,D,waterbury,ct
+669,boca raton news,1998,F,boca raton,fl
+670,bradenton herald,1998,E,bradenton,fl
+671,cape coral daily breeze,2006,H,cape coral,fl
+673,florida today,1994,D,melbourne,fl
+675,news-press,1997,D,fort myers,fl
+676,the tribune,1994,E,fort pierce,fl
+677,northwest florida daily news,1997,E,fort walton beach,fl
+679,the key west citizen,1998,G,key west,fl
+681,lake city reporter,1998,G,lake city,fl
+683,the daily commercial,1994,E,leesburg,fl
+684,jackson county floridan,2000,G,marianna,fl
+686,naples daily news,2014,D2,naple,fl
+687,ocala star-banner,1997,E,ocala,fl
+688,clay today,1996,H,orange park,fl
+689,daily news,2000,F,palatka,fl
+690,palm beach daily news,1997,G,palm beach,fl
+691,the news herald,1999,E,panama city,fl
+693,the st. augustine record,1998,F,st. augustine,fl
+694,seminole herald,1998,H,sanford,fl
+695,news chief,2002,F,winter haven,fl
+696,the albany herald,1997,E,albany,ga
+697,americus times-recorder,1998,G,americus,ga
+699,athens banner-herald,2003,E,athens,ga
+700,the brunswick news,2000,F,brunswick,ga
+701,the daily tribune news,1994,G,cartersville,ga
+702,elgin courier news,2013,G,aurora,il
+703,cordele dispatch,2001,H,cordele,ga
+704,the daily citizen,2002,F,dalton,ga
+705,the courier herald,1995,F,dublin,ga
+707,griffin daily news,2000,F,griffin,ga
+708,clayton news daily/henry daily herald,2005,H,jonesboro,ga
+709,la grange daily news,1998,F,la grange,ga
+712,marietta daily journal,1998,F,marietta,ga
+713,the moultrie observer,2012,G,moultrie,ga
+714,rome news-tribune,1998,F,rome,ga
+717,thomasville times-enterprise,1998,G,thomasville,ga
+718,the tifton gazette,1998,G,tifton,ga
+719,the valdosta daily times,1998,F,valdosta,ga
+720,the daily sun,1995,G,warner robins,ga
+721,waycross journal-herald,1998,F,waycross,ga
+724,the morning news,1995,H,blackfoot,id
+725,the idaho statesman,1994,D,boise,id
+726,south idaho press,2002,H,burley,id
+727,idaho press-tribune,1998,F,nampa,id
+728,coeur d'alene press and post falls press,2004,F,coeur d'alene,id
+729,post register,1998,E,idaho falls,id
+730,shoshone news-press,2002,H,kellogg,id
+733,idaho state journal,1998,F,pocatello,id
+734,bonner county daily bee,1998,G,sandpoint,id
+735,the times-news,2000,F,twin falls,id
+738,the illinoian-star daily,1994,H,beardstown,il
+739,belleville news-democrat,2000,D,belleville,il
+740,belvidere daily republican,1999,H,belvidere,il
+741,benton evening news,2004,H,benton,il
+744,canton daily ledger,2009,G,canton,il
+745,carmi times,2008,H,carmi,il
+747,centralia morning sentinel,2000,F,centralia,il
+749,the news-gazette,1994,E,champaign,il
+752,clinton daily journal,1999,H,clinton,il
+753,herald & review,1999,E,decatur,il
+754,the daily chronicle,1997,F,dekalb,il
+756,the telegraph,1997,F,dixon,il
+757,duquoin evening call,2007,H,duquoin,il
+759,the edwardsville intelligencer,1998,G,edwardsville,il
+760,effingham daily news,1998,F,effingham,il
+761,eldorado daily journal,1998,H,eldorado,il
+765,the journal standard,2009,F,freeport,il
+766,harrisburg daily register/eldorado daily journal,2009,G,harrisburg,il
+767,jacksonville journal-courier,1998,F,jacksonville,il
+769,the herald news,2004,E,joliet,il
+770,star courier,2008,H,kewanee,il
+771,newstribune,2001,F,lasalle,il
+772,daily record,1998,H,lawrenceville,il
+773,the courier,1994,G,lincoln,il
+774,news-herald,1998,G,litchfield,il
+775,the macomb journal,1999,G,macomb,il
+776,daily review atlas,1998,H,monmouth,il
+777,morris daily herald,1998,G,morris,il
+778,daily republican register,1998,H,mount carmel,il
+780,register-news,2000,F,mount vernon,il
+781,the olney daily mail,2008,H,olney,il
+782,the times,2006,F,ottawa,il
+784,the paris beacon-news,1998,G,paris,il
+785,paxton record,2010,H,paxton,il
+786,pekin daily times,2009,F,pekin,il
+787,daily leader,2007,H,pontiac,il
+788,robinson daily news,2002,G,robinson,il
+789,rockford register star,1997,D,rockford,il
+792,shelbyville daily union,2003,H,shelbyville,il
+793,daily gazette and telegraph,2001,F,sterling,il
+794,streator times-press,1998,G,streator,il
+795,the taylorville daily breeze-courier,2007,G,taylorville,il
+796,iroquois county's times-republic,1994,H,watseka,il
+797,daily american,2010,H,west frankfort,il
+801,the herald bulletin,1997,E,anderson,in
+803,times-mail,1999,F,bedford,in
+806,the knox county daily news,1996,H,bicknell,in
+807,the evening world,2001,H,bloomfield,in
+808,the herald-times,1994,E,bloomington,in
+809,news-banner,2007,G,bluffton,in
+810,the brazil times,1998,G,brazil,in
+811,chesterton tribune,1998,G,chesterton,in
+812,the daily clintonian,1994,G,clinton,in
+813,the post & mail,1994,G,columbia city,in
+814,connersville news-examiner,2007,G,connersville,in
+815,journal review,1998,F,crawfordsville,in
+816,decatur daily democrat,1998,G,decatur,in
+817,the call-leader,2005,H,elwood,in
+818,the times,1994,G,frankfort,in
+819,daily journal,1998,F,franklin,in
+820,the goshen news,1998,F,goshen,in
+821,banner-graphic,2000,G,greencastle,in
+822,daily reporter,1998,G,greenfield,in
+823,greensburg daily news,2007,G,greensburg,in
+824,hartford city news-times,2004,H,hartford city,in
+825,huntington herald-press,1998,G,huntington,in
+826,the herald,1994,F,jasper,in
+827,the evening news,1997,F,jeffersonville,in
+828,the news-sun,2008,G,kendallville,in
+830,journal and courier,1997,E,lafayette,in
+831,herald-argus,2005,F,laporte,in
+832,the lebanon reporter,2001,G,lebanon,in
+833,the daily world,2006,G,linton,in
+834,pharos-tribune,2002,F,logansport,in
+835,the madison courier,1998,G,madison,in
+836,chronicle-tribune,1998,F,marion,in
+837,the reporter-times,2007,G,martinsville,in
+838,the news-dispatch,1994,F,michigan city,in
+839,herald journal,2004,G,monticello,in
+841,the evening press,1994,F,muncie,in
+843,"tribune and the evening news, jeffersonville",2008,F,new albany,in
+844,the daily ledger,2001,F,fishers,in
+845,peru tribune,1998,G,peru,in
+846,pilot news,2001,G,plymouth,in
+847,the commercial review,1994,G,portland,in
+848,princeton daily clarion,2002,G,princeton,in
+849,republican,1998,H,rensselaer,in
+850,palladium-item,1999,F,richmond,in
+851,the rochester sentinel,1998,H,rochester,in
+852,the rushville republican,2006,H,rushville,in
+853,the tribune,1995,G,seymour,in
+854,the shelbyville news,1997,F,shelbyville,in
+855,spencer evening world,1998,H,spencer,in
+856,the sullivan daily times,2012,H,sullivan,in
+857,tipton county tribune,1998,H,tipton,in
+858,the vidette-messenger,1996,F,valparaiso,in
+859,vincennes sun-commercial,2001,F,vincennes,in
+860,wabash plain dealer,2004,G,wabash,in
+861,times-union,2009,F,warsaw,in
+862,washington times-herald,1997,F,washington,in
+863,winchester news-gazette,1998,H,winchester,in
+864,the tribune,1999,G,ames,ia
+865,atlantic news-telegraph,2002,H,atlantic,ia
+866,boone news-republican,1998,H,boone,ia
+867,daily times-herald,1998,G,carroll,ia
+869,ad express & daily iowegian,2002,H,centerville,ia
+870,charles city press,1998,H,charles city,ia
+871,the daily times,1994,H,cherokee,ia
+872,clinton herald,2002,F,clinton,ia
+873,the daily nonpareil,1996,F,council bluffs,ia
+874,creston news advertiser,2003,G,creston,ia
+875,telegraph herald,1997,E,dubuque,ia
+877,the fairfield ledger,1998,H,fairfield,ia
+878,the messenger,1996,F,fort dodge,ia
+879,fort madison daily democrat,2006,G,fort madison,ia
+880,iowa city press-citizen,1998,F,iowa city,ia
+881,daily gate city,2002,G,keokuk,ia
+882,le mars daily sentinel,2000,H,le mars,ia
+883,globe gazette,2001,F,mason city,ia
+884,the mt. pleasant news,1998,H,mount pleasant,ia
+885,muscatine journal,1998,G,muscatine,ia
+887,the newton daily news,1999,G,newton,ia
+888,daily register,2006,H,oelwein,ia
+889,oskaloosa herald,1998,H,oskaloosa,ia
+890,the ottumwa courier,1998,F,ottumwa,ia
+892,valley news today,1998,H,shenandoah,ia
+893,sioux city journal,1998,E,sioux city,ia
+894,the daily reporter,1994,H,spencer,ia
+895,the cedar valley times,1995,H,vinton,ia
+896,the washington evening journal,1998,H,washington,ia
+897,the daily freeman-journal,1994,H,webster city,ia
+898,abilene reflector-chronicle,1998,H,abilene,ks
+899,arkansas city traveler,2002,H,arkansas city,ks
+900,atchison daily globe,1998,H,atchison,ks
+901,butler county times gazette,2014,H,augusta,ks
+902,beloit daily call,1998,H,beloit,ks
+904,the chanute tribune,1997,H,chanute,ks
+905,clay center dispatch,2001,H,clay center,ks
+906,the columbus daily advocate,1998,H,columbus,ks
+907,blade-empire,2007,H,concordia,ks
+908,council grove republican,1998,H,council grove,ks
+909,dodge city daily globe,2000,G,dodge city,ks
+910,the el dorado times,1998,H,el dorado,ks
+911,the fort scott tribune,1999,H,fort scott,ks
+913,the garden city telegram,1997,F,garden city,ks
+914,the goodland daily news,1998,H,goodland,ks
+915,great bend tribune,2000,G,great bend,ks
+916,the hays daily news,1998,F,hays,ks
+917,hiawatha daily world,1998,H,hiawatha,ks
+918,independence daily reporter,1999,G,independence,ks
+919,iola register,1998,H,iola,ks
+920,the daily union,1994,G,junction city,ks
+921,kansas city kansan,1998,F,kansas city,ks
+922,the tiller & toiler,1999,H,larned,ks
+923,leavenworth times,2008,G,leavenworth,ks
+924,southwest daily times,1998,G,liberal,ks
+925,the lyons daily news,1998,H,lyons,ks
+926,mcpherson sentinel,1998,G,mcpherson,ks
+928,newton kansan,1998,G,newton,ks
+929,the norton daily telegram,2001,H,norton,ks
+930,the morning sun,1994,F,pittsburg,ks
+931,the pratt tribune,2002,H,pratt,ks
+932,the russell daily news,2001,H,russell,ks
+933,salina journal,2005,E,salina,ks
+934,wellington daily news,1998,H,wellington,ks
+935,winfield daily courier,1997,G,winfield,ks
+936,the independent,2004,F,ashland,ky
+937,daily news,1998,F,bowling green,ky
+938,times-tribune,2001,G,corbin,ky
+939,the advocate-messenger,1995,F,danville,ky
+940,the news-enterprise,1994,F,elizabethtown,ky
+941,the state journal,1994,F,frankfort,ky
+943,glasgow daily times,2005,G,glasgow,ky
+944,the harlan daily enterprise,2000,G,harlan,ky
+945,the gleaner,1994,F,henderson,ky
+946,kentucky new era,1998,F,hopkinsville,ky
+947,the messenger,1994,F,madisonville,ky
+948,mayfield messenger,2005,G,mayfield,ky
+949,the ledger-independent,1994,G,maysville,ky
+950,the daily news,1999,G,middlesboro,ky
+951,the murray ledger & times,1998,G,murray,ky
+953,the richmond register,2001,G,richmond,ky
+954,the commonwealth-journal,2008,G,somerset,ky
+955,the winchester sun,1998,G,winchester,ky
+956,the bastrop daily enterprise,2008,H,bastrop,la
+957,the advocate,1994,D,baton rouge,la
+958,daily news,1998,G,bogalusa,la
+961,st. mary and franklin banner-tribune,1998,H,franklin,la
+962,the daily star,1994,F,hammond,la
+963,the courier/daily comet,2009,E,houma,la
+965,jennings daily news,1998,G,jennings,la
+966,the daily advertiser,2016,E,lafayette,la
+968,minden press-herald,2000,H,minden,la
+969,the daily review,1996,G,morgan city,la
+970,the daily iberian,1994,F,new iberia,la
+971,the daily world,1994,F,opelousas,la
+972,ruston daily leader,1998,G,ruston,la
+973,the sentry-news,1997,G,slidell,la
+975,daily comet,1998,F,thibodaux,la
+976,central maine newspapers,2004,E,augusta,me
+977,journal tribune,2008,G,biddeford,me
+978,the times record,1994,F,brunswick,me
+979,sun journal,1998,E,lewiston,me
+981,portland press herald/maine sunday telegram,1999,D,portland,me
+983,morning sentinel,2000,F,waterville,me
+985,daily banner,1998,H,cambridge,md
+986,cumberland times-news,2006,E,cumberland,md
+988,the star democrat,1998,F,easton,md
+989,the frederick news-post,2000,E,frederick,md
+991,the daily times,1994,E,salisbury,md
+992,athol daily news,2000,G,athol,ma
+993,the sun chronicle,2005,F,attleboro,ma
+995,the enterprise,1998,E,brockton,ma
+998,the daily item,1994,H,clinton,ma
+999,the daily transcript,1995,G,dedham,ma
+1000,the herald news,1995,E,fall river,ma
+1001,sentinel & enterprise,1997,F,fitchburg,ma
+1002,the metrowest daily news / the milford daily news,2014,F,framingham,ma
+1003,the gardner news,1999,G,gardner,ma
+1004,the recorder,1994,F,greenfield,ma
+1005,the gazette,1994,F,haverhill,ma
+1006,the marlboro enterprise/hudson daily sun,1995,G,acton,ma
+1007,the eagle-tribune newspapers/cnhi,2007,D,north andover,ma
+1008,the daily item,2009,F,lynn,ma
+1012,the milford daily news,2008,G,milford,ma
+1013,the standard times,1995,E,new bedford,ma
+1014,daily hampshire gazette,1997,F,northampton,ma
+1016,the berkshire eagle,1994,E,pittsfield,ma
+1017,taunton daily gazette,1998,F,taunton,ma
+1018,wakefield daily item,2010,H,wakefield,ma
+1019,westfield evening news,1998,G,westfield,ma
+1020,daily times chronicle,1998,F,woburn,ma
+1021,the daily telegram,1994,F,adrian,mi
+1022,albion recorder/marshall chronicle,1998,H,albion,mi
+1023,the alpena news,2001,F,alpena,mi
+1024,the huron daily tribune,1994,G,bad axe,mi
+1025,the herald-palladium,1994,E,st. joseph,mi
+1026,big rapids pioneer,1998,G,big rapids,mi
+1027,cadillac news,1999,G,cadillac,mi
+1028,cheboygan daily tribune,2001,H,cheboygan,mi
+1029,the daily reporter,1995,G,coldwater,mi
+1030,dowagiac daily news,2007,H,dowagiac,mi
+1031,the daily press,1994,F,escanaba,mi
+1032,grand haven tribune,1998,F,grand haven,mi
+1033,the daily news,1994,G,greenville,mi
+1034,hillsdale daily news,1998,G,hillsdale,mi
+1035,the daily mining gazette,1994,F,houghton,mi
+1036,sentinel-standard,2001,H,ionia,mi
+1037,the daily news,1996,F,iron mountain,mi
+1038,ironwood daily globe,2005,G,ironwood,mi
+1039,lansing state journal,1998,D,lansing,mi
+1040,ludington daily news,1998,G,ludington,mi
+1041,manistee news-advocate,2000,G,manistee,mi
+1042,the mining journal,1996,F,marquette,mi
+1043,the chronicle,1994,H,marshall,mi
+1044,eagleherald,1997,F,marinette,wi
+1045,midland daily news,1998,F,midland,mi
+1046,the macomb daily,1998,D,mount clemens,mi
+1047,morning sun,1998,F,mount pleasant,mi
+1048,niles daily star,1999,H,niles,mi
+1049,the argus-press,2000,F,owosso,mi
+1050,petoskey news-review,1997,F,petoskey,mi
+1051,times herald,1997,E,port huron,mi
+1052,the daily tribune,2011,F,mount clemens,mi
+1053,the saginaw news,2003,E,saginaw,mi
+1054,the evening news,1994,G,sault ste. marie,mi
+1055,the daily tribune,1994,H,south haven,mi
+1056,sturgis journal,2002,G,sturgis,mi
+1057,three rivers commercial,2001,H,three rivers,mi
+1058,the press,1994,F,ypsilanti,mi
+1059,albert lea tribune,2001,G,albert lea,mn
+1060,austin daily herald,1998,G,austin,mn
+1061,the pioneer,2003,G,bemidji,mn
+1062,brainerd dispatch,2005,F,brainerd,mn
+1063,crookston daily times,2002,H,crookston,mn
+1064,sentinel,2000,G,fairmont,mn
+1065,faribault daily news,1998,G,faribault,mn
+1066,daily journal,1999,G,fergus falls,mn
+1067,the daily tribune,1994,F,hibbing,mn
+1068,the daily journal,1994,H,international falls,mn
+1070,independent,1998,G,marshall,mn
+1072,the journal,1995,G,new ulm,mn
+1073,owatonna people's press,2000,G,owatonna,mn
+1074,red wing republican eagle,2000,G,red wing,mn
+1075,st. cloud times,1998,E,st. cloud,mn
+1076,stillwater gazette,2006,H,stillwater,mn
+1078,west central tribune,1999,F,willmar,mn
+1080,daily globe,1998,F,worthington,mn
+1081,daily leader,1998,G,brookhaven,ms
+1082,press register,1998,G,clarksdale,ms
+1083,the bolivar commercial,1994,G,cleveland,ms
+1084,commercial dispatch,1997,F,columbus,ms
+1085,the daily corinthian,1994,G,corinth,ms
+1086,delta democrat times,1998,F,greenville,ms
+1087,the daily star,2008,G,grenada,ms
+1088,hattiesburg american,1998,F,hattiesburg,ms
+1089,laurel leader-call,2001,G,laurel,ms
+1090,the meridian star,1998,F,meridian,ms
+1091,the oxford eagle,2003,G,oxford,ms
+1092,the mississippi press,1995,F,pascagoula,ms
+1093,starkville daily news,1999,G,starkville,ms
+1094,northeast mississippi daily journal,1998,E,tupelo,ms
+1095,the vicksburg post,1998,F,vicksburg,ms
+1099,boonville daily news,2005,H,boonville,mo
+1101,the daily news-bulletin,1998,H,brookfield,mo
+1102,southeast missourian,2012,F,cape girardeau,mo
+1103,the daily democrat,1994,H,carrollton,mo
+1104,the carthage press,1998,H,carthage,mo
+1105,constitution tribune,2008,H,chillicothe,mo
+1106,the clinton daily democrat,1998,H,clinton,mo
+1107,the columbia missourian,2014,F,columbia,mo
+1108,the daily statesman,1998,H,dexter,mo
+1112,the daily journal,1998,G,park hills,mo
+1113,the fulton sun,2007,H,fulton,mo
+1115,hannibal courier-post,1998,G,hannibal,mo
+1116,"the examiner, independence/the examiner, blue springs",2012,H,independence,mo
+1118,jefferson city post-tribune and daily capital news,1998,F,jefferson city,mo
+1119,the daily dunklin democrat,1995,G,kennett,mo
+1120,kirksville daily express,2005,H,kirksville,mo
+1123,the lebanon daily record,1998,H,lebanon,mo
+1125,chronicle-herald,2008,H,macon,mo
+1126,the marshall democrat-news,1998,H,marshall,mo
+1127,maryville daily forum,1998,H,maryville,mo
+1128,moberly monitor-index,2009,G,moberly,mo
+1130,times,1998,H,monett,mo
+1131,neosho daily news,1998,H,neosho,mo
+1132,the nevada daily mail,2007,H,nevada,mo
+1134,daily american republic,2011,F,poplar bluff,mo
+1135,the daily news,2006,H,richmond,mo
+1136,rolla daily news,2007,H,rolla,mo
+1139,the sedalia democrat,1998,F,sedalia,mo
+1140,standard-democrat,1998,G,sikeston,mo
+1141,trenton republican-times,2005,H,trenton,mo
+1142,the daily star-journal,1998,H,warrensburg,mo
+1143,the daily guide,2008,H,waynesville,mo
+1144,west plains daily quill,1997,G,west plains,mo
+1145,bozeman daily chronicle,1998,F,bozeman,mt
+1146,the montana standard,1994,F,butte,mt
+1147,ravalli republic,1998,G,hamilton,mt
+1148,havre daily news,1998,H,havre,mt
+1149,helena independent record,2000,F,helena,mt
+1150,daily inter lake,1999,F,kalispell,mt
+1151,miles city star,1998,H,miles city,mt
+1152,alliance times-herald,2011,H,alliance,ne
+1153,beatrice daily sun,1998,G,beatrice,ne
+1154,columbus telegram,2000,F,columbus,ne
+1155,the journal,1994,H,falls city,ne
+1156,fremont tribune,1998,G,fremont,ne
+1157,the grand island independent,1997,F,grand island,ne
+1158,hastings tribune,1999,F,hastings,ne
+1159,holdrege daily citizen,2004,H,holdredge,ne
+1160,kearney hub,1998,F,kearney,ne
+1161,mccook daily gazette,2004,G,mccook,ne
+1162,nebraska city news-press,1999,H,nebraska city,ne
+1163,norfolk daily news,1998,F,norfolk,ne
+1164,the north platte telegraph,1998,F,north platte,ne
+1165,york news-times,2000,G,york,ne
+1166,nevada appeal,1998,F,carson city,nv
+1167,elko daily free press,2001,G,elko,nv
+1168,ely daily times,1999,H,ely,nv
+1169,statesboro herald,1998,G,statesboro,ga
+1171,las vegas sun,2003,E,henderson,nv
+1173,eagle times,1999,G,claremont,nh
+1174,foster's daily democrat,2000,E,dover,nh
+1175,citizen,1998,F,laconia,nh
+1176,the union leader,2000,D,manchester,nh
+1178,the telegraph,1994,E,nashua,nh
+1179,portsmouth herald,1998,F,portsmouth,nh
+1180,asbury park press,1997,C,neptune,nj
+1181,bridgeton evening news,1998,G,bridgeton,nj
+1182,courier-post,1997,D,cherry hill,nj
+1186,daily record,2000,D,parsippany,nj
+1188,new jersey herald,2005,F,newton,nj
+1190,today's sunbeam,1994,F,salem,nj
+1191,the ocean county observer,1994,F,toms river,nj
+1192,the times,1994,D,trenton,nj
+1195,burlington county times,1998,E,willingboro,nj
+1196,the news tribune,1994,D,woodbridge,nj
+1197,the gloucester county times,1995,E,woodbury,nj
+1198,alamogordo daily news,1998,G,alamogordo,nm
+1199,artesia daily press,2001,H,artesia,nm
+1200,carlsbad current-argus,1998,G,carlsbad,nm
+1201,clovis news journal,1998,G,clovis,nm
+1202,farmington daily times,2014,F,farmington,nm
+1203,the independent,1994,F,gallup,nm
+1205,hobbs daily news-sun,1998,F,hobbs,nm
+1206,las cruces sun-news,1998,F,las cruces,nm
+1207,las vegas optic,1999,G,las vegas,nm
+1208,los alamos monitor,2000,G,los alamos,nm
+1209,the lovington daily leader,2011,H,lovington,nm
+1210,portales news-tribune,2001,H,portales,nm
+1212,roswell daily record,2002,F,roswell,nm
+1213,silver city daily press & independent,1998,G,silver city,nm
+1216,the recorder,1994,F,amsterdam,ny
+1218,citizen,1998,F,auburn,ny
+1219,the daily news,1994,F,batavia,ny
+1222,daily mail,1999,G,catskill,ny
+1223,the leader,1994,F,corning,ny
+1224,cortland standard,2001,F,cortland,ny
+1225,evening observer,1998,F,dunkirk,ny
+1227,finger lakes times,1997,F,geneva,ny
+1228,the post-star,1994,E,glens falls,ny
+1230,the leader-herald,1995,F,gloversville,ny
+1231,the evening telegram/evening times,2012,G,herkimer,ny
+1233,evening tribune,2013,G,hornell,ny
+1235,register-star,1999,G,hudson,ny
+1236,the ithaca journal,1997,F,ithaca,ny
+1238,post-journal,2000,F,jamestown,ny
+1239,daily freeman,2000,F,kingston,ny
+1240,the evening times,2011,H,herkimer,ny
+1241,union-sun & journal,2001,F,lockport,ny
+1244,the malone telegram,1998,G,malone,ny
+1246,the journal-register,1995,G,medina,ny
+1247,the times herald-record,2004,D,middletown,ny
+1251,journal of commerce,1997,F,new york,ny
+1255,niagara gazette,2007,F,niagra falls,ny
+1256,tonawanda news,1998,F,north tonawanda,ny
+1257,the evening sun,1994,G,norwich,ny
+1258,the rockland journal-news,1994,E,west nyack,ny
+1259,the journal and courier-observer,2008,F,ogdensburg,ny
+1261,times-herald,2001,F,olean,ny
+1262,the oneida daily dispatch,2006,G,oneida,ny
+1264,the palladium times,2008,G,oswego,ny
+1266,press-republican,1997,F,plattsburgh,ny
+1268,the tri-state gazette,1994,G,port jervis,ny
+1269,poughkeepsie journal,1998,E,poughkeepsie,ny
+1270,daily sentinel,2012,F,rome,ny
+1271,salamanca press,1998,H,salamanca,ny
+1272,adirondack daily enterprise,1999,H,saranac lake,ny
+1273,the saratogian,1994,F,saratoga springs,ny
+1274,staten island advance,1997,D,staten island,ny
+1276,the record,1996,E,troy,ny
+1277,wellsville daily reporter,2002,H,wellsville,ny
+1280,the courier-tribune,1994,F,asheboro,nc
+1282,independent tribune,2011,F,kannapolis,nc
+1284,the daily record,1994,G,dunn,nc
+1286,the herald-sun,1997,D,durham,nc
+1287,the daily advance,1994,F,elizabeth city,nc
+1289,the gaston gazette,1998,E,gastonia,nc
+1290,news-argus,1999,F,goldsboro,nc
+1291,cooke communications/the daily reflector,2014,F,greenville,nc
+1292,hickory daily record,1999,F,hickory,nc
+1293,the daily news,2000,F,jacksonville,nc
+1295,kinston free press,1999,F,kinston,nc
+1296,news-topic,2000,F,lenoir,nc
+1297,the dispatch,1994,F,lexington,nc
+1298,the robesonian,1995,F,lumberton,nc
+1299,the enquirer-journal,1994,F,monroe,nc
+1300,sun journal,1998,F,new bern,nc
+1301,the observer-news-enterprise,1998,H,newton,nc
+1303,the reidsville review/eden daily news,2004,G,reidsville,nc
+1304,daily herald,1997,F,roanoke rapids,nc
+1305,richmond county daily journal,1998,G,rockingham,nc
+1306,rocky mount telegram,1998,F,rocky mount,nc
+1307,the salisbury post,1999,E,salisbury,nc
+1308,the sanford herald,1998,F,sanford,nc
+1309,statesville record & landmark,2000,F,statesville,nc
+1311,the daily southerner,1995,G,tarboro,nc
+1313,the tryon daily bulletin,2002,H,tryon,nc
+1315,winston-salem journal,1997,D,winston-salem,nc
+1316,devils lake daily journal,2009,H,devils lake,nd
+1317,the dickinson press,2003,G,dickinson,nd
+1318,the jamestown sun,1998,G,jamestown,nd
+1319,minot daily news,1998,E,minot,nd
+1320,valley city times-record,1998,H,valley city,nd
+1321,the daily news,1994,H,wahpeton,nd
+1322,williston daily herald,1998,G,williston,nd
+1323,the  review,2001,F,alliance,oh
+1324,ashland times-gazette,1998,F,ashland,oh
+1325,star beacon,2002,F,ashtabula,oh
+1326,the athens messenger,1998,F,athens,oh
+1327,bellefontaine examiner,1998,G,bellefontaine,oh
+1328,bellevue gazette,2008,H,bellevue,oh
+1329,the sentinel-tribune,1998,F,bowling green,oh
+1330,the bryan times,1998,F,bryan,oh
+1331,telegraph-forum,1998,G,bucyrus,oh
+1332,the daily jeffersonian,1996,F,cambridge,oh
+1333,the daily standard,1994,F,celina,oh
+1335,chillicothe gazette,1998,F,chillicothe,oh
+1336,herald,1998,G,circleville,oh
+1338,coshocton tribune,2000,G,coshocton,oh
+1340,the delaware gazette,2007,G,delaware,oh
+1341,delphos daily herald,2001,H,delphos,oh
+1342,the review,2000,F,east liverpool,oh
+1345,the courier,1994,E,findlay,oh
+1346,review times,2000,G,fostoria,oh
+1347,"the news-messenger/the news herald, port clinton",2004,F,fremont,oh
+1348,the galion inquirer,1998,H,galion,oh
+1349,gallipolis daily tribune,2004,H,gallipolis,oh
+1351,times-gazette,2007,H,hillsboro,oh
+1352,daily advocate,2006,G,greenville,oh
+1354,ironton tribune,2001,G,ironton,oh
+1355,kenton times,1998,G,kenton,oh
+1356,lancaster eagle-gazette,2003,F,lancaster,oh
+1357,the lima news,1997,E,lima,oh
+1358,morning journal,1998,F,lisbon,oh
+1359,logan daily news,1998,H,logan,oh
+1360,the madison press,1994,G,london,oh
+1361,news journal/telegraph-forum,2009,E,mansfield,oh
+1362,the marietta times,1998,F,marietta,oh
+1363,the marion star,1999,F,marion,oh
+1364,the times-leader,1994,F,martins ferry,oh
+1365,marysville journal-tribune,1997,G,marysville,oh
+1366,the independent,2001,F,massillon,oh
+1367,the medina county gazette,1994,F,medina,oh
+1368,the middletown journal,2004,F,middletown,oh
+1369,mount vernon news,2007,G,mount vernon,oh
+1370,northwest signal,2009,G,napoleon,oh
+1373,the times reporter,2003,F,new philadelphia,oh
+1374,piqua daily call,1998,G,piqua,oh
+1375,the daily sentinel,1994,H,pomeroy,oh
+1376,news-herald,1999,G,port clinton,oh
+1377,the portsmouth daily times,2001,F,portsmouth,oh
+1378,the evening leader,1998,G,st. marys,oh
+1379,salem news,2008,G,salem,oh
+1380,sandusky register,1998,F,sandusky,oh
+1382,the sidney daily news,1998,F,sidney,oh
+1383,springfield news-sun,1997,E,springfield,oh
+1385,herald-star/weirton daily times,2008,F,steubenville,oh
+1386,the advertiser-tribune,1994,F,tiffin,oh
+1388,the daily chief-union,1994,H,upper sandusky,oh
+1389,urbana daily citizen,1998,G,urbana,oh
+1390,times bulletin,2009,G,van wert,oh
+1391,wapakoneta daily news,1998,H,wapakoneta,oh
+1392,tribune chronicle,1997,E,warren,oh
+1393,record herald,1998,G,washington court house,oh
+1394,the news-herald,1994,D,willoughby,oh
+1395,news journal,2006,G,wilmington,oh
+1396,greene county dailies,2004,F,xenia,oh
+1397,vindicator,2012,E,youngstown,oh
+1398,times recorder/coshocton tribune,2007,F,zanesville,oh
+1399,the ada evening news,2000,G,ada,ok
+1400,the altus times,1998,G,altus,ok
+1401,alva review-courier,1998,H,alva,ok
+1402,daily news,1998,H,anadarko,ok
+1403,the daily ardmoreite,1994,F,ardmore,ok
+1404,examiner-enterprise,1999,F,bartlesville,ok
+1405,blackwell journal-tribune,1998,H,blackwell,ok
+1406,the express-star,2005,G,chickasha,ok
+1407,the claremore daily progress,2013,G,claremore,ok
+1408,the clinton daily news,2013,H,clinton,ok
+1409,cushing daily citizen,1999,H,cushing,ok
+1410,durant daily democrat,1998,G,durant,ok
+1411,the edmond sun,2011,H,edmond,ok
+1412,elk city daily news,1999,H,elk city,ok
+1414,enid news & eagle,2000,F,enid,ok
+1416,the daily leader,1996,H,frederick,ok
+1417,guthrie news leader,2001,H,guthrie,ok
+1418,guymon daily herald,1999,H,guymon,ok
+1419,henryetta daily free-lance,1998,H,henryetta,ok
+1421,holdenville daily news,1998,H,holdenville,ok
+1422,hugo daily news,1998,H,hugo,ok
+1424,the lawton constitution,1998,F,lawton,ok
+1426,mcalester news-capital & democrat,1998,F,mcalester,ok
+1428,miami news-record,1999,G,miami,ok
+1429,muskogee daily phoenix & times-democrat,1998,F,muskogee,ok
+1430,the norman transcript,1997,F,norman,ok
+1433,the oklahoman,2005,C,oklahoma city,ok
+1434,daily times,2000,H,okmulgee,ok
+1435,the daily democrat,1995,H,pauls valley,ok
+1437,the perry daily journal,1998,H,perry,ok
+1438,the ponca city news,2003,G,ponca city,ok
+1439,the daily times,1995,G,pryor,ok
+1440,sapulpa daily herald,1998,G,sapulpa,ok
+1442,the seminole producer,1998,G,seminole,ok
+1443,newspress,1999,G,stillwater,ok
+1444,vinita daily journal,2006,H,vinita,ok
+1445,weatherford daily news,1998,G,weatherford,ok
+1446,the daily times,1995,H,wewoka,ok
+1448,mail tribune  (medford) and ashland daily tidings,2010,G,ashland,or
+1449,the daily astorian,1997,G,astoria,or
+1450,baker city herald,1998,H,baker city,or
+1451,the world,1994,F,coos bay,or
+1452,grants pass daily courier,1998,F,grants pass,or
+1453,herald and news,2006,F,klamath falls,or
+1454,argus observer,1998,G,ontario,or
+1456,daily journal of commerce,2006,H,portland,or
+1457,the news-review,1994,F,roseburg,or
+1458,the dalles chronicle,1998,G,the dalles,or
+1460,altoona mirror,1998,E,altoona,pa
+1462,beaver county times,1997,E,beaver,pa
+1464,bedford gazette,2002,F,bedford,pa
+1465,press enterprise,2006,F,bloomsburg,pa
+1467,the bradford era,1999,F,bradford,pa
+1469,butler eagle,1998,E,butler,pa
+1471,the sentinel,1994,F,carlisle,pa
+1472,public opinion,1994,E,chambersburg,pa
+1475,the daily courier,2000,F,connellsville,pa
+1476,corry evening journal,1998,H,corry,pa
+1477,the danville news,2004,H,danville,pa
+1478,the intelligencer,2000,E,doylestown,pa
+1479,the courier-express/tri-county sunday,1997,F,dubois,pa
+1480,ellwood city ledger,2005,G,ellwood city,pa
+1481,the news-herald,1995,G,franklin,pa
+1482,gettysburg times,1998,G,gettysburg,pa
+1484,the record-argus,1994,G,greenville,pa
+1485,the evening sun,1994,F,hanover,pa
+1487,the daily news,1996,F,huntingdon,pa
+1488,the indiana gazette,1998,F,indiana,pa
+1490,the kane republican,2000,H,kane,pa
+1492,leader times,1998,F,kittanning,pa
+1493,the reporter,1994,F,lansdale,pa
+1494,the latrobe bulletin,1998,G,latrobe,pa
+1495,lebanon daily news,2003,F,lebanon,pa
+1496,the times news,2007,F,lehighton,pa
+1497,the sentinel,1994,F,lewistown,pa
+1498,the express,1997,F,lock haven,pa
+1499,the daily news,1998,F,mckeesport,pa
+1500,the meadville tribune,1998,F,meadville,pa
+1501,the standard journal,2010,H,milton,pa
+1502,the valley independent,2012,F,monessen,pa
+1504,new castle news,1998,F,new castle,pa
+1505,the times herald,1994,E,norristown,pa
+1507,the phoenix,2012,H,pottsville,pa
+1508,the mercury,1998,E,pottstown,pa
+1509,republican & herald,2006,E,pottsville,pa
+1511,the punxsutawney spirit,2003,G,punxsutawney,pa
+1513,the ridgway record,2012,H,ridgway,pa
+1514,the daily press,1994,G,st. marys,pa
+1515,the morning times,2006,G,sayre,pa
+1517,the news-item,1994,F,shamokin,pa
+1519,daily american,2005,F,somerset,pa
+1521,pocono record,1998,F,stroudsburg,pa
+1522,the titusville herald,2007,H,titusville,pa
+1523,the daily review,2003,G,towanda,pa
+1524,the daily herald,1998,H,tyrone,pa
+1525,herald-standard,1998,E,uniontown,pa
+1530,warren times-observer,1998,F,warren,pa
+1531,observer-reporter,1998,E,washington,pa
+1532,the record herald,1994,F,waynesboro,pa
+1534,daily local news,1998,E,west chester,pa
+1535,the york dispatch,1997,E,york,pa
+1536,york daily record,1997,E,york,pa
+1537,the newport daily news,1997,F,newport,ri
+1538,the times,1996,F,pawtucket,ri
+1539,the westerly sun,1998,F,westerly,ri
+1540,aiken standard,1998,F,aiken,sc
+1542,the beaufort gazette,1997,F,beaufort,sc
+1543,the index-journal,1995,F,greenwood,sc
+1544,the sun news,1994,E,myrtle beach,sc
+1545,the times and democrat,1994,F,orangeburg,sc
+1547,herald-journal,2000,D,spartanburg,sc
+1548,the union daily times,1998,G,union,sc
+1549,aberdeen american news,1998,F,aberdeen,sd
+1551,brookings daily register,1998,G,brookings,sd
+1552,plainsman,2011,G,huron,sd
+1553,black hills pioneer,2003,H,spearfish,sd
+1555,the madison daily leader,1998,H,madison,sd
+1556,the daily republic,1996,F,mitchell,sd
+1557,capital journal,1999,H,pierre,sd
+1558,watertown public opinion,1998,F,watertown,sd
+1559,yankton daily press & dakotan,1998,G,yankton,sd
+1560,the daily post-athenian,1995,F,athens,tn
+1561,chattanooga times free press,2001,D,chattanooga,tn
+1562,cleveland daily banner,1998,F,cleveland,tn
+1564,the daily herald,1998,F,columbia,tn
+1565,herald-citizen,2006,F,cookeville,tn
+1566,the state gazette,1999,G,dyersburg,tn
+1567,the star,2005,G,elizabethton,tn
+1570,the lebanon democrat,2006,G,lebanon,tn
+1571,the daily times,1994,F,maryville,tn
+1572,citizen tribune,2004,F,morristown,tn
+1573,the daily news journal,1994,F,murfreesboro,tn
+1574,the paris post-intelligencer,1998,G,paris,tn
+1575,shelbyville times-gazette,1998,G,shelbyville,tn
+1576,daily messenger,2012,G,union city,tn
+1579,athens daily review,2002,G,athens,tx
+1580,bay city daily tribune,1998,H,bay city,tx
+1581,the baytown sun,2000,F,baytown,tx
+1582,big spring herald,1998,G,big spring,tx
+1583,the favorite,1995,H,bonham,tx
+1584,the news-herald,1994,G,borger,tx
+1585,brenham banner-press,2010,G,brenham,tx
+1586,the brownsville herald,1998,F,brownsville,tx
+1587,brownwood bulletin,1999,G,brownwood,tx
+1588,bryan-college station eagle,1998,F,bryan,tx
+1589,cleburne times-review,1998,G,cleburne,tx
+1590,the brazosport facts,1994,F,clute,tx
+1591,conroe courier,1998,F,conroe,tx
+1592,corsicana daily sun,1998,G,corsicana,tx
+1593,dalhart daily texan,2000,H,dalhart,tx
+1594,del rio news-herald,2012,H,laredo,tx
+1595,the herald,1994,F,denison,tx
+1596,denton record-chronicle,1997,F,denton,tx
+1597,edinburg daily review,2006,H,edinburg,tx
+1598,ennis daily news,2011,H,ennis,tx
+1599,gainesville daily register,2008,G,gainesville,tx
+1600,the galveston county daily news,1999,E,galveston,tx
+1604,herald-banner,2004,G,greenville,tx
+1605,valley morning star,1998,E,harlingen,tx
+1606,henderson daily news,2008,G,henderson,tx
+1607,the huntsville item,1999,G,huntsville,tx
+1610,jacksonville daily progress,2000,H,jacksonville,tx
+1611,kilgore news herald,2008,H,kilgore,tx
+1612,killeen daily herald,2000,F,killeen,tx
+1617,longview news--journal,2011,F,longview,tx
+1619,lufkin daily news,1999,F,lufkin,tx
+1621,news messenger,1998,G,marshall,tx
+1622,the monitor,1994,E,mcallen,tx
+1623,mckinney courier-gazette,2004,G,mckinney,tx
+1625,the mexia news,2011,H,mexia,tx
+1626,midland reporter-telegram,1998,F,midland,tx
+1627,mineral wells index,2001,H,mineral wells,tx
+1628,mount pleasant daily tribune,2007,H,mount pleasant,tx
+1629,the daily sentinel,1994,G,nacogdoches,tx
+1630,odessa american,2001,E,odessa,tx
+1631,the orange leader,1998,F,orange,tx
+1632,the pampa news,2002,G,pampa,tx
+1633,the paris news,1998,F,paris,tx
+1634,pasadena citizen,1998,G,pasadena,tx
+1635,pecos enterprise,1998,H,pecos,tx
+1636,plainview daily herald,1998,G,plainview,tx
+1637,plano star-courier,1998,F,plano,tx
+1638,port arthur news,1998,F,port arthur,tx
+1643,san marcos daily record,2007,G,san marcos,tx
+1644,herald democrat,2000,E,sherman,tx
+1645,snyder daily news,2004,H,snyder,tx
+1646,stephenville empire-tribune,1998,G,stephenville,tx
+1647,sulphur springs news-telegram,2002,G,sulphur springs,tx
+1648,sweetwater reporter,1998,H,sweetwater,tx
+1649,fort bend herald and texas coaster,2007,G,rosenberg,tx
+1650,the terrell tribune,2007,H,terrell,tx
+1651,the sun,1994,G,texas city,tx
+1652,tyler morning telegraph,2000,E,tyler,tx
+1654,the vernon daily record,1998,H,vernon,tx
+1655,victoria advocate,2006,E,victoria,tx
+1656,waxahachie daily light,1998,H,waxahachie,tx
+1657,the weatherford democrat,1998,G,weatherford,tx
+1658,the herald journal,1994,F,logan,ut
+1659,standard-examiner,1998,D,ogden,ut
+1660,daily herald,2007,E,provo,ut
+1661,the barre montpelier times argus,2010,G,barre,vt
+1662,the bennington banner,1999,G,bennington,vt
+1663,the brattleboro reformer,2008,G,brattleboro,vt
+1664,the newport daily express,2000,H,newport,vt
+1665,rutland herald,1998,F,rutland,vt
+1666,st. albans messenger,2001,H,st. albans,vt
+1667,the caledonian-record,1994,F,st. johnsbury,vt
+1668,bristol herald-courier and virginia tennessean,1999,E,bristol,va
+1670,the daily progress,1994,E,charlottesville,va
+1672,virginian review,1998,G,covington,va
+1673,culpeper star-exponent,1999,G,culpeper,va
+1675,danville register & bee,1998,F,danville,va
+1676,news & messenger,2009,F,woodbridge,va
+1677,news,2000,G,hopewell,va
+1678,the news & advance,1998,E,lynchburg,va
+1680,manassas journal messenger,1998,G,manassas,va
+1681,the martinsville bulletin,1998,F,martinsville,va
+1682,daily press media group,2014,D2,newport news,va
+1683,the progress-index,1994,F,petersburg,va
+1684,the southwest times,1995,G,pulaski,va
+1688,the news leader,2002,F,staunton,va
+1689,the news virginian,2005,G,waynesboro,va
+1690,the winchester star,2009,F,winchester,va
+1691,the daily world,1994,F,aberdeen,wa
+1692,king county journal,2006,E,bellevue,wa
+1693,daily record,1999,G,ellensburg,wa
+1694,columbia basin herald,1998,G,moses lake,wa
+1695,skagit valley herald,2001,F,mount vernon,wa
+1696,the olympian,1995,E,olympia,wa
+1697,peninsula daily news,2000,F,port angeles,wa
+1698,daily journal of commerce,2004,G,seattle,wa
+1700,walla walla union-bulletin,1997,F,walla walla,wa
+1701,the register-herald,1998,E,beckley,wv
+1703,bluefield daily telegraph,1998,F,bluefield,wv
+1705,charleston daily mail,1997,D,charleston,wv
+1707,clarksburg exponent telegram,2010,F,clarksburg,wv
+1708,the inter-mountain,2002,F,elkins,wv
+1709,times-west virginian,1998,F,fairmont,wv
+1712,the herald-dispatch,1996,E,huntington,wv
+1714,mineral daily news tribune,2012,H,keyser,wv
+1715,west virginia daily news,2000,H,lewisburg,wv
+1716,the logan banner,2007,G,logan,wv
+1717,the journal,1999,F,martinsburg,wv
+1718,the dominion post,1994,F,morgantown,wv
+1720,moundsville daily echo,1998,H,moundsville,wv
+1721,the parkersburg news and the parkersburg sentinel,2014,H,parkersburg,wv
+1722,the parkersburg sentinel,1997,F,parkersburg,wv
+1723,point pleasant register,1998,G,point pleasant,wv
+1724,the daily times,1994,G,weirton,wv
+1725,the welch daily news,2004,H,welch,wv
+1726,williamson daily news,1998,F,williamson,wv
+1727,antigo daily journal,2002,G,antigo,wi
+1728,the daily press,1994,G,ashland,wi
+1729,news-republic/south central wisconsin news,1998,G,baraboo,wi
+1730,daily citizen,1998,F,beaver dam,wi
+1731,beloit daily news,1998,F,beloit,wi
+1732,leader-telegram,1997,E,eau claire,wi
+1734,daily jefferson county union,1998,G,fort atkinson,wi
+1735,the green bay news-chronicle,1998,G,green bay,wi
+1736,the janesville gazette,1998,F,janesville,wi
+1737,la crosse tribune,2003,E,la crosse,wi
+1738,herald times reporter,2001,F,manitowoc,wi
+1740,marshfield news-herald,1998,F,marshfield,wi
+1741,monroe times,1999,G,monroe,wi
+1742,the oshkosh northwestern,1998,F,oshkosh,wi
+1744,the journal times,1994,E,racine,wi
+1745,the daily news,1994,G,rhinelander,wi
+1746,shawano leader,1998,G,shawano,wi
+1747,stevens point journal,1999,F,stevens point,wi
+1748,the daily telegram,1995,F,superior,wi
+1750,waukesha county freeman,2000,F,waukesha,wi
+1751,wausau daily herald,1997,F,wausau,wi
+1752,the daily tribune,2001,F,wisconsin rapids,wi
+1753,casper star-tribune,1998,E,casper,wy
+1755,wyoming tribune-eagle,2004,F,cheyenne,wy
+1756,the news-record,1994,G,gillette,wy
+1757,rawlins daily times,2005,H,rawlins,wy
+1758,riverton ranger,1998,G,riverton,wy
+1759,daily rocket-miner,1999,G,rock springs,wy
+1760,sheridan press,2002,G,sheridan,wy
+1761,northern wyoming daily news,2006,H,worland,wy
+1762,northern virginia daily,2004,F,strasburg,va
+1763,suffolk news-herald,2000,H,suffolk,va
+1769,pensacola news journal,1997,D,pensacola,fl
+1771,the morning call,1994,C,allentown,pa
+1777,the alexander city outlook,1998,G,alexander city,al
+1778,daily news-sun,2000,F,sun city,az
+1781,the enterprise,1994,F,simi valley,ca
+1785,marion daily republican,2012,H,marion,il
+1786,mattoon journal-gazette/charleston times-courier,1998,F,mattoon,il
+1789,the evening star,1995,G,auburn,in
+1790,colby free press,2000,H,colby,ks
+1791,picayune item,1998,G,picayune,ms
+1792,deming headlight,2002,H,deming,nm
+1795,beavercreek news-current,1998,H,beavercreek,oh
+1800,daily news,1999,H,kingsport,tn
+1801,the andalusia star-news,1998,H,andalusia,al
+1802,fort payne times-journal,1998,G,fort payne,al
+1804,the chandler arizonan-tribune,1994,G,mesa,az
+1805,benton county daily record,1998,F,bentonville,ar
+1806,auburn journal,1998,F,auburn,ca
+1808,the dispatch,1994,G,gilroy,ca
+1810,manteca bulletin,1998,G,manteca,ca
+1812,press journal,1998,E,vero beach,fl
+1813,times-georgian,1997,F,carrollton,ga
+1814,the rockdale citizen,1996,F,conyers,ga
+1815,the union-recorder,1994,G,milledgeville,ga
+1816,the maui news,1994,F,wailuku,hi
+1819,the daily southtown,1994,D,chicago,il
+1820,northwest herald,2008,E,crystal lake,il
+1821,the daily clay county advocate-press,1996,H,flora,il
+1822,abbeville meridional,1998,G,abbeville,la
+1824,carroll county times,1997,F,westminster,md
+1825,daily times leader,2006,H,west point,ms
+1826,the sampson independent,1998,G,clinton,nc
+1827,the daily news,1995,G,eden,nc
+1828,the daily courier,1995,F,forest city,nc
+1829,the mount airy news,1999,G,mount airy,nc
+1830,crescent-news,1999,F,defiance,oh
+1832,tahlequah daily press,1999,G,tahlequah,ok
+1833,delaware county daily times,2000,D,primos,pa
+1835,the herald,1994,E,rock hill,sc
+1837,the times,1994,H,angleton,tx
+1838,hereford brand,1998,H,hereford,tx
+1839,laredo morning news,2011,F,laredo,tx
+1840,herald-zeitung,1999,G,new braunfels,tx
+1842,the spectrum,1997,F,st. george,ut
+1845,journal newspapers,1999,C,alexandria,va
+1849,the seguin gazette-enterprise,1998,G,seguin,tx
+1850,moscow-pullman daily news,1997,G,moscow,id
+1852,the intelligencer and wheeling news-register,2006,E,wheeling,wv
+1853,the reporter,1994,F,fond du lac,wi
+1854,portage daily register,2014,H,portage,wi
+1855,peninsula clarion,1998,G,kenai,ak
+1856,the crowley post-signal,1998,G,crowley,la
+1861,inside tuscon business,2014,H,tucson,az
+1862,the west county times,1994,E,pinole,ca
+1864,the washington times,1997,C,washington,dc
+1865,usa today,2002,A,mclean,va
+1866,west hawaii today,2010,F,kailua kona,hi
+1867,the garden island,1995,G,lihue,hi
+1870,the examiner,1995,G,blue springs,mo
+1874,the daily news,1994,H,sunnyside,wa
+2002,the reporter,1994,F,vacaville,ca
+2007,taylor daily press,1998,H,taylor,tx
+2008,the valley daily news/horvitz newspapers,1996,E,kent,wa
+2009,leesville daily leader,2009,H,leesville,la
+2010,lahontan valley news and fallon eagle standard,2000,G,fallon,nv
+2012,woodward news,1998,G,woodward,ok
+2013,baxter bulletin,1998,F,mountain home,ar
+2015,the mcdowell news,1994,G,marion,nc
+2016,aspen daily news,2007,F,aspen,co
+2017,tracy press,1998,G,tracy,ca
+2019,citrus county chronicle,2000,F,crystal river,fl
+2021,southwest daily news,2005,H,sulphur,la
+2022,lake sun leader,1994,H,camdenton,mo
+2023,the citizen news-record,1995,H,aberdeen,nc
+2024,the daily journal,1995,H,lewisburg,pa
+2025,the island packet,1994,F,hilton head island,sc
+2026,the mountain press,1994,G,sevierville,tn
+2027,lake county record-bee,1999,G,lakeport,ca
+2028,alice echo-news,1998,H,alice,tx
+2029,charlotte sun,2012,E,charlotte harbor,fl
+2030,antelope valley press,1999,E,palmdale,ca
+2031,the signal,1995,F,santa clarita,ca
+2032,beauregard daily news,2004,G,deridder,la
+2033,daily sparks tribune,1998,G,sparks,nv
+2034,the wayne independent,2000,H,honesdale,pa
+2037,the daily news,1994,F,west bend,wi
+2038,observer,1998,H,new smyrna beach,fl
+2039,douglas county sentinel,2006,G,douglasville,ga
+2040,the gilbert tribune,1994,H,mesa,az
+2041,benicia herald,2008,H,benicia,ca
+2042,the californian,1994,F,temecula,ca
+2043,mohave valley daily news,2006,G,bullhead city,az
+2044,the aspen times,1998,F,aspen,co
+2045,summit daily news,1998,G,frisco,co
+2046,steamboat pilot & today,2009,G,steamboat,co
+2047,vail daily,1998,F,vail,co
+2048,cecil whig,2000,F,elkton,md
+2049,the telegraph,1994,H,sidney,ne
+2050,the conway daily sun,2000,F,north conway,nh
+2052,the daily editor,1995,H,cobleskill,ny
+2054,daily news & sun,2002,H,poteau,ok
+2055,the north hills news record & valley news dispatch,1995,D,warrendale,pa
+2056,branson tri-lakes new,2014,F,branson,mo
+2057,jacksonville patriot,1998,H,jacksonville,ar
+2058,the daily triplicate,2004,H,crescent city,ca
+2059,kane county chronicle,2012,F,st. charles,il
+2060,derby reporter,2008,H,derby,ks
+2061,today's news-herald,1997,F,lake havasu city,az
+2062,the daily whale,1995,H,lewes,de
+2063,the daily okeechobee news,1998,H,okeechobee,fl
+2065,arlington morning news,1999,F,arlington,tx
+2066,daily news group,2008,D,menlo park,ca
+2068,telluride daily planet,2000,H,telluride,co
+2069,the gwinnett daily post,1998,E,lawrenceville,ga
+2070,hernando today,1998,F,brooksville,fl
+2071,highlands today,1999,F,sebring,fl
+2072,estherville daily news,2000,H,estherville,ia
+2074,natchitoches times,1998,G,natchitoches,la
+2076,the humboldt sun,1998,H,winnemucca,nv
+2077,the berlin reporter,2002,H,berlin,nh
+2078,the laurinburg exchange,1998,G,laurinburg,nc
+2079,grove daily news,1999,H,grove,ok
+2080,pittsburgh tribune-review,1998,E,pittsburgh,pa
+2081,the times-herald,1998,G,newnan,ga
+2082,post falls press,1999,H,post falls,id
+2083,the villages daily sun,2014,E,the villages,fl
+2085,the cherokee tribune,1999,G,canton,ga
+2086,the clanton advertiser,2004,H,clanton,al
+2087,desoto times today,2001,G,hernando,ms
+2089,sidney sun-telegraph,2002,H,sidney,ne
+2090,newport plain talk,2001,G,newport,tn
+2091,the grove sun daily,2008,G,grove,ok
+2092,the daily journal/daily messenger,2001,H,seneca,sc
+2093,the naperville sun,2011,F,aurora,il
+2095,herald-republican,2006,H,angola,in
+2096,livingston county daily press & argus,2006,F,howell,mi
+2098,daily news tribune,2011,G,needham,ma
+2099,daily news transcript,2008,H,norwood,ma
+2100,noblesville daily times,2005,G,noblesville,in
+2101,the daily journal,2009,F,san mateo,ca
+2104,colorado daily,2013,F,boulder,co
+2106,el nuevo herald,2006,D,miami,fl
+2107,the newton citizen,2006,G,covington,ga
+2108,the houston home journal,2009,F,perry,ga
+2110,grand junction free press,2006,F,grand junction,co
+2111,the santa monica daily press,2009,F,santa monica,ca
+2112,the berlin daily sun,2009,G,berlin,nh
+2113,the laconia daily sun,2009,F,laconia,nh
+2114,the dallas morning news/ al da,2013,E,dallas,tx
+2116,diario la estrella,2006,E,fort worth,tx
+2117,hoy,2011,D,chicago,il
+2120,redeye,2006,D,chicago,il
+2121,bluffton today,2008,F,bluffton,sc
+2123,amnewyork,2008,B,new york,ny
+2124,standard journal,2009,H,rexburg,id
+2125,the bossier press-tribune,2012,H,bossier city,la
+2133,voice of san diego,2010,O,san diego,ca
+2135,st. louis beacon,2010,O,st. louis,mo
+2138,wisconsin center for investigative journalism,2010,O,madison,wi
+2139,investigatewest,2011,O,seattle,wa
+2142,minnpost.com,2011,O,minneapolis,mn
+2145,center for investigative reporting/california watc,2010,O,berkeley,ca
+2146,the root,2010,O,washington,dc
+2147,the texas tribune,2010,O,austin,tx
+2154,crosscut public media,2010,O,seattle,wa
+2155,maine center for public interest reporting,2010,O,hallowell,me
+2156,the new haven independent,2010,O,new haven,ct
+2159,sf public press,2011,O,san francisco,ca
+2161,texas watchdog,2010,O,houston,tx
+2166,the center for public integrity,2010,O,washington,dc
+2168,the b-town blog,2011,O,burien,wa
+2169,the fayetteville flyer,2011,O,fayetteville,ar
+2170,gotham gazette,2010,O,new york city,ny
+2171,mission local,2010,O,san francisco,ca
+2172,alaska dispatch,2011,O,anchorage,ak
+2179,new west,2010,O,missoula,mt
+2180,the sacramento press,2010,O,sacramento,ca
+2182,wyofile,2011,O,lander,wy
+2187,gableshomepage,2010,O,coral gables,fl
+2190,globalpost,2010,O,boston,ma
+2195,nj spotlight,2010,O,montclair,nj
+2197,factcheck.org/annenberg public policy center,2010,O,washington,dc
+2198,the bay citizen,2010,O,san francisco,ca
+2199,propublica,2010,O,new york,ny
+2202,the news mexico independent,2010,O,albuquerque,nm
+2203,the colorado independent,2011,O,washington,dc
+2207,the washington independent,2010,O,,wa
+2208,the florida independent,2011,O,washington,dc
+2209,patch.com,2011,O,new york city,ny
+2227,oregonlive.com,2011,O,portland,or
+2234,dundalk eagle,2014,F,dundalk,md
+2239,capital gazette communications,2014,E,annapolis,md
+2243,visalia times-delta,2014,F,visalia,ca
+2253,suburban journals of madison county,2014,F,collinsville,il
+2254,100reporters,2016,O,washington,dc
+2255,alaska dispatch news,2015,E,anchorage,ak
+2256,arizona center for investigative reporting,2016,O,phoenix,az
+2257,austin-american statesman,2012,D,austin,tx
+2258,baltimore fishbowl,2016,O,,
+2259,baraboo news republic,2016,H,baraboo,wi
+2260,bay area news group,2014,Groups,group1,
+2261,"bay area news group (san jose mercury news, oakland tribune, and contra costa times)",2015,GROUPS,san jose,ca
+2262,benitolink.com,2016,O,hollister,ca
+2263,berkeleyside,2016,O,,
+2264,billy penn,2016,O,philadelphia,pa
+2265,blufftonicon,2016,O,,
+2266,brentwood home page,2016,O,brentwood,tn
+2267,calcoastnews.com,2016,O,atascadero,ca
+2268,california mcclatchy multiplatform desk,2015,Hubs,sacramento,ca
+2270,cambridge day,2016,O,,
+2271,carlsbad current argus,2015,G,carlsbad,nm
+2272,carson now,2016,O,,
+2273,catalyst chicago,2016,O,,
+2274,center for investigative reporting/california watch,2016,O,berkeley,ca
+2275,center for public integrity,2016,O,washington,dc
+2276,charlottesville tomorrow,2016,O,,
+2277,cherokee chronicle times,2015,H,cherokee,ia
+2278,city limits,2016,O,new york,ny
+2279,coachella valley independent,2016,O,,
+2280,columbus underground,2016,O,columbus,oh
+2281,common language project,2016,O,seattle,wa
+2282,corner news media,2016,O,brooklyn,ny
+2283,cox consolidated copy desk & page design hubs - dayton,2014,Hubs,hub14,
+2284,cox consolidated copy desk & page design hubs - dayton,2015,Hubs,dayton,oh
+2285,cox consolidated copy desk & page design hubs - palm beach,2014,Hubs,hub15,
+2286,cox consolidated wire editing desk - atlanta,2014,Hubs,hub13,
+2287,decaturish,2016,O,decatur,ga
+2288,denison bulletin & review,2016,H,denison,ia
+2289,detailed block,2016,O,,
+2290,dfm - norcal design center,2015,Hubs,chico,ca
+2292,dowagiac daily news,2016,H,niles,mi
+2293,edhat,2016,O,,
+2294,evansville+courier & press,2013,D2,evansville,in
+2295,factcheck.org/annenberg public policy center,2016,O,philadelphia,pa
+2296,gannett design studio - asbury park,2015,Hubs,asbury park,nj
+2297,gannett design studio - des moines,2015,Hubs,des moines,ia
+2298,gannett design studio - des moines,2014,Hubs,hub8,
+2299,gannett design studio - louisville,2014,Hubs,hub2,
+2300,gannett design studio - nashville,2014,Hubs,hub7,
+2301,gannett design studio - phoenix,2014,Hubs,hub16,
+2302,gatehouse media - center for news and design,2015,Hubs,austin,tx
+2303,geneva shore report,2016,O,lake geneva,wi
+2304,greensboro news-record,2015,D,greensboro,nc
+2305,high country press,2016,F,boone,nc
+2306,honolulu civil beat,2016,O,honolulu,hi
+2307,http://www.gloucestercitynews.net,2016,O,,nj
+2308,imediaethics.org,2016,O,new york,ny
+2309,iowawatch.org,2016,O,iowa city,ia
+2310,jersey bites,2016,O,,
+2311,journal gazette,2015,D2,fort wayne,in
+2312,kyforward.com,2016,O,edgewood,ky
+2313,la news group hub,2014,Hubs,hub4,
+2314,lafayette journal & courier,2013,E,lafayette,in
+2315,las cruces sun-news,2015,E,las cruces sun-news,nm
+2316,ledger enquirer,2015,E,columbus,ga
+2317,lee enterprises - lincoln hub,2015,Hubs,lincoln,ne
+2319,lee enterprises - madison hub,2015,Hubs,madison,wi
+2321,lee enterprises - munster hub,2015,Hubs,munster,in
+2323,lexington minuteman,2015,H,lexington,ma
+2324,lkldnow,2016,O,lakeland,fl
+2325,magnoliareporter.com,2016,O,magnolia,az
+2326,manchesterinklink.com,2016,O,,
+2327,mcclatchy newspapers - east hub,2015,Hubs,charlotte,sc
+2329,medford daily mercury/malden evening news,2016,F,malden,ma
+2330,mic network inc.,2016,O,new york,new york
+2331,milford live,2016,O,,
+2332,milwaukee nighborhood news service,2016,O,,
+2333,minnpost,2016,O,minneapolis,mn
+2334,monroe local news,2016,O,monroe,ga
+2335,my edmonds news,2016,O,,
+2336,my everett news,2016,O,,
+2337,myburbank,2016,O,,
+2338,naija standard newspaper,2016,O,arlington,tx
+2339,new haven register/torrington register citizen/middletown press,2015,D2,new haven,ct
+2340,new jersey arts news - www.njartsnews.org,2016,O,,
+2341,north carolina health news,2016,O,,
+2342,ogdensburg journal/advance news,2015,G,ogdenburg,ny
+2343,orleans hub,2016,O,,
+2344,philadelphia public school notebook,2016,O,philadelphia,pa
+2345,progress illinois,2016,O,,
+2346,quorom report,2016,O,austin,tx
+2347,racine county eye,2016,O,,
+2348,register-guard,2015,D,eugene,or
+2349,richland source,2016,O,mansfield,oh
+2350,san angelo live,2016,O,,
+2351,san angelo standard times,2015,F,san angelo,tx
+2352,san antonio express news,2012,C,houston,tx
+2353,sangre de cristo chronicle,2016,O,red river,nm
+2354,scripps - fl and sc,2014,Hubs,hub20,
+2355,scripps consolidated desk - corpus christi,2014,Hubs,hub19,
+2356,slate magazine,2016,O,brooklyn,ny
+2357,st. cloud times/times media,2016,E,st. cloud,mn
+2358,star tribune media company,2015,A,minneapolis,mn
+2359,"star tribune, minneapolis",2016,A,minneapolis,mn
+2360,statecollege.com,2016,O,state college,pa
+2361,stillwater current,2016,O,,
+2362,street sense,2016,O,washington,dc
+2363,technically philly,2016,O,,
+2364,the arizona republic/azcentral.com,2016,A,phoenix,az
+2365,the baltimore sun,2016,B,baltimore,md
+2366,the batavian,2016,O,,
+2367,the bemidji pioneer,2015,G,bemidji,mn
+2368,the berkshire edge,2016,O,great barrington,ma
+2369,"the blade of toledo, ohio",2015,C,toledo,oh
+2370,the columbia heart beat,2016,O,,
+2371,the dallas morning news/ al dﾕa,2016,E,dallas,tx
+2373,the franklin reporter & advocate,2016,O,somerset,nj
+2374,the groton line,2016,O,,
+2375,the herald news,2016,E,west paterson,nj
+2376,the leader & times,2016,H,liberal,ks
+2377,the lens,2016,O,new orleans,la
+2378,the locust fork news journal,2016,O,,
+2379,the mcdonough county voice,2016,G,macomb,il
+2380,the news dispatch,2012,G,michigan city,in
+2381,the notebook,2016,O,,
+2382,the oregonian/oregonlive,2016,C,portland,oregon
+2383,the record/herald news,2015,C,woodland park,nj
+2384,the san diego union tribune,2016,C,san diego,ca
+2385,the sanatoga post,2016,O,sanatoga,pa
+2386,the st. augustine record,2016,F,saint augustine,fl
+2387,the times,2015,G,noblesville,in
+2388,the tri-city herald,2013,E,kennewick,wa
+2389,the westerly sun,2016,G,pawcatuck,ct
+2390,the whittier daily news,2016,F,whittier,ca
+2391,thunderdome - digital first media,2014,Hubs,hub5,
+2392,times daily,2013,E,florence,al
+2393,times herald record,2015,D,middletown,ny
+2394,tucsonsentinel.com,2016,O,tucson,az
+2395,twin cities daily planet,2016,O,minneapolis,mn
+2396,txk today,2016,O,texarkana,tx
+2397,uptown messenger,2016,O,,
+2398,vox.com,2016,O,washington,dc
+2399,watershed post,2016,O,delhi,ny
+2400,we-ha.com,2016,O,west hartford,ct
+2401,west of the i,2016,O,,
+2402,west philly local,2016,O,,
+2403,westford template,2016,O,westford,ma
+2404,wisconsin rapids daily tribune,2016,G,wisconsin rapids,wi
+2405,www.delawarecurrents.org,2016,O,port jervis,ny
+2406,www.westchesterhispano.net,2016,O,westchester county,ny
+2407,yubanet,2016,O,,

@@ -1,0 +1,2081 @@
+Company,NewsID,City,State,Year,Circ
+The Anniston Star,1,Anniston,AL,1997,E
+The Birmingham News,2,Birmingham,AL,1997,C
+Birmingham Post-Herald,3,Birmingham,AL,1997,D
+The Daily,4,Decatur,AL,1997,E
+The Decatur Daily,4,Decatur,AL,1997,E
+The Huntsville Times,5,Huntsville,AL,1997,D
+Montgomery Advertiser,6,Montgomery,AL,1997,D
+The Gainesville Sun | The Ocala StarBanner,8,Gainesville,FL,2013,E
+The News,8,Tuscaloosa,AL,1997,E
+The Tuscaloosa News,8,Tuscaloosa,AL,1997,E
+Anchorage Daily News,9,Anchorage,AK,1997,D
+The Daily News,11,Ketchikan,AK,1994,H
+The Arizona Republic,12,Phoenix,AZ,1996,B
+The Arizona Republic/Phoenix Gazette,12,Phoenix,AZ,1996,B
+The Gazette,13,Phoenix,AZ,1994,D
+The Scottsdale Progress,14,Mesa,AZ,1994,F
+Arizona Daily Star,15,Tucson,AZ,2002,D
+The Citizen,16,Tucson,AZ,1997,E
+Tucson Citizen,16,Tucson,AZ,1997,E
+The Daily Sun,17,Yuma,AZ,2012,F
+The Sun,17,Yuma,AZ,2012,F
+Camden News,18,Camden,AR,2002,H
+Southwest Times Record,19,Fort Smith,AR,2002,E
+Times Record,19,Fort Smith,AR,2002,E
+Paragould Daily Press,22,Paragould,AR,1998,G
+Texarkana Gazette,23,Texarkana,TX,1998,E
+The Bakersfield Californian,25,Bakersfield,CA,1997,D
+Chico Enterprise-Record,26,Chico,CA,2000,E
+Daily Pilot,27,Costa Mesa,CA,1997,E
+North County Times,28,Escondido,CA,2003,D
+The Escondido North County Times,28,Escondido,CA,2003,D
+The Bee,29,Fresno,CA,1997,C
+The Fresno Bee,29,Fresno,CA,1997,C
+Glendale News-Press,31,Glendale,CA,2001,G
+The Glendale News-Press,31,Glendale,CA,2001,G
+Press-Telegram,32,Long Beach,CA,1997,C
+Los Angeles Times,34,Los Angeles,CA,1997,A
+The Bee,35,Modesto,CA,1997,D
+The Modesto Bee,35,Modesto,CA,1997,D
+Monterey County Herald,36,Monterey,CA,1997,E
+The Monterey County Herald,36,Monterey,CA,1997,E
+The Oakland Tribune,37,Oakland,CA,1999,D
+Inland Valley Daily Bulletin,38,Ontario,CA,1996,D
+The Inland Valley Daily Bulletin,38,Ontario,CA,1996,D
+The Press-Enterprise,42,Riverside,CA,1994,C
+The Bee,45,Sacramento,CA,1997,B
+The Sacramento Bee,45,Sacramento,CA,1997,B
+The San Bernardino County Sun,46,San Bernardino,CA,1997,D
+The San Diego Union-Tribune,48,San Diego,CA,1997,B
+San Francisco Examiner,49,San Francisco,CA,2013,C
+The Examiner.San Francisco,49,San Francisco,CA,2013,C
+San Francisco Chronicle,50,San Francisco,CA,1997,B
+San Jose Mercury News,51,San Jose,CA,1997,B
+The San Mateo County Times,53,San Mateo,CA,1998,E
+Marin Independent Journal,55,Novato,CA,2008,E
+Santa Barbara News-Press,56,Santa Barbara,CA,1997,E
+The Santa Monica Outlook,57,Torrance,CA,1994,E
+The Press Democrat,58,Santa Rosa,CA,1994,D
+The Union Democrat,59,Sonora,CA,1998,F
+Copley Los Angeles Newspapers,60,Torrance,CA,1998,D
+Daily Breeze,60,Torrance,CA,1998,D
+Daily News,61,Woodland Hills,CA,1998,C
+Los Angeles Daily News,61,Woodland Hills,CA,1998,C
+The Star-Free Press,62,Ventura,CA,1995,C
+Ventura County Newspapers,62,Ventura,CA,1996,E
+Ventura County Star,62,Ventura,CA,1996,E
+Register-Pajaronian,63,Watsonville,CA,2005,G
+Daily Camera,65,Boulder,CO,1997,E
+The Denver  Post,67,Denver,CO,1995,B
+The Denver Post,67,Denver,CO,1995,B
+Denver Rocky Mountain News,68,Denver,CO,2000,B
+Daily Times-Call,69,Longmont,CO,2003,F
+The Chieftain,70,Pueblo,CO,1998,D
+The Pueblo Chieftain,70,Pueblo,CO,1998,D
+Connecticut Post,73,Bridgeport,CT,1997,D
+The News Times,74,Danbury,CT,1996,E
+Greenwich Time,75,Greenwich,CT,1997,F
+Hartford Courant,76,Hartford,CT,1999,C
+Record-Journal,77,Meriden,CT,1997,E
+The Middletown Press,79,Middletown,CT,1999,F
+The Herald,80,New Britain,CT,1994,E
+New Haven Register,81,New Haven,CT,1998,C
+The Advocate,83,Stamford,CT,1998,E
+The Advocate and Greenwich Time,83,Stamford,CT,1998,E
+The Chronicle,84,Willimantic,CT,1994,F
+Delaware State News,85,Dover,DE,1998,F
+The News Journal,86,Wilmington,DE,1994,C
+The Washington Post,88,Washington,DC,1994,A
+The Daytona Beach News-Journal,91,Daytona Beach,FL,2002,C
+The Gainesville Sun,93,Gainesville,FL,1997,D
+The Times,94,Gainesville,GA,1994,F
+The Florida Times-Union,96,Jacksonville,FL,1994,C
+The Ledger,98,Lakeland,FL,1994,D
+The Herald,99,Miami,FL,1997,B
+The Miami Herald,99,Miami,FL,1997,B
+The Orlando Sentinel,101,Orlando,FL,1997,B
+South Florida Sun-Sentinel,104,Fort Lauderdale,FL,2001,B
+Sarasota Herald-Tribune,105,Sarasota,FL,1997,C
+St. Petersburg Times,108,St. Petersburg,FL,2012,B
+Tampa Bay Times,108,St. Petersburg,FL,2012,B
+Scripps Treasure Coast Newspapers,109,Stuart,FL,2003,D
+Tallahassee Democrat,110,Tallahassee,FL,1997,D
+The Tampa Tribune,111,Tampa,FL,1997,B
+The Palm Beach Post,112,West Palm Beach,FL,1997,C
+The Atlanta Journal and The Atlanta Constitution,115,Atlanta,GA,2001,B
+The Atlanta Journal-Constitution,115,Atlanta,GA,2001,B
+Columbus Ledger-Enquirer,118,Columbus,GA,1997,D
+The Macon Telegraph,121,Macon,GA,1997,D
+Savannah Morning News,122,Savannah,GA,1997,D
+Hawaii Tribune-Herald,124,Hilo,HI,1998,F
+Honolulu Advertiser,125,Honolulu,HI,1998,C
+The Honolulu Advertiser,125,Honolulu,HI,1998,C
+Honolulu Star-Advertiser,126,Honolulu,HI,2012,C
+Lewiston Morning Tribune,127,Lewiston,ID,2008,F
+Lewiston Tribune,127,Lewiston,ID,2008,F
+The Telegraph,128,Alton,IL,1994,E
+Daily Herald,129,Arlington Heights,IL,1997,C
+The Beacon-News,130,Aurora,IL,1996,E
+The Pantagraph,131,Bloomington,IL,1995,D
+Southern Illinoisan,132,Carbondale,IL,1998,E
+Chicago Sun-Times,134,Chicago,IL,2006,B
+Chicago Tribune,135,Chicago,IL,1997,A
+Commercial-News,136,Danville,IL,1998,F
+The Register-Mail,137,Galesburg,IL,1994,F
+The Daily Journal,138,Kankakee,IL,1994,E
+Dispatch and Rock Island Argus,139,Moline,IL,1995,E
+The Dispatch and Rock Island Argus,139,Moline,IL,1998,E
+The Dispatch and The Rock Island Argus,139,Moline,IL,1998,E
+Journal Star,140,Peoria,IL,1997,D
+Quincy Herald-Whig,141,Quincy,IL,2014,F
+The State Journal-Register,142,Springfield,IL,1994,D
+The News-Sun,143,Waukegan,IL,1996,E
+The Republic,144,Columbus,IN,1994,F
+The Elkhart Truth,145,Elkhart,IN,1997,E
+Evansville Courier & Press,146,Evansville,IN,2005,D
+The Journal Gazette,147,Fort Wayne,IN,1996,D
+The News-Sentinel,148,Fort Wayne,IN,1994,D
+Post-Tribune,149,Gary,IN,1999,D
+The Post-Tribune of Northwest Indiana,149,Gary,IN,1999,D
+The Times,150,Munster,IN,2006,D
+The Times of Northwest Indiana,150,Munster,IN,2006,D
+The News,151,Indianapolis,IN,1994,C
+The Indianapolis Star,152,Indianapolis,IN,2000,B
+Kokomo Tribune,153,Kokomo,IN,1998,F
+The Star,154,Muncie,IN,1997,E
+The Star Press,154,Muncie,IN,1997,E
+The Courier-Times,155,New Castle,IN,1996,F
+The Tribune-Star,157,Terre Haute,IN,1998,E
+Tribune-Star,157,Terre Haute,IN,1998,E
+The Hawk Eye,159,Burlington,IA,1994,F
+The Gazette,160,Cedar Rapids,IA,1994,D
+Quad-City Times,161,Davenport,IA,1998,D
+The Des Moines Register,163,Des Moines,IA,1997,C
+Marshalltown Times-Republican,165,Marshalltown,IA,1997,F
+The Courier,166,Waterloo,IA,1998,E
+Waterloo Courier,166,Waterloo,IA,2000,E
+Waterloo-Cedar Falls Courier,166,Waterloo,IA,2000,E
+The Coffeyville Journal,167,Coffeyville,KS,1998,G
+The Emporia Gazette,168,Emporia,KS,1997,F
+The Hutchinson News,169,Hutchinson,KS,1998,E
+Lawrence Journal-World,170,Lawrence,KS,2000,F
+The Manhattan Mercury,171,Manhattan,KS,1997,F
+The Daily News,172,Olathe,KS,1999,G
+The Olathe Daily News,172,Olathe,KS,1999,G
+The Herald,173,Ottawa,KS,1998,G
+The Ottawa Herald,173,Ottawa,KS,1998,G
+Parsons Sun,174,Parsons,KS,1997,G
+The Capital-Journal,176,Topeka,KS,1997,D
+The Topeka Capital-Journal,176,Topeka,KS,1997,D
+The Eagle,177,Wichita,KS,1997,C
+The Wichita Eagle,177,Wichita,KS,1997,C
+The Kentucky Post,179,Covington,KY,1994,E
+KyPost.com,179,Cincinnati,OH,2010,O
+Lexington Herald-Leader,181,Lexington,KY,1997,C
+The Courier-Journal,183,Louisville,KY,1994,C
+Borger News-Herald,184,Borger,TX,2002,H
+Messenger Inquirer,185,Owensboro,KY,2001,E
+The Paducah Sun,187,Paducah,KY,1998,E
+Alexandria Daily Town Talk,188,Alexandria,LA,2005,E
+The Town Talk,188,Alexandria,LA,2005,E
+American Press,189,Lake Charles,LA,2000,E
+The News-Star,190,Monroe,LA,1994,E
+The Times-Picayune,192,New Orleans,LA,1994,B
+The Times,194,Shreveport,LA,1994,D
+Bangor Daily News,196,Bangor,ME,1997,D
+The Capital,197,Annapolis,MD,1994,E
+The Sun,199,Baltimore,MD,1994,B
+Daily Mail and Morning Herald,200,Hagerstown,MD,1996,E
+The Herald Mail,200,Hagerstown,MD,1998,E
+The Herald-Mail,200,Hagerstown,MD,1998,E
+The Daily Mail/Morning Herald,201,Hagerstown,MD,1994,E
+The Boston Globe,202,Boston,MA,1997,A
+Boston Herald,203,Boston,MA,1997,B
+The Christian Science Monitor,204,Boston,MA,1994,C
+Gloucester Daily Times,205,Gloucester,MA,2012,G
+Cape Cod Times,207,Hyannis,MA,1997,E
+The Sun,208,Lowell,MA,1994,D
+The Daily News,210,Newburyport,MA,1998,F
+The Daily News of Newburyport,210,Newburyport,MA,1998,F
+North Adams Transcript,211,North Adams,MA,1998,G
+The Patriot Ledger,212,Quincy,MA,2013,E
+The Patriot Ledger/The Enterprise,212,Quincy,MA,2013,E
+The Evening News,213,Salem,MA,1998,E
+The Salem Evening News,213,Salem,MA,1998,E
+The Salem Evening News,213,Beverly,MA,2003,E
+The Salem News,213,Beverly,MA,2003,E
+The News,214,Southbridge,MA,2001,G
+The Southbridge Evening News,214,Southbridge,MA,2001,G
+The Republican,216,Springfield,MA,2004,D
+The Waltham News-Tribune,218,Waltham,MA,1997,G
+Waltham News-Tribune,218,Waltham,MA,1997,G
+Telegram & Gazette,219,Worcester,MA,1998,C
+The Ann Arbor News,221,Ann Arbor,MI,1997,D
+Battle Creek Enquirer,222,Battle Creek,MI,1998,E
+The Bay City Times,224,Bay City,MI,1997,E
+Detroit Free Press,225,Detroit,MI,1997,A
+The Detroit News,226,Detroit,MI,1997,B
+The Flint Journal,227,Flint,MI,1997,C
+The Grand Rapids Press,228,Grand Rapids,MI,1997,C
+The Holland Sentinel,229,Holland,MI,1997,F
+The Citizen Patriot,230,Jackson,MI,2000,E
+The Jackson Citizen Patriot,230,Jackson,MI,2000,E
+Kalamazoo Gazette,231,Kalamazoo,MI,1997,D
+The Monroe Evening News,232,Monroe,MI,1998,F
+The Chronicle,233,Muskegon,MI,1997,E
+The Muskegon Chronicle,233,Muskegon,MI,1997,E
+The Oakland Press,234,Pontiac,MI,1994,D
+The Record-Eagle,235,Traverse City,MI,1998,E
+Traverse City Record-Eagle,235,Traverse City,MI,1998,E
+Duluth News Tribune,236,Duluth,MN,2003,E
+The Free Press,238,Mankato,MN,1994,E
+Minneapolis Star Tribune,240,Minneapolis,MN,2013,B
+Post-Bulletin,242,Rochester,MN,1998,E
+Saint Paul Pioneer Press,243,St. Paul,MN,2002,C
+St. Paul Pioneer Press,243,St. Paul,MN,2002,C
+The Daily News,245,Winona,MN,1998,F
+Winona Daily News,245,Winona,MN,1998,F
+The Sun Herald,247,Biloxi,MS,1994,E
+The Commonwealth,248,Greenwood,MS,1997,G
+The Greenwood Commonwealth,248,Greenwood,MS,1997,G
+The Clarion-Ledger,249,Jackson,MS,1994,C
+Enterprise-Journal,251,McComb,MS,1997,F
+The Natchez Democrat,252,Natchez,MS,1998,F
+Columbia Daily Tribune,253,Columbia,MO,1998,F
+The Globe,254,Joplin,MO,2000,E
+The Joplin Globe,254,Joplin,MO,2000,E
+The Kansas City Star,255,Kansas City,MO,1997,B
+Mexico Ledger,257,Mexico,MO,2001,G
+Springfield News-Leader,258,Springfield,MO,1997,D
+St. Joseph News-Press,260,St. Joseph,MO,1997,E
+St. Louis Post Dispatch,263,St. Louis,MO,2014,B
+Billings Gazette,265,Billings,MT,1999,D
+Great Falls Tribune,266,Great Falls,MT,1998,E
+Livingston Enterprise,267,Livingston,MT,2005,H
+The Livingston Enterprise,267,Livingston,MT,2005,H
+Missoulian,268,Missoula,MT,1998,E
+Lincoln Journal Star,270,Lincoln,NE,1997,E
+Omaha World-Herald,271,Omaha,NE,1997,C
+Star-Herald,272,Scottsbluff,NE,1998,F
+Las Vegas Review-Journal,273,Las Vegas,NV,2011,C
+Reno Gazette-Journal,275,Reno,NV,1997,D
+Concord Monitor,276,Concord,NH,1997,F
+The Keene Sentinel,277,Keene,NH,1998,F
+The Valley News,278,White River Junction,VT,2001,F
+Valley News,278,White River Junction,VT,2001,F
+The Press,279,Pleasantville,NJ,1997,D
+The Press of Atlantic City,279,Pleasantville,NJ,1997,D
+Courier News,280,Bridgewater,NJ,2003,E
+Courier News,280,Somerville,NJ,2010,E
+The Courier News,280,Somerville,NJ,2010,E
+The Record,282,Hackensack,NJ,2006,C
+The Record and Herald News,282,Hackensack,NJ,2006,C
+The Jersey Journal,283,Jersey City,NJ,1994,D
+The Star-Ledger,284,Newark,NJ,1994,B
+Home News Tribune,285,East Brunswick,NJ,1998,D
+Herald News,286,West Paterson,NJ,2003,E
+The Trentonian,288,Trenton,NJ,1995,D
+The Daily Journal,289,Vineland,NJ,1994,F
+Albuquerque Journal,290,Albuquerque,NM,1997,C
+New York Post,291,New York,NY,1997,B
+The New York Times,292,New York,NY,1997,A
+The Wall Street Journal,293,New York,NY,1994,A
+Oneonta Daily Star,294,Oneonta,NY,1997,F
+Democrat and Chronicle,295,Rochester,NY,1999,C
+Rochester Democrat and Chronicle,295,Rochester,NY,1999,C
+The Daily Gazette,296,Schenectady,NY,2010,E
+The Post-Standard,297,Syracuse,NY,2003,C
+Syracuse Newspapers,298,Syracuse,NY,1995,C
+Observer-Dispatch,299,Utica,NY,1997,D
+Watertown Daily Times/The Journal and Courier-Obse,301,Watertown,NY,2012,F
+Watertown Daily Times/The Journal and Courier-Observer,301,Watertown,NY,2012,F
+Gannett Suburban Newspapers,302,White Plains,NY,1999,C
+The Journal News,302,White Plains,NY,1999,C
+Asheville Citizen-Times,303,Asheville,NC,1997,D
+The Daily Times-News,305,Burlington,NC,1998,E
+Times-News,305,Burlington,NC,1998,E
+The  Observer,306,Charlotte,NC,1997,C
+The Charlotte Observer,306,Charlotte,NC,1997,C
+Fayetteville Observer-Times,308,Fayetteville,NC,2000,D
+News & Record,309,Greensboro,NC,1997,C
+Henderson Daily Dispatch,311,Henderson,NC,2002,G
+The Times-News,312,Hendersonville,NC,1997,F
+Times-News,312,Hendersonville,NC,1997,F
+High Point Enterprise,313,High Point,NC,1997,E
+The News Herald,314,Morganton,NC,1995,F
+The News & Observer,315,Raleigh,NC,1994,C
+The Shelby Star,318,Shelby,NC,1998,F
+The Daily News,319,Washington,NC,1998,F
+Washington Daily News,319,Washington,NC,1998,F
+Morning Star,320,Wilmington,NC,2002,D
+Star-News,320,Wilmington,NC,2013,E
+StarNews Media,320,Wilmington,NC,2013,E
+The Daily Times,322,Wilson,NC,1997,F
+The Wilson Daily Times,322,Wilson,NC,2013,F
+The Wilson Times,322,Wilson,NC,2013,F
+The Bismarck Tribune,323,Bismarck,ND,1998,E
+The Forum,324,Fargo,ND,1994,D
+Grand Forks Herald,325,Grand Forks,ND,1997,E
+Akron Beacon Journal,326,Akron,OH,1997,C
+The Repository,327,Canton,OH,1994,D
+The Cincinnati Enquirer,328,Cincinnati,OH,1997,C
+The Cincinnati Post and The Kentucky Post,329,Cincinnati,OH,2002,D
+The Plain Dealer,330,Cleveland,OH,1994,B
+Dayton Daily News,334,Dayton,OH,1997,C
+The Chronicle Telegram,336,Elyria,OH,2001,E
+Journal-News,337,Hamilton,OH,2014,F
+JournalNews & Middletown Journal,337,Hamilton,OH,2014,F
+The Journal,338,Lorain,OH,1997,E
+The Morning Journal,338,Lorain,OH,1997,E
+Record-Courier,339,Ravenna,OH,1997,F
+The Advocate,340,Newark,OH,1996,F
+Norwalk Reflector,341,Norwalk,OH,1998,G
+The Blade,342,Toledo,OH,1997,C
+The Blade and Pittsburgh Post-Gazette,342,Toledo,OH,1997,C
+The Daily News,343,Troy,OH,2004,G
+The Troy Daily News,343,Troy,OH,2004,G
+The Daily Record,344,Wooster,OH,1994,E
+The Banner,345,Duncan,OK,1998,G
+The Duncan Banner,345,Duncan,OK,1998,G
+The Shawnee News-Star,346,Shawnee,OK,2000,F
+The World,347,Tulsa,OK,1997,C
+Tulsa World,347,Tulsa,OK,1997,C
+Albany Democrat-Herald,349,Albany,OR,1998,F
+The Bulletin,350,Bend,OR,1994,F
+Corvallis Gazette-Times,351,Corvallis,OR,1998,F
+The Register-Guard,352,Eugene,OR,1994,D
+The Observer,353,La Grande,OR,1994,G
+Mail Tribune,354,Medford,OR,2011,E
+Mail Tribune/Ashland Daily Tidings,354,Medford,OR,2011,E
+East Oregonian,355,Pendleton,OR,1998,F
+The Oregonian,357,Portland,OR,1994,B
+Sarasota Herald Tribune,358,Sarasota,FL,2014,E
+The Progress,362,Clearfield,PA,1998,F
+The Express-Times,363,Easton,PA,1994,D
+Erie Times-News,364,Erie,PA,2001,D
+The News,365,Erie,PA,1994,D
+The Patriot and Evening News,366,Harrisburg,PA,1995,C
+The Patriot-News,366,Harrisburg,PA,1995,C
+Standard-Speaker,368,Hazleton,PA,1998,F
+The Tribune-Democrat,369,Johnstown,PA,1994,E
+Lancaster New Era,370,Lancaster,PA,2001,E
+Intelligencer Journal,371,Lancaster,PA,2010,E
+Intelligencer Journal/Lancaster New Era,371,Lancaster,PA,2010,E
+Bucks County Courier Times,372,Levittown,PA,1997,D
+The Derrick and The News-Herald,373,Oil City,PA,2010,F
+The Inquirer,375,Philadelphia,PA,1997,A
+Philadelphia Daily News,376,Philadelphia,PA,1997,C
+Pittsburgh Post-Gazette,377,Pittsburgh,PA,1997,C
+Reading Eagle,380,Reading,PA,2003,D
+The Scranton Times and The Tribune,381,Scranton,PA,1997,D
+The Herald,382,Sharon,PA,1994,E
+Centre Daily Times,383,State College,PA,1997,E
+The Daily Item,384,Sunbury,PA,1994,E
+The Valley News Dispatch/North Hills News Record,385,Tarentum,PA,1998,E
+Valley News Dispatch,385,Tarentum,PA,1998,E
+The Times Leader,386,Wilkes-Barre,PA,2001,E
+Times Leader,386,Wilkes-Barre,PA,2001,E
+The Citizens' Voice,387,Wilkes-Barre,PA,1994,E
+Williamsport Sun-Gazette,388,Williamsport,PA,1999,E
+Providence Journal-Bulletin,389,Providence,RI,1999,C
+The Providence Journal,389,Providence,RI,1999,C
+The Kent County Daily Times,391,West Warwick,RI,1996,G
+The Call,392,Woonsocket,RI,1995,E
+Anderson Independent-Mail,393,Anderson,SC,1997,E
+The Post and Courier,394,Charleston,SC,1994,C
+The State,398,Columbia,SC,1994,C
+Florence Morning News,399,Florence,SC,2000,E
+Morning News,399,Florence,SC,2000,E
+The Greenville News,401,Greenville,SC,1997,D
+The Item,403,Sumter,SC,1994,F
+Rapid City Journal,404,Rapid City,SD,1998,E
+Argus Leader,405,Sioux Falls,SD,1997,E
+The Leaf-Chronicle,407,Clarksville,TN,1994,F
+The Sun,408,Greeneville,TN,1996,F
+The Jackson Sun,409,Jackson,TN,1998,E
+Johnson City Press,410,Johnson City,TN,1997,E
+The Times-News,411,Kingsport,TN,1996,E
+Knoxville News-Sentinel,413,Knoxville,TN,2007,C
+The Knoxville News Sentinel,413,Knoxville,TN,2007,C
+The Commercial Appeal,415,Memphis,TN,1994,C
+The Banner,416,Nashville,TN,1995,D
+The Tennessean,417,Nashville,TN,1994,C
+The Oak Ridger,418,Oak Ridge,TN,1994,F
+Abilene Reporter-News,419,Abilene,TX,1998,E
+Amarillo Daily News and Amarillo Globe-Times,420,Amarillo,TX,2002,D
+Amarillo Globe-News,420,Amarillo,TX,2002,D
+Austin American-Statesman,422,Austin,TX,2013,C
+Austin-American Statesman,422,Austin,TX,2013,C
+Beaumont Enterprise,424,Beaumont,TX,2006,D
+The Beaumont Enterprise,424,Beaumont,TX,2006,D
+Corpus Christi Caller-Times,425,Corpus Christi,TX,1998,D
+The Dallas Morning News,427,Dallas,TX,1997,B
+El Paso Herald-Post,429,El Paso,TX,1997,F
+Fort Worth Star-Telegram,431,Fort Worth,TX,1997,C
+Houston Chronicle,432,Houston,TX,1997,B
+The Post,433,Houston,TX,1994,B
+Kerrville Daily Times,434,Kerrville,TX,1998,G
+Lubbock Avalanche-Journal,435,Lubbock,TX,1997,D
+Palestine Herald-Press,436,Palestine,TX,1998,G
+San Antonio Express-News,439,San Antonio,TX,1997,C
+Temple Daily Telegram,441,Temple,TX,1997,F
+The Tribune-Herald,442,Waco,TX,1997,E
+Waco Tribune-Herald,442,Waco,TX,1997,E
+The Times Record News,444,Wichita Falls,TX,1998,E
+Times Record News,444,Wichita Falls,TX,1998,E
+Deseret Morning News,446,Salt Lake City,UT,2004,D
+Salt Lake Tribune,447,Salt Lake City,UT,1997,C
+The Burlington Free Press,448,Burlington,VT,1998,D
+The Free Lance-Star,451,Fredericksburg,VA,1994,E
+Daily News-Record,452,Harrisonburg,VA,2000,E
+The Virginian-Pilot,455,Norfolk,VA,1998,C
+Richmond Times-Dispatch,456,Richmond,VA,1997,C
+The Roanoke Times,457,Roanoke,VA,1997,C
+The Bellingham Herald,458,Bellingham,WA,2000,E
+Kitsap Sun,459,Bremerton,WA,2006,E
+The Chronicle,460,Centralia,WA,2006,F
+Herald,461,Everett,WA,2004,D
+The Daily News,462,Longview,WA,1994,F
+The Tri-City Herald,463,Tri-Cities,WA,2001,E
+Tri-City Herald,463,Tri-Cities,WA,2001,E
+Seattle Post-Intelligencer,464,Seattle,WA,2010,O
+SeattlePI.com,464,Seattle,WA,2010,O
+The Seattle Times,465,Seattle,WA,1997,C
+The Spokesman-Review,466,Spokane,WA,1994,C
+The News Tribune,467,Tacoma,WA,1994,C
+The Columbian,468,Vancouver,WA,1994,D
+The Wenatchee World,469,Wenatchee,WA,1997,E
+The Herald-Republic,470,Yakima,WA,1998,E
+Yakima Herald-Republic,470,Yakima,WA,1998,E
+The Charleston Gazette,471,Charleston,WV,2006,E
+The News-Register,472,Wheeling,WV,1999,F
+Wheeling News-Register,472,Wheeling,WV,1999,F
+The Post-Crescent,473,Appleton,WI,1994,D
+The Chippewa Herald,474,Chippewa Falls,WI,1998,G
+Green Bay Press Gazette,475,Green Bay,WI,2000,D
+Green Bay Press-Gazette,475,Green Bay,WI,2000,D
+Kenosha News,476,Kenosha,WI,1997,E
+The Capital Times,477,Madison,WI,1994,F
+The Wisconsin State Journal,478,Madison,WI,1997,D
+Wisconsin State Journal,478,Madison,WI,1997,D
+Milwaukee Journal Sentinel,479,Milwaukee,WI,1997,B
+The Sentinel,480,Milwaukee,WI,1994,C
+The Press,481,Sheboygan,WI,1999,E
+The Sheboygan Press,481,Sheboygan,WI,1999,E
+Daily Boomerang,483,Laramie,WY,1999,G
+The Albuquerque Tribune,485,Albuquerque,NM,1998,E
+The New Mexican,486,Santa Fe,NM,1998,F
+The Santa Fe New Mexican,486,Santa Fe,NM,1998,F
+The Times Union,487,Albany,NY,1997,C
+Times Union,487,Albany,NY,1997,C
+Press & Sun-Bulletin,489,Binghamton,NY,1998,D
+The Buffalo News,491,Buffalo,NY,2001,C
+Messenger Post Newspapers,492,Canandaigua,NY,2009,F
+Star-Gazette,493,Elmira,NY,1998,E
+Newsday,494,Melville,NY,1994,A
+Daily News,495,New York,NY,2013,A
+New York Daily News,495,New York,NY,2013,A
+The News Courier,496,Athens,AL,1999,G
+The News-Courier,496,Athens,AL,1999,G
+The Cullman Times,497,Cullman,AL,2004,F
+Dothan Eagle,498,Dothan,AL,2006,E
+Enterprise Ledger,499,Enterprise,AL,1998,G
+The Times Daily,500,Florence,AL,1995,E
+The TimesDaily,500,Florence,AL,1997,E
+TimesDaily,500,Florence,AL,1997,E
+Gadsden Times,501,Gadsden,AL,1999,E
+The Gadsden Times,501,Gadsden,AL,1999,E
+The News,502,Huntsville,AL,1995,F
+The Daily Mountain Eagle,503,Jasper,AL,1999,F
+The Valley Times-News,504,Lanett,AL,1998,G
+Valley Times-News,504,Lanett,AL,1998,G
+Mobile Register,506,Mobile,AL,2007,D
+Press-Register,506,Mobile,AL,2007,D
+Opelika-Auburn News,507,Opelika,AL,1998,F
+The Daily Sentinel,508,Scottsboro,AL,1997,G
+The Selma Times-Journal,509,Selma,AL,1998,G
+The Daily Home,510,Talladega,AL,1994,G
+The Messenger,511,Troy,AL,1994,H
+Fairbanks Daily News-Miner,512,Fairbanks,AK,1997,F
+Juneau Empire,513,Juneau,AK,2000,G
+The Daily Mirror,514,Kodiak,AK,1998,H
+The Kodiak Daily Mirror,514,Kodiak,AK,1998,H
+The Daily Sentinel,515,Sitka,AK,1998,H
+The Daily Sitka Sentinel,515,Sitka,AK,1998,H
+Casa Grande Dispatch,517,Casa Grande,AZ,1998,G
+The Daily Dispatch,518,Douglas,AZ,1994,H
+Arizona Daily Sun,519,Flagstaff,AZ,1997,F
+The Daily Miner,520,Kingman,AZ,1998,G
+The Kingman Daily Miner,520,Kingman,AZ,1998,G
+Cox Arizona Publications,521,Mesa,AZ,1997,D
+Cox Arizona Publications,521,Tempe,AZ,2014,D2
+East Valley Tribune,521,Tempe,AZ,2014,D2
+The Courier,523,Prescott,AZ,2001,F
+The Daily Courier,523,Prescott,AZ,2001,F
+Herald and Bisbee Daily Review,524,Sierra Vista,AZ,1998,F
+Sierra Vista Herald and Bisbee Review,524,Sierra Vista,AZ,2005,F
+Sierra Vista Herald/Bisbee Daily Review,524,Sierra Vista,AZ,2005,F
+The Tempe Daily News-Tribune,525,Mesa,AZ,1994,F
+Arkadelphia Daily Siftings Herald,526,Arkadelphia,AR,2008,H
+Batesville Daily Guard,527,Batesville,AR,1998,G
+The Benton Courier,528,Benton,AR,1998,G
+Blytheville Courier News,529,Blytheville,AR,1999,H
+Log Cabin Democrat,530,Conway,AR,1999,F
+The Daily Citizen,531,De Queen,AR,1994,H
+The News-Times,532,El Dorado,AR,1994,F
+Northwest Arkansas Times,533,Fayetteville,AR,1998,F
+Times-Herald,534,Forrest City,AR,2004,H
+Harrison Daily Times,535,Harrison,AR,2004,G
+The Daily World,536,Helena,AR,1994,G
+Hope Star,537,Hope,AR,1998,H
+The Sentinel-Record,538,Hot Springs,AR,1994,F
+The Jonesboro Sun,540,Jonesboro,AR,2001,E
+Banner-News,541,Magnolia,AR,1999,H
+Malvern Daily Record,542,Malvern,AR,2004,G
+Newport Daily Independent,544,Newport,AR,1998,H
+Pine Bluff Commercial,546,Pine Bluff,AR,1997,F
+The Courier,548,Russellville,AR,1997,F
+The Daily Citizen,549,Searcy,AR,1994,G
+Morning News of Northwest Arkansas,550,Springdale,AR,2010,E
+Northwest Arkansas Newspapers LLC,550,Springdale,AR,2010,E
+Stuttgart Daily Leader,551,Stuttgart,AR,2008,H
+Evening Times,552,West Memphis,AR,2000,G
+The Times Star,553,Alameda,CA,1994,G
+The Daily Ledger-Post Dispatch,555,Antioch,CA,1994,F
+The Record-Gazette,556,Banning,CA,1995,H
+Desert Dispatch,557,Barstow,CA,1998,G
+The Davis Enterprise,564,Davis,CA,1998,F
+The Daily Californian,567,El Cajon,CA,1994,F
+Imperial Valley Press,568,El Centro,CA,1998,F
+Times-Standard,569,Eureka,CA,1998,F
+Daily Republic,570,Fairfield,CA,1998,F
+Fremont Argus,572,Fremont,CA,1999,E
+The Union,575,Grass Valley,CA,1994,F
+The Hanford Sentinel,576,Hanford,CA,1999,F
+The Daily Review,577,Hayward,CA,1994,E
+The Hemet News,578,Hemet,CA,1998,F
+Free Lance,579,Hollister,CA,1998,H
+The Tri Valley Herald,583,Pleasanton,CA,1999,E
+Tri- Valley Herald,583,Pleasanton,CA,2003,E
+Tri-Valley Herald,583,Pleasanton,CA,2003,E
+The Valley Times,584,Pleasanton,CA,1994,E
+Lodi News-Sentinel,585,Lodi,CA,1998,F
+The Lompoc Record,586,Lompoc,CA,1998,G
+Madera Tribune,587,Madera,CA,1998,G
+Appeal-Democrat,589,Marysville,CA,1998,F
+Merced Sun-Star,590,Merced,CA,1998,F
+Napa Valley Register,591,Napa,CA,2004,F
+The Napa Valley Register,591,Napa,CA,2004,F
+The Mercury Register,594,Oroville,CA,1996,G
+The Press-Courier,595,Oxnard,CA,1994,F
+The Desert Sun,596,Palm Springs,CA,1994,E
+The Daily Press,599,Paso Robles,CA,1994,G
+Recorder,602,Porterville,CA,1999,F
+The Porterville Recorder,602,Porterville,CA,1999,F
+Daily News,603,Red Bluff,CA,1998,G
+Record Searchlight,604,Redding,CA,1997,E
+Redlands Daily Facts,605,Redlands,CA,1998,G
+The Daily Independent,607,Ridgecrest,CA,1994,G
+The Californian,609,Salinas,CA,2005,F
+The Salinas Californian,609,Salinas,CA,2005,F
+The Daily Sun-Post,610,San Clemente,CA,1995,G
+The Sun Post News,610,San Clemente,CA,1995,G
+San Diego Daily Transcript,611,San Diego,CA,1998,G
+San Gabriel Valley Newspaper Group,612,West Covina,CA,1997,C
+San Luis Obispo County Telegram-Tribune,613,San Luis Obispo,CA,2002,E
+The Tribune,613,San Luis Obispo,CA,2002,E
+The San Pedro News-Pilot,614,Torrance,CA,1994,F
+The Orange County Register,615,Santa Ana,CA,1994,B
+Santa Cruz County Sentinel,616,Santa Cruz,CA,2001,E
+Santa Cruz Sentinel,616,Santa Cruz,CA,2001,E
+Santa Maria Times,617,Santa Maria,CA,2014,F
+Santa Maria Times/Lompoc Record,617,Santa Maria,CA,2014,F
+Tahoe Daily Tribune,619,South Lake Tahoe,CA,1998,G
+The Record,620,Stockton,CA,1994,D
+Daily Midway Driller,621,Taft,CA,2001,H
+The News-Chronicle,622,Thousand Oaks,CA,1994,F
+Tulare Advance-Register,623,Tulare,CA,1998,G
+The Journal,624,Turlock,CA,1998,G
+Turlock Journal,624,Turlock,CA,1998,G
+The Daily Journal,625,Ukiah,CA,1998,G
+Ukiah Daily Journal,625,Ukiah,CA,1998,G
+The Times-Herald,626,Vallejo,CA,1998,F
+Times-Herald,626,Vallejo,CA,1998,F
+The Daily Press,627,Victorville,CA,1994,E
+Times-Delta,628,Visalia,CA,2004,E
+Times-Delta and Tulare Advance-Register,628,Visalia,CA,2004,E
+The Times-Delta,628,Visalia,CA,1998,F
+"Bay Area News Group, East Bay",630,Walnut Creek,CA,2010,C
+The Daily Democrat,632,Woodland,CA,1994,F
+Siskiyou Daily News,633,Yreka,CA,1998,G
+Valley Courier,634,Alamosa,CO,2002,G
+Daily Record,635,Canon City,CO,1997,G
+Craig Daily Press,637,Craig,CO,2006,H
+The Durango Herald,638,Durango,CO,1998,G
+Fort Collins Coloradoan,639,Fort Collins,CO,1997,E
+El Paso Times,639,El Paso,TX,2012,F
+Coloradoan,639,Fort Collins,CO,2013,F
+The Fort Morgan Times,640,Fort Morgan,CO,1998,G
+Glenwood Post,641,Glenwood Springs,CO,2003,G
+Glenwood Springs Post Independent,641,Glenwood Springs,CO,2006,G
+Post Independent,641,Glenwood Springs,CO,2006,G
+Journal-Advocate,643,Sterling,CO,2003,G
+The Journal-Advocate,643,Sterling,CO,2003,G
+The Daily Sentinel,644,Grand Junction,CO,1994,E
+Greeley Tribune,645,Greeley,CO,2000,F
+La Junta Tribune Democrat,647,La Junta,CO,2008,H
+The Daily News,648,Lamar,CO,1998,H
+The Lamar Daily News,648,Lamar,CO,1998,H
+Loveland Daily Reporter-Herald,650,Loveland,CO,2000,F
+The Daily Press,651,Montrose,CO,1998,G
+The Montrose Daily Press,651,Montrose,CO,1998,G
+Rocky Ford Daily Gazette,652,Rocky Ford,CO,1998,H
+The Mountain Mail,653,Salida,CO,1995,H
+The Chronicle-News,654,Trinidad,CO,2002,H
+The Bristol Press,656,Bristol,CT,2014,G
+The Bristol Press/New Britain Herald,656,Bristol,CT,2014,G
+The Citizen,660,Milford,CT,1995,G
+The Daily News,661,Naugatuck,CT,1995,H
+The Day,662,New London,CT,1994,E
+The Hour,663,Norwalk,CT,1994,F
+Norwich Bulletin,664,Norwich,CT,1998,E
+The Register Citizen,665,Torrington,CT,1995,F
+Republican-American,666,Waterbury,CT,2006,D
+Boca Raton News,669,Boca Raton,FL,1998,F
+Bradenton Herald,670,Bradenton,FL,1998,E
+Cape Coral Daily Breeze,671,Cape Coral,FL,2006,H
+Florida Today,673,Melbourne,FL,1994,D
+News-Press,675,Fort Myers,FL,1997,D
+The Tribune,676,Fort Pierce,FL,1994,E
+Northwest Florida Daily News,677,Fort Walton Beach,FL,1997,E
+The Citizen,679,Key West,FL,1998,G
+The Key West Citizen,679,Key West,FL,1998,G
+Lake City Reporter,681,Lake City,FL,1998,G
+The Daily Commercial,683,Leesburg,FL,1994,E
+Jackson County Floridan,684,Marianna,FL,2000,G
+Naples Daily News,686,Naples,FL,1997,E
+Ocala Star-Banner,687,Ocala,FL,1997,E
+Clay Today,688,Orange Park,FL,1996,H
+Daily News,689,Palatka,FL,2000,F
+Palm Beach Daily News,690,Palm Beach,FL,1997,G
+The News Herald,691,Panama City,FL,1999,E
+The Record,693,St. Augustine,FL,1998,F
+The St. Augustine Record,693,St. Augustine,FL,1998,F
+Seminole Herald,694,Sanford,FL,1998,H
+News Chief,695,Winter Haven,FL,2002,F
+The Albany Herald,696,Albany,GA,1997,E
+Americus Times-Recorder,697,Americus,GA,1998,G
+Athens Banner-Herald,699,Athens,GA,2003,E
+The Brunswick News,700,Brunswick,GA,2000,F
+The Daily Tribune News,701,Cartersville,GA,1994,G
+Elgin Courier News,702,Aurora,IL,2013,G
+Cordele Dispatch,703,Cordele,GA,2001,H
+The Daily Citizen,704,Dalton,GA,2002,F
+The Courier Herald,705,Dublin,GA,1995,F
+Griffin Daily News,707,Griffin,GA,2000,F
+Clayton News Daily/Henry Daily Herald,708,Jonesboro,GA,2005,H
+La Grange Daily News,709,La Grange,GA,1998,F
+Marietta Daily Journal,712,Marietta,GA,1998,F
+The Moultrie Observer,713,Moultrie,GA,2012,G
+Rome News-Tribune,714,Rome,GA,1998,F
+The Times-Enterprise,717,Thomasville,GA,1998,G
+Thomasville Times-Enterprise,717,Thomasville,GA,1998,G
+The Gazette,718,Tifton,GA,1998,G
+The Tifton Gazette,718,Tifton,GA,1998,G
+The Daily Times,719,Valdosta,GA,1998,F
+The Valdosta Daily Times,719,Valdosta,GA,1998,F
+The Daily Sun,720,Warner Robins,GA,1995,G
+The Journal-Herald,721,Waycross,GA,1998,F
+Waycross Journal-Herald,721,Waycross,GA,1998,F
+The Morning News,724,Blackfoot,ID,1995,H
+The Idaho Statesman,725,Boise,ID,1994,D
+South Idaho Press,726,Burley,ID,2002,H
+Idaho Press-Tribune,727,Nampa,ID,1998,F
+Coeur d'Alene Press,728,Coeur d'Alene,ID,2004,F
+Coeur d'Alene Press and Post Falls Press,728,Coeur d'Alene,ID,2004,F
+Post Register,729,Idaho Falls,ID,1998,E
+Shoshone News-Press,730,Kellogg,ID,2002,H
+Idaho State Journal,733,Pocatello,ID,1998,F
+Bonner County Daily Bee,734,Sandpoint,ID,1998,G
+The Times-News,735,Twin Falls,ID,2000,F
+The Illinoian-Star Daily,738,Beardstown,IL,1994,H
+Belleville News-Democrat,739,Belleville,IL,2000,D
+Belvidere Daily Republican,740,Belvidere,IL,1999,H
+Benton Evening News,741,Benton,IL,2004,H
+Canton Daily Ledger,744,Canton,IL,2009,G
+Carmi Times,745,Carmi,IL,2008,H
+Centralia Morning Sentinel,747,Centralia,IL,2000,F
+The News-Gazette,749,Champaign,IL,1994,E
+Clinton Daily Journal,752,Clinton,IL,1999,H
+Herald & Review,753,Decatur,IL,1999,E
+The Daily Chronicle,754,De Kalb,IL,1994,F
+The Telegraph,756,Dixon,IL,1997,F
+DuQuoin Evening Call,757,DuQuoin,IL,2007,H
+The Edwardsville Intelligencer,759,Edwardsville,IL,1998,G
+Effingham Daily News,760,Effingham,IL,1998,F
+Eldorado Daily Journal,761,Eldorado,IL,1998,H
+The Journal Standard,765,Freeport,IL,2009,F
+Harrisburg Daily Register/Eldorado Daily Journal,766,Harrisburg,IL,2009,G
+Jacksonville Journal-Courier,767,Jacksonville,IL,1998,F
+The Herald News,769,Joliet,IL,2004,E
+Star Courier,770,Kewanee,IL,2008,H
+NewsTribune,771,LaSalle,IL,2001,F
+Daily Record,772,Lawrenceville,IL,1998,H
+The Courier,773,Lincoln,IL,1994,G
+News-Herald,774,Litchfield,IL,1998,G
+Macomb Journal,775,Macomb,IL,1999,G
+The Macomb Journal,775,Macomb,IL,1999,G
+Daily Review Atlas,776,Monmouth,IL,1998,H
+Morris Daily Herald,777,Morris,IL,1998,G
+Daily Republican Register,778,Mount Carmel,IL,1998,H
+Register-News,780,Mount Vernon,IL,2000,F
+The Daily Mail,781,Olney,IL,2008,H
+The Olney Daily Mail,781,Olney,IL,2008,H
+The Daily Times,782,Ottawa,IL,2006,F
+The Times,782,Ottawa,IL,2006,F
+The Beacon-News,784,Paris,IL,1998,G
+The Paris Beacon-News,784,Paris,IL,1998,G
+Daily Record,785,Paxton,IL,2010,H
+Paxton Record,785,Paxton,IL,2010,H
+Pekin Daily Times,786,Pekin,IL,2009,F
+Daily Leader,787,Pontiac,IL,2007,H
+Robinson Daily News,788,Robinson,IL,2002,G
+Rockford Register Star,789,Rockford,IL,1997,D
+Shelbyville Daily Union,792,Shelbyville,IL,2003,H
+Daily Gazette,793,Sterling,IL,2001,F
+Daily Gazette and Telegraph,793,Sterling,IL,2001,F
+Streator Times-Press,794,Streator,IL,1998,G
+The Taylorville Daily Breeze-Courier,795,Taylorville,IL,2007,G
+Iroquois County's Times-Republic,796,Watseka,IL,1994,H
+Daily American,797,West Frankfort,IL,2010,H
+The Herald Bulletin,801,Anderson,IN,1997,E
+The Times-Mail,803,Bedford,IN,1999,F
+Times-Mail,803,Bedford,IN,1999,F
+The Knox County Daily News,806,Bicknell,IN,1996,H
+The Evening World,807,Bloomfield,IN,2001,H
+The Herald-Times,808,Bloomington,IN,1994,E
+News-Banner,809,Bluffton,IN,2007,G
+The Brazil Times,810,Brazil,IN,1998,G
+Chesterton Tribune,811,Chesterton,IN,1998,G
+The Daily Clintonian,812,Clinton,IN,1994,G
+The Post & Mail,813,Columbia City,IN,1994,G
+Connersville News-Examiner,814,Connersville,IN,2007,G
+Journal Review,815,Crawfordsville,IN,1998,F
+Decatur Daily Democrat,816,Decatur,IN,1998,G
+The Call-Leader,817,Elwood,IN,2005,H
+The Times,818,Frankfort,IN,1994,G
+Daily Journal,819,Franklin,IN,1998,F
+The Goshen News,820,Goshen,IN,1998,F
+Banner-Graphic,821,Greencastle,IN,2000,G
+Daily Reporter,822,Greenfield,IN,1998,G
+Greensburg Daily News,823,Greensburg,IN,2007,G
+Hartford City News-Times,824,Hartford City,IN,2004,H
+Huntington Herald-Press,825,Huntington,IN,1998,G
+The Herald,826,Jasper,IN,1994,F
+The Evening News,827,Jeffersonville,IN,1997,F
+The News Sun,828,Kendallville,IN,2008,G
+The News-Sun,828,Kendallville,IN,2008,G
+Journal and Courier,830,Lafayette,IN,1997,E
+Herald-Argus,831,LaPorte,IN,2005,F
+The Lebanon Reporter,832,Lebanon,IN,2001,G
+Linton Daily Citizen,833,Linton,IN,2006,G
+The Daily World,833,Linton,IN,2006,G
+Pharos-Tribune,834,Logansport,IN,2002,F
+The Madison Courier,835,Madison,IN,1998,G
+Chronicle-Tribune,836,Marion,IN,1998,F
+Reporter,837,Martinsville,IN,2005,G
+Reporter-Times,837,Martinsville,IN,2007,G
+The Reporter-Times,837,Martinsville,IN,2007,G
+The News Dispatch,838,Michigan City,IN,2013,G
+Herald Journal,839,Monticello,IN,2004,G
+The Evening Press,841,Muncie,IN,1994,F
+Tribune,843,New Albany,IN,2008,F
+"Tribune and The Evening News, Jeffersonville",843,New Albany,IN,2008,F
+The Tribune,843,New Albany,IN,1998,G
+Daily Ledger,844,Noblesville,IN,1998,F
+Peru Tribune,845,Peru,IN,1998,G
+Pilot News,846,Plymouth,IN,2001,G
+The Commercial Review,847,Portland,IN,1994,G
+Princeton Daily Clarion,848,Princeton,IN,2002,G
+Republican,849,Rensselaer,IN,1998,H
+Palladium-Item,850,Richmond,IN,1999,F
+The Rochester Sentinel,851,Rochester,IN,1998,H
+Rushville Republican,852,Rushville,IN,2006,H
+The Rushville Republican,852,Rushville,IN,2006,H
+The Tribune,853,Seymour,IN,1995,G
+The News,854,Shelbyville,IN,1997,F
+The Shelbyville News,854,Shelbyville,IN,1997,F
+Spencer Evening World,855,Spencer,IN,1998,H
+The Sullivan Daily Times,856,Sullivan,IN,2012,H
+The County Tribune,857,Tipton,IN,1998,H
+Tipton County Tribune,857,Tipton,IN,1998,H
+The Vidette-Messenger,858,Valparaiso,IN,1996,F
+The Sun-Commercial,859,Vincennes,IN,2001,F
+Vincennes Sun-Commercial,859,Vincennes,IN,2001,F
+The Plain Dealer,860,Wabash,IN,2004,G
+Wabash Plain Dealer,860,Wabash,IN,2004,G
+The Times-Union,861,Warsaw,IN,2009,F
+Times-Union,861,Warsaw,IN,2009,F
+The Times-Herald,862,Washington,IN,1997,F
+Washington Times-Herald,862,Washington,IN,1997,F
+The News-Gazette,863,Winchester,IN,1998,H
+Winchester News-Gazette,863,Winchester,IN,1998,H
+The Daily Tribune,864,Ames,IA,1999,G
+The Tribune,864,Ames,IA,1999,G
+Atlantic News-Telegraph,865,Atlantic,IA,2002,H
+Boone News-Republican,866,Boone,IA,1998,H
+Daily Times-Herald,867,Carroll,IA,1998,G
+Ad Express & Daily Iowegian,869,Centerville,IA,2002,H
+Charles City Press,870,Charles City,IA,1998,H
+The Daily Times,871,Cherokee,IA,1994,H
+Clinton Herald,872,Clinton,IA,2002,F
+The Daily Nonpareil,873,Council Bluffs,IA,1996,F
+Creston News Advertiser,874,Creston,IA,2003,G
+Telegraph Herald,875,Dubuque,IA,1997,E
+The Fairfield Ledger,877,Fairfield,IA,1998,H
+The Messenger,878,Fort Dodge,IA,1996,F
+Fort Madison Daily Democrat,879,Fort Madison,IA,2006,G
+Iowa City Press-Citizen,880,Iowa City,IA,1998,F
+Daily Gate City,881,Keokuk,IA,2002,G
+Le Mars Daily Sentinel,882,Le Mars,IA,2000,H
+Globe Gazette,883,Mason City,IA,2001,F
+The Mt. Pleasant News,884,Mount Pleasant,IA,1998,H
+Muscatine Journal,885,Muscatine,IA,1998,G
+The Daily News,887,Newton,IA,1999,G
+The Newton Daily News,887,Newton,IA,1999,G
+Daily Register,888,Oelwein,IA,2006,H
+Oskaloosa Herald,889,Oskaloosa,IA,1998,H
+The Courier,890,Ottumwa,IA,1998,F
+The Ottumwa Courier,890,Ottumwa,IA,1998,F
+The Evening Sentinel,892,Shenandoah,IA,1998,H
+Valley News Today,892,Shenandoah,IA,1998,H
+Sioux City Journal,893,Sioux City,IA,1998,E
+The Daily Reporter,894,Spencer,IA,1994,H
+The Cedar Valley Times,895,Vinton,IA,1995,H
+The Evening Journal,896,Washington,IA,1998,H
+The Washington Evening Journal,896,Washington,IA,1998,H
+The Daily Freeman-Journal,897,Webster City,IA,1994,H
+Abilene Reflector-Chronicle,898,Abilene,KS,1998,H
+Arkansas City Traveler,899,Arkansas City,KS,2002,H
+Atchison Daily Globe,900,Atchison,KS,1998,H
+Augusta Daily Gazette,901,Augusta,KS,2014,H
+Butler County Times Gazette,901,Augusta,KS,2014,H
+Beloit Daily Call,902,Beloit,KS,1998,H
+The Chanute Tribune,904,Chanute,KS,1997,H
+Clay Center Dispatch,905,Clay Center,KS,2001,H
+The Columbus Daily Advocate,906,Columbus,KS,1998,H
+Blade-Empire,907,Concordia,KS,2007,H
+Council Grove Republican,908,Council Grove,KS,1998,H
+Dodge City Daily Globe,909,Dodge City,KS,2000,G
+The El Dorado Times,910,El Dorado,KS,1998,H
+The Fort Scott Tribune,911,Fort Scott,KS,1999,H
+The Garden City Telegram,913,Garden City,KS,1997,F
+The Daily News,914,Goodland,KS,1998,H
+The Goodland Daily News,914,Goodland,KS,1998,H
+Great Bend Tribune,915,Great Bend,KS,2000,G
+The Daily News,916,Hays,KS,1998,F
+The Hays Daily News,916,Hays,KS,1998,F
+Hiawatha Daily World,917,Hiawatha,KS,1998,H
+Independence Daily Reporter,918,Independence,KS,1999,G
+Iola Register,919,Iola,KS,1998,H
+The Daily Union,920,Junction City,KS,1994,G
+Kansas City Kansan,921,Kansas City,KS,1998,F
+The Tiller & Toiler,922,Larned,KS,1999,H
+Leavenworth Times,923,Leavenworth,KS,2008,G
+Southwest Daily Times,924,Liberal,KS,1998,G
+The Daily News,925,Lyons,KS,1998,H
+The Lyons Daily News,925,Lyons,KS,1998,H
+McPherson Sentinel,926,McPherson,KS,1998,G
+Newton Kansan,928,Newton,KS,1998,G
+The Norton Daily Telegram,929,Norton,KS,2001,H
+The Morning Sun,930,Pittsburg,KS,1994,F
+The Pratt Tribune,931,Pratt,KS,2002,H
+The Daily News,932,Russell,KS,2001,H
+The Russell Daily News,932,Russell,KS,2001,H
+Salina Journal,933,Salina,KS,2005,E
+The Daily News,934,Wellington,KS,1998,H
+Wellington Daily News,934,Wellington,KS,1998,H
+The Daily Courier,935,Winfield,KS,1997,G
+Winfield Daily Courier,935,Winfield,KS,1997,G
+The Daily Independent,936,Ashland,KY,2004,F
+The Independent,936,Ashland,KY,2004,F
+Daily News,937,Bowling Green,KY,1998,F
+Times-Tribune,938,Corbin,KY,2001,G
+The Advocate-Messenger,939,Danville,KY,1995,F
+The News-Enterprise,940,Elizabethtown,KY,1994,F
+The State Journal,941,Frankfort,KY,1994,F
+Glasgow Daily Times,943,Glasgow,KY,2005,G
+The Daily Enterprise,944,Harlan,KY,2000,G
+The Harlan Daily Enterprise,944,Harlan,KY,2000,G
+The Gleaner,945,Henderson,KY,1994,F
+Kentucky New Era,946,Hopkinsville,KY,1998,F
+The Messenger,947,Madisonville,KY,1994,F
+Mayfield Messenger,948,Mayfield,KY,2005,G
+The Ledger-Independent,949,Maysville,KY,1994,G
+Middlesboro Daily News,950,Middlesboro,KY,1999,G
+The Daily News,950,Middlesboro,KY,1999,G
+The Ledger and Times,951,Murray,KY,1998,G
+The Murray Ledger & Times,951,Murray,KY,1998,G
+The Register,953,Richmond,KY,2001,G
+The Richmond Register,953,Richmond,KY,2001,G
+The Commonwealth-Journal,954,Somerset,KY,2008,G
+The Sun,955,Winchester,KY,1998,G
+The Winchester Sun,955,Winchester,KY,1998,G
+Bastrop Daily Enterprise,956,Bastrop,LA,2008,H
+The Bastrop Daily Enterprise,956,Bastrop,LA,2008,H
+The Advocate,957,Baton Rouge,LA,1994,D
+Daily News,958,Bogalusa,LA,1998,G
+St. Mary and Franklin Banner-Tribune,961,Franklin,LA,1998,H
+The Daily Star,962,Hammond,LA,1994,F
+The Courier,963,Houma,LA,2009,E
+The Courier/Daily Comet,963,Houma,LA,2009,E
+Jennings Daily News,965,Jennings,LA,1998,G
+The Daily Advertiser,966,Lafayette,LA,1998,E
+Minden Press Herald,968,Minden,LA,2000,H
+Minden Press-Herald,968,Minden,LA,2000,H
+The Daily Review,969,Morgan City,LA,1996,G
+The Daily Iberian,970,New Iberia,LA,1994,F
+The Daily World,971,Opelousas,LA,1994,F
+Ruston Daily Leader,972,Ruston,LA,1998,G
+The Sentry-News,973,Slidell,LA,1997,G
+Daily Comet,975,Thibodaux,LA,1998,F
+Central Maine Newspapers,976,Augusta,ME,2004,E
+Journal Tribune,977,Biddeford,ME,2008,G
+The Times Record,978,Brunswick,ME,1994,F
+Sun Journal,979,Lewiston,ME,1998,E
+Portland Press Herald/Maine Sunday Telegram,981,Portland,ME,1999,D
+Central Maine Morning Sentinel,983,Waterville,ME,2000,F
+Morning Sentinel,983,Waterville,ME,2000,F
+Daily Banner,985,Cambridge,MD,1998,H
+Cumberland Times-News,986,Cumberland,MD,2006,E
+The Star Democrat,988,Easton,MD,1998,F
+The Frederick News-Post,989,Frederick,MD,2000,E
+The Daily Times,991,Salisbury,MD,1994,E
+Athol Daily News,992,Athol,MA,2000,G
+The Sun Chronicle,993,Attleboro,MA,2005,F
+The Enterprise,995,Brockton,MA,1998,E
+The Daily Item,998,Clinton,MA,1994,H
+The Daily Transcript,999,Dedham,MA,1995,G
+The Herald News,1000,Fall River,MA,1995,E
+Sentinel & Enterprise,1001,Fitchburg,MA,1997,F
+MetroWest Daily News,1002,Framingham,MA,2003,D
+The MetroWest Daily News,1002,Framingham,MA,2014,F
+The MetroWest Daily News / The Milford Daily News,1002,Framingham,MA,2014,F
+The Gardner News,1003,Gardner,MA,1999,G
+The Recorder,1004,Greenfield,MA,1994,F
+The Gazette,1005,Haverhill,MA,1994,F
+The Marlboro Enterprise/Hudson Daily Sun,1006,Acton,MA,1995,G
+The Eagle-Tribune,1007,Lawrence,MA,1994,D
+The Eagle-Tribune,1007,North Andover,MA,2007,D
+The Eagle-Tribune Newspapers/CNHI,1007,North Andover,MA,2007,D
+Daily Evening Item,1008,Lynn,MA,2002,F
+Daily Item,1008,Lynn,MA,2009,F
+The Daily Item,1008,Lynn,MA,2009,F
+Milford Daily News,1012,Milford,MA,2008,G
+The Milford Daily News,1012,Milford,MA,2008,G
+The Standard Times,1013,New Bedford,MA,1995,E
+Daily Hampshire Gazette,1014,Northampton,MA,1997,F
+The Berkshire Eagle,1016,Pittsfield,MA,1994,E
+Taunton Daily Gazette,1017,Taunton,MA,1998,F
+Wakefield Daily Item,1018,Wakefield,MA,2010,H
+The Evening News,1019,Westfield,MA,1998,G
+Westfield Evening News,1019,Westfield,MA,1998,G
+Daily Times Chronicle,1020,Woburn,MA,1998,F
+The Daily Telegram,1021,Adrian,MI,1994,F
+Albion Recorder/Marshall Chronicle,1022,Albion,MI,1998,H
+The Alpena News,1023,Alpena,MI,2001,F
+The Huron Daily Tribune,1024,Bad Axe,MI,1994,G
+The Herald-Palladium,1025,St. Joseph,MI,1994,E
+Big Rapids Pioneer,1026,Big Rapids,MI,1998,G
+Cadillac News,1027,Cadillac,MI,1999,G
+Cheboygan Daily Tribune,1028,Cheboygan,MI,2001,H
+The Daily Reporter,1029,Coldwater,MI,1995,G
+Dowagiac Daily News,1030,Dowagiac,MI,2007,H
+The Daily Press,1031,Escanaba,MI,1994,F
+Grand Haven Tribune,1032,Grand Haven,MI,1998,F
+The Daily News,1033,Greenville,MI,1994,G
+Hillsdale Daily News,1034,Hillsdale,MI,1998,G
+The Daily Mining Gazette,1035,Houghton,MI,1994,F
+Sentinel-Standard,1036,Ionia,MI,2001,H
+The Daily News,1037,Iron Mountain,MI,1996,F
+Ironwood Daily Globe,1038,Ironwood,MI,2005,G
+Lansing State Journal,1039,Lansing,MI,1998,D
+Daily News,1040,Ludington,MI,1998,G
+Ludington Daily News,1040,Ludington,MI,1998,G
+Manistee News-Advocate,1041,Manistee,MI,2000,G
+The Mining Journal,1042,Marquette,MI,1996,F
+The Chronicle,1043,Marshall,MI,1994,H
+EagleHerald,1044,Marinette,WI,1997,F
+The Herald Leader,1044,Menominee,MI,1994,H
+Midland Daily News,1045,Midland,MI,1998,F
+The Macomb Daily,1046,Mt. Clemens,MI,1994,E
+Morning Sun,1047,Mount Pleasant,MI,1998,F
+Niles Daily Star,1048,Niles,MI,1999,H
+The Argus-Press,1049,Owosso,MI,2000,F
+Petoskey News-Review,1050,Petoskey,MI,1997,F
+The Times Herald,1051,Port Huron,MI,1997,E
+Times Herald,1051,Port Huron,MI,1997,E
+The Daily Tribune,1052,Royal Oak,MI,1995,E
+The Saginaw News,1053,Saginaw,MI,2003,E
+The Evening News,1054,Sault Ste. Marie,MI,1994,G
+The Daily Tribune,1055,South Haven,MI,1994,H
+Sturgis Journal,1056,Sturgis,MI,2002,G
+The Commercial,1057,Three Rivers,MI,2001,H
+Three Rivers Commercial,1057,Three Rivers,MI,2001,H
+The Press,1058,Ypsilanti,MI,1994,F
+Albert Lea Tribune,1059,Albert Lea,MN,2001,G
+Austin Daily Herald,1060,Austin,MN,1998,G
+The Daily Pioneer,1061,Bemidji,MN,2003,G
+The Pioneer,1061,Bemidji,MN,2003,G
+Brainerd Dispatch,1062,Brainerd,MN,2005,F
+Crookston Daily Times,1063,Crookston,MN,2002,H
+Sentinel,1064,Fairmont,MN,2000,G
+Faribault Daily News,1065,Faribault,MN,1998,G
+Daily Journal,1066,Fergus Falls,MN,1999,G
+The Daily Tribune,1067,Hibbing,MN,1994,F
+The Daily Journal,1068,International Falls,MN,1994,H
+Independent,1070,Marshall,MN,1998,G
+The Journal,1072,New Ulm,MN,1995,G
+Owatonna People's Press,1073,Owatonna,MN,2000,G
+Red Wing Republican Eagle,1074,Red Wing,MN,2000,G
+St. Cloud Times,1075,St. Cloud,MN,1998,E
+Stillwater Evening Gazette,1076,Stillwater,MN,2006,H
+Stillwater Gazette,1076,Stillwater,MN,2006,H
+The West Central Tribune,1078,Willmar,MN,1999,F
+West Central Tribune,1078,Willmar,MN,1999,F
+Daily Globe,1080,Worthington,MN,1998,F
+Daily Leader,1081,Brookhaven,MS,1998,G
+Press Register,1082,Clarksdale,MS,1998,G
+The Bolivar Commercial,1083,Cleveland,MS,1994,G
+Commercial Dispatch,1084,Columbus,MS,1997,F
+The Daily Corinthian,1085,Corinth,MS,1994,G
+Delta Democrat Times,1086,Greenville,MS,1998,F
+The Daily Sentinel-Star,1087,Grenada,MS,2008,G
+The Daily Star,1087,Grenada,MS,2008,G
+Hattiesburg American,1088,Hattiesburg,MS,1998,F
+Laurel Leader-Call,1089,Laurel,MS,2001,G
+The Meridian Star,1090,Meridian,MS,1998,F
+The Eagle,1091,Oxford,MS,2003,G
+The Oxford Eagle,1091,Oxford,MS,2003,G
+The Mississippi Press,1092,Pascagoula,MS,1995,F
+Starkville Daily News,1093,Starkville,MS,1999,G
+Northeast Mississippi Daily Journal,1094,Tupelo,MS,1998,E
+The Evening Post,1095,Vicksburg,MS,1998,F
+The Vicksburg Post,1095,Vicksburg,MS,1998,F
+Boonville Daily News,1099,Boonville,MO,2005,H
+The Daily News-Bulletin,1101,Brookfield,MO,1998,H
+Southeast Missourian,1102,Cape Girardeau,MO,2012,F
+The Daily Democrat,1103,Carrollton,MO,1994,H
+The Carthage Press,1104,Carthage,MO,1998,H
+Constitution Tribune,1105,Chillicothe,MO,2008,H
+The Clinton Daily Democrat,1106,Clinton,MO,1998,H
+Columbia Missourian,1107,Columbia,MO,2014,F
+The Columbia Missourian,1107,Columbia,MO,2014,F
+The Daily Statesman,1108,Dexter,MO,1998,H
+The Daily Journal,1112,Park Hills,MO,1998,G
+The Fulton Sun,1113,Fulton,MO,2007,H
+Hannibal Courier-Post,1115,Hannibal,MO,1998,G
+The Examiner,1116,Independence,MO,2006,F
+"The Examiner, Independence/The Examiner, Blue Spri",1116,Independence,MO,2012,H
+"The Examiner, Independence/The Examiner, Blue Springs",1116,Independence,MO,2012,H
+Jefferson City Post-Tribune and Daily Capital News,1118,Jefferson City,MO,1998,F
+The Daily Dunklin Democrat,1119,Kennett,MO,1995,G
+Kirksville Daily Express,1120,Kirksville,MO,2005,H
+The Daily Record,1123,Lebanon,MO,1998,H
+The Lebanon Daily Record,1123,Lebanon,MO,1998,H
+Chronicle-Herald,1125,Macon,MO,2008,H
+The Democrat-News,1126,Marshall,MO,1998,H
+The Marshall Democrat-News,1126,Marshall,MO,1998,H
+Maryville Daily Forum,1127,Maryville,MO,1998,H
+Moberly Monitor-Index,1128,Moberly,MO,2009,G
+The Times,1130,Monett,MO,1998,H
+Times,1130,Monett,MO,1998,H
+Neosho Daily News,1131,Neosho,MO,1998,H
+The Daily Mail,1132,Nevada,MO,2007,H
+The Nevada Daily Mail,1132,Nevada,MO,2007,H
+Daily American Republic,1134,Poplar Bluff,MO,2011,F
+The Daily News,1135,Richmond,MO,2006,H
+Rolla Daily News,1136,Rolla,MO,2007,H
+The Democrat,1139,Sedalia,MO,1998,F
+The Sedalia Democrat,1139,Sedalia,MO,1998,F
+Standard-Democrat,1140,Sikeston,MO,1998,G
+Republican-Times,1141,Trenton,MO,2005,H
+Trenton Republican-Times,1141,Trenton,MO,2005,H
+The Daily Star-Journal,1142,Warrensburg,MO,1998,H
+Daily Fort Gateway Guide,1143,Waynesville,MO,2008,H
+The Daily Guide,1143,Waynesville,MO,2008,H
+The Daily Quill,1144,West Plains,MO,1997,G
+West Plains Daily Quill,1144,West Plains,MO,1997,G
+Bozeman Daily Chronicle,1145,Bozeman,MT,1998,F
+The Montana Standard,1146,Butte,MT,1994,F
+Ravalli Republic,1147,Hamilton,MT,1998,G
+Havre Daily News,1148,Havre,MT,1998,H
+Helena Independent Record,1149,Helena,MT,2000,F
+Daily Inter Lake,1150,Kalispell,MT,1999,F
+Miles City Star,1151,Miles City,MT,1998,H
+Alliance Times-Herald,1152,Alliance,NE,2011,H
+Beatrice Daily Sun,1153,Beatrice,NE,1998,G
+Columbus Telegram,1154,Columbus,NE,2000,F
+The Journal,1155,Falls City,NE,1994,H
+Fremont Tribune,1156,Fremont,NE,1998,G
+The Grand Island Independent,1157,Grand Island,NE,1997,F
+Hastings Tribune,1158,Hastings,NE,1999,F
+Holdrege Daily Citizen,1159,Holdredge,NE,2004,H
+Kearney Hub,1160,Kearney,NE,1998,F
+McCook Daily Gazette,1161,McCook,NE,2004,G
+Nebraska City News-Press,1162,Nebraska City,NE,1999,H
+Norfolk Daily News,1163,Norfolk,NE,1998,F
+The North Platte Telegraph,1164,North Platte,NE,1998,F
+The News-Times,1165,York,NE,2000,G
+York News-Times,1165,York,NE,2000,G
+Nevada Appeal,1166,Carson City,NV,1998,F
+Elko Daily Free Press,1167,Elko,NV,2001,G
+Ely Daily Times,1168,Ely,NV,1999,H
+Statesboro Herald,1169,Statesboro,GA,1998,G
+Las Vegas Sun,1171,Las Vegas,NV,1998,E
+Eagle Times,1173,Claremont,NH,1999,G
+Foster's Daily Democrat,1174,Dover,NH,2000,E
+Citizen,1175,Laconia,NH,1998,F
+The Union Leader,1176,Manchester,NH,2000,D
+The Telegraph,1178,Nashua,NH,1994,E
+Portsmouth Herald,1179,Portsmouth,NH,1998,F
+Asbury Park Press,1180,Neptune,NJ,1997,C
+Bridgeton Evening News,1181,Bridgeton,NJ,1998,G
+Courier-Post,1182,Cherry Hill,NJ,1997,D
+Daily Record,1186,Parsippany,NJ,2000,D
+New Jersey Herald,1188,Newton,NJ,2005,F
+Today's Sunbeam,1190,Salem,NJ,1994,F
+The Ocean County Observer,1191,Toms River,NJ,1994,F
+The Times,1192,Trenton,NJ,1994,D
+Burlington County Times,1195,Willingboro,NJ,1998,E
+The News Tribune,1196,Woodbridge,NJ,1994,D
+The Gloucester County Times,1197,Woodbury,NJ,1995,E
+Alamogordo Daily News,1198,Alamogordo,NM,1998,G
+Artesia Daily Press,1199,Artesia,NM,2001,H
+Carlsbad Current-Argus,1200,Carlsbad,NM,1998,G
+Clovis News Journal,1201,Clovis,NM,1998,G
+Daily Times,1202,Farmington,NM,2014,F
+Farmington Daily Times,1202,Farmington,NM,2014,F
+The Independent,1203,Gallup,NM,1994,F
+Hobbs Daily News-Sun,1205,Hobbs,NM,1998,F
+Las Cruces Sun-News,1206,Las Cruces,NM,1998,F
+Las Vegas Optic,1207,Las Vegas,NM,1999,G
+Los Alamos Monitor,1208,Los Alamos,NM,2000,G
+The Lovington Daily Leader,1209,Lovington,NM,2011,H
+Portales News-Tribune,1210,Portales,NM,2001,H
+Roswell Daily Record,1212,Roswell,NM,2002,F
+Silver City Daily Press & Independent,1213,Silver City,NM,1998,G
+The Recorder,1216,Amsterdam,NY,1994,F
+Citizen,1218,Auburn,NY,1998,F
+The Daily News,1219,Batavia,NY,1994,F
+Daily Mail,1222,Catskill,NY,1999,G
+The Leader,1223,Corning,NY,1994,F
+Cortland Standard,1224,Cortland,NY,2001,F
+Evening Observer,1225,Dunkirk,NY,1998,F
+Finger Lakes Times,1227,Geneva,NY,1997,F
+The Post-Star,1228,Glens Falls,NY,1994,E
+The Leader-Herald,1230,Gloversville,NY,1995,F
+Evening Telegram,1231,Herkimer,NY,2012,G
+The Evening Telegram/Evening Times,1231,Herkimer,NY,2012,G
+Evening Tribune,1233,Hornell,NY,2013,G
+Register-Star,1235,Hudson,NY,1999,G
+The Ithaca Journal,1236,Ithaca,NY,1997,F
+Post-Journal,1238,Jamestown,NY,2000,F
+Daily Freeman,1239,Kingston,NY,2000,F
+The Evening Times,1240,Little Falls,NY,1994,G
+The Union-Sun & Journal,1241,Lockport,NY,2001,F
+Union-Sun & Journal,1241,Lockport,NY,2001,F
+The Malone Telegram,1244,Malone,NY,1998,G
+The Journal-Register,1246,Medina,NY,1995,G
+The Times Herald Record,1247,Middletown,NY,2004,D
+The Times Herald-Record,1247,Middletown,NY,2004,D
+Journal of Commerce,1251,New York,NY,1997,F
+Niagara Gazette,1255,Niagara Falls,NY,1998,E
+The News,1256,North Tonawanda,NY,1998,F
+Tonawanda News,1256,North Tonawanda,NY,1998,F
+The Evening Sun,1257,Norwich,NY,1994,G
+The Rockland Journal-News,1258,West Nyack,NY,1994,E
+The Journal and Courier-Observer,1259,Ogdensburg,NY,2008,F
+The Times-Herald,1261,Olean,NY,2001,F
+Times-Herald,1261,Olean,NY,2001,F
+The Daily Dispatch,1262,Oneida,NY,2006,G
+The Oneida Daily Dispatch,1262,Oneida,NY,2006,G
+The Palladium Times,1264,Oswego,NY,2008,G
+Press-Republican,1266,Plattsburgh,NY,1997,F
+The Tri-State Gazette,1268,Port Jervis,NY,1994,G
+Poughkeepsie Journal,1269,Poughkeepsie,NY,1998,E
+Daily Sentinel,1270,Rome,NY,2012,F
+Salamanca Press,1271,Salamanca,NY,1998,H
+Adirondack Daily Enterprise,1272,Saranac Lake,NY,1999,H
+The Saratogian,1273,Saratoga Springs,NY,1994,F
+Staten Island Advance,1274,Staten Island,NY,1997,D
+The Record,1276,Troy,NY,1996,E
+The Daily Reporter,1277,Wellsville,NY,2002,H
+Wellsville Daily Reporter,1277,Wellsville,NY,2002,H
+The Courier-Tribune,1280,Asheboro,NC,1994,F
+Independent Tribune,1282,Concord,NC,2000,F
+The Daily Record,1284,Dunn,NC,1994,G
+The Herald Sun,1286,Durham,NC,1997,D
+The Herald-Sun,1286,Durham,NC,1997,D
+The Daily Advance,1287,Elizabeth City,NC,1994,F
+The Gaston Gazette,1289,Gastonia,NC,1998,E
+Goldsboro News-Argus,1290,Goldsboro,NC,1999,F
+News-Argus,1290,Goldsboro,NC,1999,F
+Cooke Communications/The Daily Reflector,1291,Greenville,NC,2014,F
+Hickory Daily Record,1292,Hickory,NC,1999,F
+The Daily News,1293,Jacksonville,NC,2000,F
+Kinston Free Press,1295,Kinston,NC,1999,F
+Lenoir News-Topic,1296,Lenoir,NC,2000,F
+News-Topic,1296,Lenoir,NC,2000,F
+The Dispatch,1297,Lexington,NC,1994,F
+The Robesonian,1298,Lumberton,NC,1995,F
+The Enquirer-Journal,1299,Monroe,NC,1994,F
+Sun Journal,1300,New Bern,NC,1998,F
+The Observer-News-Enterprise,1301,Newton,NC,1998,H
+The Reidsville Review,1303,Reidsville,NC,2004,G
+The Reidsville Review/Eden Daily News,1303,Reidsville,NC,2004,G
+Daily Herald,1304,Roanoke Rapids,NC,1997,F
+Richmond County Daily Journal,1305,Rockingham,NC,1998,G
+Rocky Mount Telegram,1306,Rocky Mount,NC,1998,F
+Salisbury Post,1307,Salisbury,NC,1999,E
+The Salisbury Post,1307,Salisbury,NC,1999,E
+The Herald,1308,Sanford,NC,1998,F
+The Sanford Herald,1308,Sanford,NC,1998,F
+Statesville Record & Landmark,1309,Statesville,NC,2000,F
+The Daily Southerner,1311,Tarboro,NC,1995,G
+The Daily Bulletin,1313,Tryon,NC,2002,H
+The Tryon Daily Bulletin,1313,Tryon,NC,2002,H
+The Journal,1315,Winston-Salem,NC,1997,D
+Winston-Salem Journal,1315,Winston-Salem,NC,1997,D
+Devils Lake Daily Journal,1316,Devils Lake,ND,2009,H
+The Dickinson Press,1317,Dickinson,ND,2003,G
+The Jamestown Sun,1318,Jamestown,ND,1998,G
+Minot Daily News,1319,Minot,ND,1998,E
+The Times-Record,1320,Valley City,ND,1998,H
+Valley City Times-Record,1320,Valley City,ND,1998,H
+The Daily News,1321,Wahpeton,ND,1994,H
+The Daily Herald,1322,Williston,ND,1998,G
+Williston Daily Herald,1322,Williston,ND,1998,G
+The  Review,1323,Alliance,OH,2001,F
+Ashland Times-Gazette,1324,Ashland,OH,1998,F
+Star Beacon,1325,Ashtabula,OH,2002,F
+The Athens Messenger,1326,Athens,OH,1998,F
+Bellefontaine Examiner,1327,Bellefontaine,OH,1998,G
+Bellevue Gazette,1328,Bellevue,OH,2008,H
+The Daily Sentinel-Tribune,1329,Bowling Green,OH,1998,F
+The Sentinel-Tribune,1329,Bowling Green,OH,1998,F
+The Bryan Times,1330,Bryan,OH,1998,F
+Telegraph-Forum,1331,Bucyrus,OH,1998,G
+The Daily Jeffersonian,1332,Cambridge,OH,1996,F
+The Daily Standard,1333,Celina,OH,1994,F
+Chillicothe Gazette,1335,Chillicothe,OH,1998,F
+Herald,1336,Circleville,OH,1998,G
+Coshocton Tribune,1338,Coshocton,OH,2000,G
+The Delaware Gazette,1340,Delaware,OH,2007,G
+Delphos Daily Herald,1341,Delphos,OH,2001,H
+The Review,1342,East Liverpool,OH,2000,F
+The Courier,1345,Findlay,OH,1994,E
+Review Times,1346,Fostoria,OH,2000,G
+Fremont News-Messenger,1347,Fremont,OH,2004,F
+"The News-Messenger/The News Herald, Port Clinton",1347,Fremont,OH,2004,F
+The Galion Inquirer,1348,Galion,OH,1998,H
+Gallipolis Daily Tribune,1349,Gallipolis,OH,2004,H
+Times-Gazette,1351,Hillsboro,OH,2007,H
+Daily Advocate,1352,Greenville,OH,2006,G
+Ironton Tribune,1354,Ironton,OH,2001,G
+Kenton Times,1355,Kenton,OH,1998,G
+Lancaster Eagle-Gazette,1356,Lancaster,OH,2003,F
+The Lima News,1357,Lima,OH,1997,E
+Morning Journal,1358,Lisbon,OH,1998,F
+Logan Daily News,1359,Logan,OH,1998,H
+The Madison Press,1360,London,OH,1994,G
+News Journal,1361,Mansfield,OH,2009,E
+News Journal/Telegraph-Forum,1361,Mansfield,OH,2009,E
+The Marietta Times,1362,Marietta,OH,1998,F
+The Marion Star,1363,Marion,OH,1999,F
+The Times-Leader,1364,Martins Ferry,OH,1994,F
+Marysville Journal-Tribune,1365,Marysville,OH,1997,G
+The Independent,1366,Massillon,OH,2001,F
+The Medina County Gazette,1367,Medina,OH,1994,F
+Middletown Journal,1368,Middletown,OH,2004,F
+The Middletown Journal,1368,Middletown,OH,2004,F
+Mount Vernon News,1369,Mount Vernon,OH,2007,G
+Northwest Signal,1370,Napoleon,OH,2009,G
+The Times Reporter,1373,New Philadelphia,OH,2003,F
+Piqua Daily Call,1374,Piqua,OH,1998,G
+The Daily Sentinel,1375,Pomeroy,OH,1994,H
+News-Herald,1376,Port Clinton,OH,1999,G
+The Portsmouth Daily Times,1377,Portsmouth,OH,2001,F
+The Evening Leader,1378,St. Marys,OH,1998,G
+Salem News,1379,Salem,OH,2008,G
+Sandusky Register,1380,Sandusky,OH,1998,F
+The Daily News,1382,Sidney,OH,1998,F
+The Sidney Daily News,1382,Sidney,OH,1998,F
+Springfield News-Sun,1383,Springfield,OH,1997,E
+Herald-Star/Weirton Daily Times,1385,Steubenville,OH,2008,F
+The Advertiser-Tribune,1386,Tiffin,OH,1994,F
+The Daily Chief-Union,1388,Upper Sandusky,OH,1994,H
+The Daily Citizen,1389,Urbana,OH,1998,G
+Urbana Daily Citizen,1389,Urbana,OH,1998,G
+The Times-Bulletin,1390,Van Wert,OH,2009,G
+Times Bulletin,1390,Van Wert,OH,2009,G
+The Daily News,1391,Wapakoneta,OH,1998,H
+Wapakoneta Daily News,1391,Wapakoneta,OH,1998,H
+The Tribune Chronicle,1392,Warren,OH,1997,E
+Tribune Chronicle,1392,Warren,OH,1997,E
+Record Herald,1393,Washington Court House,OH,1998,G
+The News-Herald,1394,Willoughby,OH,1994,D
+News Journal,1395,Wilmington,OH,2006,G
+Greene County Dailies,1396,Xenia,OH,2004,F
+The Vindicator,1397,Youngstown,OH,2012,E
+Vindicator,1397,Youngstown,OH,2012,E
+The Times Recorder,1398,Zanesville,OH,1998,F
+Times Recorder,1398,Zanesville,OH,2007,F
+Times Recorder/Coshocton Tribune,1398,Zanesville,OH,2007,F
+The Ada Evening News,1399,Ada,OK,2000,G
+The Altus Times,1400,Altus,OK,1998,G
+Alva Review-Courier,1401,Alva,OK,1998,H
+Anchorage Daily News,1402,Anadarko,OK,1998,H
+Daily News,1402,Anadarko,OK,1998,H
+The Daily Ardmoreite,1403,Ardmore,OK,1994,F
+Examiner-Enterprise,1404,Bartlesville,OK,1999,F
+Blackwell Journal-Tribune,1405,Blackwell,OK,1998,H
+The Daily Express,1406,Chickasha,OK,2005,G
+The Express-Star,1406,Chickasha,OK,2005,G
+The Claremore Daily  Progress,1407,Claremore,OK,2013,G
+The Claremore Daily Progress,1407,Claremore,OK,2013,G
+The Clinton Daily News,1408,Clinton,OK,2013,H
+Cushing Daily Citizen,1409,Cushing,OK,1999,H
+Durant Daily Democrat,1410,Durant,OK,1998,G
+Edmond Evening Sun,1411,Edmond,OK,2011,H
+The Edmond Sun,1411,Edmond,OK,2011,H
+Elk City Daily News,1412,Elk City,OK,1999,H
+Enid News & Eagle,1414,Enid,OK,2000,F
+The Daily Leader,1416,Frederick,OK,1996,H
+Guthrie News Leader,1417,Guthrie,OK,2001,H
+Guymon Daily Herald,1418,Guymon,OK,1999,H
+Henryetta Daily Free-Lance,1419,Henryetta,OK,1998,H
+Holdenville Daily News,1421,Holdenville,OK,1998,H
+Hugo Daily News,1422,Hugo,OK,1998,H
+The Constitution,1424,Lawton,OK,1998,F
+The Lawton Constitution,1424,Lawton,OK,1998,F
+McAlester News-Capital & Democrat,1426,McAlester,OK,1998,F
+Miami News-Record,1428,Miami,OK,1999,G
+Muskogee Daily Phoenix & Times-Democrat,1429,Muskogee,OK,1998,F
+The Norman Transcript,1430,Norman,OK,1997,F
+The Daily Oklahoman,1433,Oklahoma City,OK,2005,C
+The Oklahoman,1433,Oklahoma City,OK,2005,C
+Daily Times,1434,Okmulgee,OK,2000,H
+The Daily Democrat,1435,Pauls Valley,OK,1995,H
+The Journal,1437,Perry,OK,1998,H
+The Perry Daily Journal,1437,Perry,OK,1998,H
+The News,1438,Ponca City,OK,2003,G
+The Ponca City News,1438,Ponca City,OK,2003,G
+The Daily Times,1439,Pryor,OK,1995,G
+Sapulpa Daily Herald,1440,Sapulpa,OK,1998,G
+The Producer,1442,Seminole,OK,1998,G
+The Seminole Producer,1442,Seminole,OK,1998,G
+News Press,1443,Stillwater,OK,1999,G
+NewsPress,1443,Stillwater,OK,1999,G
+The Daily Journal,1444,Vinita,OK,2006,H
+Vinita Daily Journal,1444,Vinita,OK,2006,H
+Weatherford Daily News,1445,Weatherford,OK,1998,G
+The Daily Times,1446,Wewoka,OK,1995,H
+Ashland Daily Tidings,1448,Ashland,OR,2010,G
+Mail Tribune  (Medford) and Ashland Daily Tidings,1448,Ashland,OR,2010,G
+The Daily Astorian,1449,Astoria,OR,1997,G
+Baker City Herald,1450,Baker City,OR,1998,H
+The World,1451,Coos Bay,OR,1994,F
+Grants Pass Daily Courier,1452,Grants Pass,OR,1998,F
+Herald and News,1453,Klamath Falls,OR,2006,F
+Argus Observer,1454,Ontario,OR,1998,G
+Daily Journal of Commerce,1456,Portland,OR,2006,H
+The News-Review,1457,Roseburg,OR,1994,F
+The Chronicle,1458,The Dalles,OR,1998,G
+The Dalles Chronicle,1458,The Dalles,OR,1998,G
+Altoona Mirror,1460,Altoona,PA,1998,E
+Beaver County Times,1462,Beaver,PA,1997,E
+Bedford Gazette,1464,Bedford,PA,2002,F
+Press Enterprise,1465,Bloomsburg,PA,2006,F
+The Bradford Era,1467,Bradford,PA,1999,F
+Butler Eagle,1469,Butler,PA,1998,E
+The Sentinel,1471,Carlisle,PA,1994,F
+Public Opinion,1472,Chambersburg,PA,1994,E
+Daily Courier,1475,Connellsville,PA,2000,F
+The Daily Courier,1475,Connellsville,PA,2000,F
+Corry Evening Journal,1476,Corry,PA,1998,H
+The Danville News,1477,Danville,PA,2004,H
+The Intelligencer,1478,Doylestown,PA,2000,E
+The Courier-Express,1479,DuBois,PA,1997,F
+The Courier-Express/Tri-County Sunday,1479,DuBois,PA,1997,F
+Ellwood City Ledger,1480,Ellwood City,PA,2005,G
+The News-Herald,1481,Franklin,PA,1995,G
+Gettysburg Times,1482,Gettysburg,PA,1998,G
+The Record-Argus,1484,Greenville,PA,1994,G
+The Evening Sun,1485,Hanover,PA,1994,F
+The Daily News,1487,Huntingdon,PA,1996,F
+The Gazette,1488,Indiana,PA,1998,F
+The Indiana Gazette,1488,Indiana,PA,1998,F
+The Kane Republican,1490,Kane,PA,2000,H
+Leader Times,1492,Kittanning,PA,1998,F
+The Reporter,1493,Lansdale,PA,1994,F
+The Bulletin,1494,Latrobe,PA,1998,G
+The Latrobe Bulletin,1494,Latrobe,PA,1998,G
+Lebanon Daily News,1495,Lebanon,PA,2003,F
+The Times News,1496,Lehighton,PA,2007,F
+The Sentinel,1497,Lewistown,PA,1994,F
+The Express,1498,Lock Haven,PA,1997,F
+The Daily News,1499,McKeesport,PA,1998,F
+The Meadville Tribune,1500,Meadville,PA,1998,F
+Standard-Journal,1501,Milton,PA,2010,H
+The Standard Journal,1501,Milton,PA,2010,H
+The Valley Independent,1502,Monessen,PA,2012,F
+New Castle News,1504,New Castle,PA,1998,F
+The Times Herald,1505,Norristown,PA,1994,E
+The Phoenix,1507,Phoenixville,PA,1995,G
+The Mercury,1508,Pottstown,PA,1998,E
+Pottsville Republican,1509,Pottsville,PA,1999,E
+Pottsville Republican & Evening Herald,1509,Pottsville,PA,2006,E
+REPUBLICAN & Herald,1509,Pottsville,PA,2006,E
+The Punxsutawney Spirit,1511,Punxsutawney,PA,2003,G
+The Ridgway Record,1513,Ridgway,PA,2012,H
+The Daily Press,1514,St. Marys,PA,1994,G
+The Evening Times,1515,Sayre,PA,2006,G
+The Morning Times,1515,Sayre,PA,2006,G
+The News-Item,1517,Shamokin,PA,1994,F
+Daily American,1519,Somerset,PA,2005,F
+Pocono Record,1521,Stroudsburg,PA,1998,F
+The Titusville Herald,1522,Titusville,PA,2007,H
+The Daily Review,1523,Towanda,PA,2003,G
+The Daily Herald,1524,Tyrone,PA,1998,H
+Herald-Standard,1525,Uniontown,PA,1998,E
+The Times-Observer,1530,Warren,PA,1998,F
+Warren Times-Observer,1530,Warren,PA,1998,F
+Observer-Reporter,1531,Washington,PA,1998,E
+The Record Herald,1532,Waynesboro,PA,1994,F
+Daily Local News,1534,West Chester,PA,1998,E
+The Dispatch,1535,York,PA,1997,E
+The York Dispatch,1535,York,PA,1997,E
+The Daily Record,1536,York,PA,1997,E
+York Daily Record,1536,York,PA,1997,E
+The Daily News,1537,Newport,RI,1997,F
+The Newport Daily News,1537,Newport,RI,1997,F
+The Evening Times,1538,Pawtucket,RI,1996,F
+The Times,1538,Pawtucket,RI,1996,F
+The Sun,1539,Westerly,RI,1998,F
+The Westerly Sun,1539,Westerly,RI,1998,F
+Aiken Standard,1540,Aiken,SC,1998,F
+The Beaufort Gazette,1542,Beaufort,SC,1997,F
+The Index-Journal,1543,Greenwood,SC,1995,F
+The Times and Democrat,1545,Orangeburg,SC,1994,F
+Herald-Journal,1547,Spartanburg,SC,2000,D
+The Daily Times,1548,Union,SC,1998,G
+The Union Daily Times,1548,Union,SC,1998,G
+Aberdeen American News,1549,Aberdeen,SD,1998,F
+Brookings Daily Register,1551,Brookings,SD,1998,G
+Plainsman,1552,Huron,SD,2011,G
+Black Hills Pioneer,1553,Spearfish,SD,2003,H
+The Daily Leader,1555,Madison,SD,1998,H
+The Madison Daily Leader,1555,Madison,SD,1998,H
+The Daily Republic,1556,Mitchell,SD,1996,F
+Capital Journal,1557,Pierre,SD,1999,H
+The Public Opinion,1558,Watertown,SD,1998,F
+Watertown Public Opinion,1558,Watertown,SD,1998,F
+The Daily Press & Dakotan,1559,Yankton,SD,1998,G
+Yankton Daily Press & Dakotan,1559,Yankton,SD,1998,G
+The Daily Post-Athenian,1560,Athens,TN,1995,F
+Chattanooga Times Free Press,1561,Chattanooga,TN,2001,D
+Cleveland Daily Banner,1562,Cleveland,TN,1998,F
+The Daily Herald,1564,Columbia,TN,1998,F
+Herald-Citizen,1565,Cookeville,TN,2006,F
+The State Gazette,1566,Dyersburg,TN,1999,G
+The Star,1567,Elizabethton,TN,2005,G
+The Lebanon Democrat,1570,Lebanon,TN,2006,G
+The Daily Times,1571,Maryville,TN,1994,F
+Citizen Tribune,1572,Morristown,TN,2004,F
+The Daily News Journal,1573,Murfreesboro,TN,1994,F
+The Paris Post-Intelligencer,1574,Paris,TN,1998,G
+Shelbyville Times-Gazette,1575,Shelbyville,TN,1998,G
+Daily Messenger,1576,Union City,TN,2012,G
+Athens Daily Review,1579,Athens,TX,2002,G
+Bay City Daily Tribune,1580,Bay City,TX,1998,H
+The Baytown Sun,1581,Baytown,TX,2000,F
+Big Spring Herald,1582,Big Spring,TX,1998,G
+The Favorite,1583,Bonham,TX,1995,H
+The News-Herald,1584,Borger,TX,1994,G
+Brenham Banner-Press,1585,Brenham,TX,2010,G
+The Brownsville Herald,1586,Brownsville,TX,1998,F
+Brownwood Bulletin,1587,Brownwood,TX,1999,G
+Bryan-College Station Eagle,1588,Bryan,TX,1998,F
+Cleburne Times-Review,1589,Cleburne,TX,1998,G
+The Brazosport Facts,1590,Clute,TX,1994,F
+Conroe Courier,1591,Conroe,TX,1998,F
+Corsicana Daily Sun,1592,Corsicana,TX,1998,G
+Dalhart Daily Texan,1593,Dalhart,TX,2000,H
+Del Rio News-Herald,1594,Del Rio,TX,2000,G
+The Herald,1595,Denison,TX,1994,F
+Denton Record-Chronicle,1596,Denton,TX,1997,F
+Edinburg Daily Review,1597,Edinburg,TX,2006,H
+Ennis Daily News,1598,Ennis,TX,2011,H
+Gainesville Daily Register,1599,Gainesville,TX,2008,G
+The Daily News,1600,Galveston,TX,1999,E
+The Galveston County Daily News,1600,Galveston,TX,1999,E
+Greenville Herald-Banner,1604,Greenville,TX,2004,G
+Herald-Banner,1604,Greenville,TX,2004,G
+The Valley Morning Star,1605,Harlingen,TX,1998,E
+Valley Morning Star,1605,Harlingen,TX,1998,E
+Henderson Daily News,1606,Henderson,TX,2008,G
+The Huntsville Item,1607,Huntsville,TX,1999,G
+Jacksonville Daily Progress,1610,Jacksonville,TX,2000,H
+Kilgore News Herald,1611,Kilgore,TX,2008,H
+Killeen Daily Herald,1612,Killeen,TX,2000,F
+Longview News--Journal,1617,Longview,TX,2011,F
+Lufkin Daily News,1619,Lufkin,TX,1999,F
+News Messenger,1621,Marshall,TX,1998,G
+The Monitor,1622,McAllen,TX,1994,E
+McKinney Courier-Gazette,1623,McKinney,TX,2004,G
+The Daily News,1625,Mexia,TX,1998,H
+The Mexia Daily News,1625,Mexia,TX,2011,H
+The Mexia News,1625,Mexia,TX,2011,H
+Midland Reporter-Telegram,1626,Midland,TX,1998,F
+Mineral Wells Index,1627,Mineral Wells,TX,2001,H
+Mount Pleasant Daily Tribune,1628,Mount Pleasant,TX,2007,H
+The Daily Sentinel,1629,Nacogdoches,TX,1994,G
+Odessa American,1630,Odessa,TX,2001,E
+The Leader,1631,Orange,TX,1998,F
+The Orange Leader,1631,Orange,TX,1998,F
+The News,1632,Pampa,TX,2002,G
+The Pampa News,1632,Pampa,TX,2002,G
+The News,1633,Paris,TX,1998,F
+The Paris News,1633,Paris,TX,1998,F
+Pasadena Citizen,1634,Pasadena,TX,1998,G
+Pecos Enterprise,1635,Pecos,TX,1998,H
+Plainview Daily Herald,1636,Plainview,TX,1998,G
+Plano Star-Courier,1637,Plano,TX,1998,F
+Port Arthur News,1638,Port Arthur,TX,1998,F
+San Marcos Daily Record,1643,San Marcos,TX,2007,G
+Herald Democrat,1644,Sherman,TX,2000,E
+Snyder Daily News,1645,Snyder,TX,2004,H
+Stephenville Empire-Tribune,1646,Stephenville,TX,1998,G
+Sulphur Springs News-Telegram,1647,Sulphur Springs,TX,2002,G
+Sweetwater Reporter,1648,Sweetwater,TX,1998,H
+Fort Bend Herald and Texas Coaster,1649,Rosenberg,TX,2007,G
+The Terrell Tribune,1650,Terrell,TX,2007,H
+The Sun,1651,Texas City,TX,1994,G
+The Morning Telegraph and Courier-Times,1652,Tyler,TX,2000,E
+Tyler Morning Telegraph,1652,Tyler,TX,2000,E
+The Daily Record,1654,Vernon,TX,1998,H
+The Vernon Daily Record,1654,Vernon,TX,1998,H
+The Advocate,1655,Victoria,TX,1998,E
+The Victoria Advocate,1655,Victoria,TX,2006,E
+Victoria Advocate,1655,Victoria,TX,2006,E
+Waxahachie Daily Light,1656,Waxahachie,TX,1998,H
+The Democrat,1657,Weatherford,TX,1998,G
+The Weatherford Democrat,1657,Weatherford,TX,1998,G
+The Herald Journal,1658,Logan,UT,1994,F
+Standard-Examiner,1659,Ogden,UT,1998,D
+Daily Herald,1660,Provo,UT,2007,E
+The Barre Montpelier Times Argus,1661,Barre,VT,2010,G
+The Banner,1662,Bennington,VT,1999,G
+The Bennington Banner,1662,Bennington,VT,1999,G
+Brattleboro Reformer,1663,Brattleboro,VT,2008,G
+The Brattleboro Reformer,1663,Brattleboro,VT,2008,G
+The Newport Daily Express,1664,Newport,VT,2000,H
+Rutland Herald,1665,Rutland,VT,1998,F
+St. Albans Messenger,1666,St. Albans,VT,2001,H
+The Caledonian-Record,1667,St. Johnsbury,VT,1994,F
+Bristol Herald Courier,1668,Bristol,VA,1999,E
+Bristol Herald-Courier and Virginia Tennessean,1668,Bristol,VA,1999,E
+The Daily Progress,1670,Charlottesville,VA,1994,E
+The Virginian-Review,1672,Covington,VA,1998,G
+Virginian Review,1672,Covington,VA,1998,G
+Culpeper Star-Exponent,1673,Culpeper,VA,1999,G
+Danville Register & Bee,1675,Danville,VA,1998,F
+News & Messenger,1676,Woodbridge,VA,2009,F
+News,1677,Hopewell,VA,2000,G
+Manassas Journal Messenger,1680,Manassas,VA,1998,G
+The Bulletin,1681,Martinsville,VA,1998,F
+The Martinsville Bulletin,1681,Martinsville,VA,1998,F
+Daily Press,1682,Newport News,VA,2014,D2
+Daily Press Media Group,1682,Newport News,VA,2014,D2
+The Progress-Index,1683,Petersburg,VA,1994,F
+The Southwest Times,1684,Pulaski,VA,1995,G
+The News Leader,1688,Staunton,VA,2002,F
+The Daily News Leader,1688,Staunton,VA,2002,F
+The News Virginian,1689,Waynesboro,VA,2005,G
+The Winchester Star,1690,Winchester,VA,2009,F
+The Daily World,1691,Aberdeen,WA,1994,F
+Eastside Journal,1692,Bellevue,WA,1999,D
+Eastside Journal and South County Journal,1692,Bellevue,WA,2006,E
+King County Journal,1692,Bellevue,WA,2006,E
+Daily Record,1693,Ellensburg,WA,1999,G
+Columbia Basin Herald,1694,Moses Lake,WA,1998,G
+Skagit Valley Herald,1695,Mount Vernon,WA,2001,F
+The Olympian,1696,Olympia,WA,1995,E
+Peninsula Daily News,1697,Port Angeles,WA,2000,F
+Daily Journal of Commerce,1698,Seattle,WA,2004,G
+The Union-Bulletin,1700,Walla Walla,WA,1997,F
+Walla Walla Union-Bulletin,1700,Walla Walla,WA,1997,F
+The Register-Herald,1701,Beckley,WV,1998,E
+Bluefield Daily Telegraph,1703,Bluefield,WV,1998,F
+Charleston Daily Mail,1705,Charleston,WV,1997,D
+Clarksburg Exponent Telegram,1707,Clarksburg,WV,2010,F
+The Inter-Mountain,1708,Elkins,WV,2002,F
+The Times-West Virginian,1709,Fairmont,WV,1998,F
+Times-West Virginian,1709,Fairmont,WV,1998,F
+The Herald-Dispatch,1712,Huntington,WV,1996,E
+Mineral Daily News Tribune,1714,Keyser,WV,2012,H
+West Virginia Daily News,1715,Lewisburg,WV,2000,H
+The Banner,1716,Logan,WV,2007,G
+The Logan Banner,1716,Logan,WV,2007,G
+The  Journal,1717,Martinsburg,WV,1999,F
+The Journal,1717,Martinsburg,WV,1999,F
+The Dominion Post,1718,Morgantown,WV,1994,F
+Moundsville Daily Echo,1720,Moundsville,WV,1998,H
+The News,1721,Parkersburg,WV,1998,F
+The Parkersburg News,1721,Parkersburg,WV,2014,H
+The Parkersburg News and The Parkersburg Sentinel,1721,Parkersburg,WV,2014,H
+The Parkersburg Sentinel,1722,Parkersburg,WV,1997,F
+Point Pleasant Register,1723,Point Pleasant,WV,1998,G
+The Daily Times,1724,Weirton,WV,1994,G
+The Daily News,1725,Welch,WV,2004,H
+The Welch Daily News,1725,Welch,WV,2004,H
+Williamson Daily News,1726,Williamson,WV,1998,F
+Antigo Daily Journal,1727,Antigo,WI,2002,G
+The Daily Press,1728,Ashland,WI,1994,G
+News-Republic/South Central Wisconsin News,1729,Baraboo,WI,1998,G
+Daily Citizen,1730,Beaver Dam,WI,1998,F
+Beloit Daily News,1731,Beloit,WI,1998,F
+Leader-Telegram,1732,Eau Claire,WI,1997,E
+Daily Jefferson County Union,1734,Fort Atkinson,WI,1998,G
+The Green Bay News-Chronicle,1735,Green Bay,WI,1998,G
+The Gazette,1736,Janesville,WI,1998,F
+The Janesville Gazette,1736,Janesville,WI,1998,F
+La Crosse Tribune,1737,LaCrosse,WI,1998,E
+Herald Times Reporter,1738,Manitowoc,WI,2001,F
+Marshfield News-Herald,1740,Marshfield,WI,1998,F
+Monroe Times,1741,Monroe,WI,1999,G
+Oshkosh Northwestern,1742,Oshkosh,WI,1998,F
+The Oshkosh Northwestern,1742,Oshkosh,WI,1998,F
+The Journal Times,1744,Racine,WI,1994,E
+The Daily News,1745,Rhinelander,WI,1994,G
+Shawano Leader,1746,Shawano,WI,1998,G
+Stevens Point Journal,1747,Stevens Point,WI,1999,F
+The Daily Telegram,1748,Superior,WI,1995,F
+The Daily Times,1749,Watertown,WI,1998,G
+The Freeman,1750,Waukesha,WI,2000,F
+Waukesha County Freeman,1750,Waukesha,WI,2000,F
+The Daily Herald,1751,Wausau,WI,1997,F
+Wausau Daily Herald,1751,Wausau,WI,1997,F
+Daily Tribune,1752,Wisconsin Rapids,WI,2001,F
+The Daily Tribune,1752,Wisconsin Rapids,WI,2001,F
+Casper Star-Tribune,1753,Casper,WY,1998,E
+The Tribune-Eagle,1755,Cheyenne,WY,2004,F
+Wyoming Tribune-Eagle,1755,Cheyenne,WY,2004,F
+The News-Record,1756,Gillette,WY,1994,G
+Rawlins Daily Times,1757,Rawlins,WY,2005,H
+Riverton Ranger,1758,Riverton,WY,1998,G
+Daily Rocket-Miner,1759,Rock Springs,WY,1999,G
+Sheridan Press,1760,Sheridan,WY,2002,G
+Northern Wyoming Daily News,1761,Worland,WY,2006,H
+Northern Virginia Daily,1762,Strasburg,VA,2004,F
+Suffolk News-Herald,1763,Suffolk,VA,2000,H
+Pensacola News Journal,1769,Pensacola,FL,1997,D
+The Morning Call,1771,Allentown,PA,1994,C
+The Alexander City Outlook,1777,Alexander City,AL,1998,G
+Daily News-Sun,1778,Sun City,AZ,2000,F
+The Enterprise,1781,Simi Valley,CA,1994,F
+Marion Daily Republican,1785,Marion,IL,2012,H
+Mattoon Journal-Gazette/Charleston Times-Courier,1786,Mattoon,IL,1998,F
+The Evening Star,1789,Auburn,IN,1995,G
+Colby Free Press,1790,Colby,KS,2000,H
+Picayune Item,1791,Picayune,MS,1998,G
+Deming Headlight,1792,Deming,NM,2002,H
+Beavercreek News-Current,1795,Beavercreek,OH,1998,H
+Daily News,1800,Kingsport,TN,1999,H
+The Andalusia Star-News,1801,Andalusia,AL,1998,H
+Fort Payne Times-Journal,1802,Fort Payne,AL,1998,G
+The Chandler Arizonan-Tribune,1804,Mesa,AZ,1994,G
+Benton County Daily Record,1805,Bentonville,AR,1998,F
+Auburn Journal,1806,Auburn,CA,1998,F
+The Dispatch,1808,Gilroy,CA,1994,G
+Manteca Bulletin,1810,Manteca,CA,1998,G
+Press Journal,1812,Vero Beach,FL,1998,E
+The Times-Georgian,1813,Carrollton,GA,1997,F
+Times-Georgian,1813,Carrollton,GA,1997,F
+The Rockdale Citizen,1814,Conyers,GA,1996,F
+The Union-Recorder,1815,Milledgeville,GA,1994,G
+The Maui News,1816,Wailuku,HI,1994,F
+The Daily Southtown,1819,Chicago,IL,1994,D
+Northwest Herald,1820,Crystal Lake,IL,2008,E
+The Daily Clay County Advocate-Press,1821,Flora,IL,1996,H
+Abbeville Meridional,1822,Abbeville,LA,1998,G
+Carroll County Times,1824,Westminster,MD,1997,F
+Daily Times Leader,1825,West Point,MS,2006,H
+The Sampson Independent,1826,Clinton,NC,1998,G
+The Daily News,1827,Eden,NC,1995,G
+The Daily Courier,1828,Forest City,NC,1995,F
+Mount Airy News,1829,Mount Airy,NC,1999,G
+The Mount Airy News,1829,Mount Airy,NC,1999,G
+Crescent-News,1830,Defiance,OH,1999,F
+Tahlequah Daily Press,1832,Tahlequah,OK,1999,G
+Daily Times,1833,Primos,PA,2000,D
+Delaware County Daily Times,1833,Primos,PA,2000,D
+The Herald,1835,Rock Hill,SC,1994,E
+The Times,1837,Angleton,TX,1994,H
+Hereford Brand,1838,Hereford,TX,1998,H
+Laredo Morning News,1839,Laredo,TX,2011,F
+Herald-Zeitung,1840,New Braunfels,TX,1999,G
+The Daily Spectrum,1842,St. George,UT,1997,F
+The Spectrum,1842,St. George,UT,1997,F
+Journal Newspapers,1845,Merrifield,VA,1996,C
+The Gazette-Enterprise,1849,Seguin,TX,1998,G
+The Seguin Gazette-Enterprise,1849,Seguin,TX,1998,G
+Moscow-Pullman Daily News,1850,Moscow,ID,1997,G
+The Intelligencer,1852,Wheeling,WV,2006,E
+The Intelligencer and Wheeling News-Register,1852,Wheeling,WV,2006,E
+The Reporter,1853,Fond du Lac,WI,1994,F
+Capital Newspapers - Portage Division,1854,Portage,WI,2014,H
+Portage Daily Register,1854,Portage,WI,2014,H
+Peninsula Clarion,1855,Kenai,AK,1998,G
+The Crowley Post-Signal,1856,Crowley,LA,1998,G
+Inside Tuscon Business,1861,Tucson,AZ,2014,H
+The West County Times,1862,Pinole,CA,1994,E
+The Times,1864,Washington,DC,1997,C
+The Washington Times,1864,Washington,DC,1997,C
+USA Today,1865,Arlington,VA,1994,A
+West Hawaii Today,1866,Kailua-Kona,HI,1994,F
+The Garden Island,1867,Lihue,HI,1995,G
+The Examiner,1870,Blue Springs,MO,1995,G
+The Daily News,1874,Sunnyside,WA,1994,H
+The Reporter,2002,Vacaville,CA,1994,F
+Taylor Daily Press,2007,Taylor,TX,1998,H
+The Valley Daily News,2008,Kent,WA,1996,E
+The Valley Daily News/Horvitz Newspapers,2008,Kent,WA,1996,E
+Leesville Daily Leader,2009,Leesville,LA,2009,H
+Lahontan Valley News,2010,Fallon,NV,2000,G
+Lahontan Valley News and Fallon Eagle Standard,2010,Fallon,NV,2000,G
+The News,2012,Woodward,OK,1998,G
+Woodward News,2012,Woodward,OK,1998,G
+Baxter Bulletin,2013,Mountain Home,AR,1998,F
+The McDowell News,2015,Marion,NC,1994,G
+Aspen Daily News,2016,Aspen,CO,2007,F
+The Press,2017,Tracy,CA,1998,G
+Tracy Press,2017,Tracy,CA,1998,G
+Citrus County Chronicle,2019,Crystal River,FL,2000,F
+Southwest Daily News,2021,Sulphur,LA,2005,H
+Lake Sun Leader,2022,Camdenton,MO,1994,H
+The Citizen News-Record,2023,Aberdeen,NC,1995,H
+The Daily Journal,2024,Lewisburg,PA,1995,H
+The Island Packet,2025,Hilton Head Island,SC,1994,F
+The Mountain Press,2026,Sevierville,TN,1994,G
+Lake County Record-Bee,2027,Lakeport,CA,1999,G
+Alice Echo-News,2028,Alice,TX,1998,H
+Charlotte Sun,2029,Charlotte Harbor,FL,2012,E
+Antelope Valley Press,2030,Palmdale,CA,1999,E
+The Signal,2031,Santa Clarita,CA,1995,F
+Beauregard Daily News,2032,DeRidder,LA,2004,G
+Daily Sparks Tribune,2033,Sparks,NV,1998,G
+The Wayne Independent,2034,Honesdale,PA,2000,H
+The Daily News,2037,West Bend,WI,1994,F
+Observer,2038,New Smyrna Beach,FL,1998,H
+Douglas County Sentinel,2039,Douglasville,GA,2006,G
+The Gilbert Tribune,2040,Mesa,AZ,1994,H
+Benicia Herald,2041,Benicia,CA,2008,H
+The Californian,2042,Temecula,CA,1994,F
+Mohave Valley Daily News,2043,Bullhead City,AZ,2006,G
+The Aspen Times,2044,Aspen,CO,1998,F
+Summit Daily News,2045,Frisco,CO,1998,G
+Steamboat Pilot & Today,2046,Steamboat Springs,CO,2004,G
+The Daily,2047,Vail,CO,1998,F
+Vail Daily,2047,Vail,CO,1998,F
+Cecil Whig,2048,Elkton,MD,2000,F
+The Telegraph,2049,Sidney,NE,1994,H
+The Conway Daily Sun,2050,North Conway,NH,2000,F
+The Daily Editor,2052,Cobleskill,NY,1995,H
+Daily News & Sun,2054,Poteau,OK,2002,H
+The North Hills News Record,2055,Warrendale,PA,1995,D
+The North Hills News Record & Valley News Dispatch,2055,Warrendale,PA,1995,D
+Branson Daily News,2056,Branson,MO,2014,F
+Branson Tri-Lakes New,2056,Branson,MO,2014,F
+Jacksonville Patriot,2057,Jacksonville,AR,1998,H
+The Daily Triplicate,2058,Crescent City,CA,2004,H
+Kane County Chronicle,2059,Geneva,IL,1997,F
+Derby Reporter,2060,Derby,KS,2008,H
+Today's Daily News,2061,Lake Havasu City,AZ,1997,F
+Today's News-Herald,2061,Lake Havasu City,AZ,1997,F
+The Daily News,2061,Lake Havasu City,AZ,1996,G
+The Daily Whale,2062,Lewes,DE,1995,H
+The Daily News,2063,Okeechobee,FL,1998,H
+The Daily Okeechobee News,2063,Okeechobee,FL,1998,H
+Arlington Morning News,2065,Arlington,TX,1999,F
+Daily News Group,2066,Palo Alto,CA,2006,D
+Telluride Daily Planet,2068,Telluride,CO,2000,H
+The Gwinnett Daily Post,2069,Lawrenceviille,GA,1997,F
+Hernando Today,2070,Brooksville,FL,1998,F
+Highlands Today,2071,Sebring,FL,1999,F
+Estherville Daily News,2072,Estherville,IA,2000,H
+Natchitoches Times,2074,Natchitoches,LA,1998,G
+The Humboldt Sun,2076,Winnemucca,NV,1998,H
+The Berlin Reporter,2077,Berlin,NH,2002,H
+The Laurinburg Exchange,2078,Laurinburg,NC,1998,G
+Grove Daily News,2079,Grove,OK,1999,H
+Pittsburgh Tribune-Review,2080,Pittsburgh,PA,1998,E
+The Times-Herald,2081,Newnan,GA,1998,G
+Post Falls Press,2082,Post Falls,ID,1999,H
+Daily Sun,2083,The Villages,FL,2014,E
+The Villages Daily Sun,2083,The Villages,FL,2014,E
+Daily Sun,2083,Lady Lake,FL,1999,G
+The Cherokee Tribune,2085,Canton,GA,1999,G
+The Clanton Advertiser,2086,Clanton,AL,2004,H
+DeSoto Times Today,2087,Hernando,MS,2001,G
+Sidney Daily Sun,2089,Sidney,NE,2002,H
+Sidney Sun-Telegraph,2089,Sidney,NE,2002,H
+Newport Plain Talk,2090,Newport,TN,2001,G
+The Grove Sun Daily,2091,Grove,OK,2008,G
+The Daily Journal/Daily Messenger,2092,Seneca,SC,2001,H
+The Naperville Sun,2093,Naperville,IL,2009,F
+Herald-Republican,2095,Angola,IN,2006,H
+Livingston County Daily Press & Argus,2096,Howell,MI,2006,F
+Daily News Tribune,2098,Waltham,MA,2008,G
+Daily News Transcript,2099,Norwood,MA,2008,H
+Noblesville Daily Times,2100,Noblesville,IN,2005,G
+The Daily Journal,2101,San Mateo,CA,2009,F
+Colorado Daily,2104,Boulder,CO,2013,F
+El Nuevo Herald,2106,Miami,FL,2006,D
+The Newton Citizen,2107,Covington,GA,2006,G
+The Houston Home Journal,2108,Perry,GA,2009,F
+Grand Junction Free Press,2110,Grand Junction,CO,2006,F
+The Santa Monica Daily Press,2111,Santa Monica,CA,2009,F
+The Berlin Daily Sun,2112,Berlin,NH,2009,G
+The Laconia Daily Sun,2113,Laconia,NH,2009,F
+Al Día,2114,Dallas,TX,2013,E
+The Dallas Morning News/ Al Da,2114,Dallas,TX,2013,E
+Diario La Estrella,2116,Fort Worth,TX,2006,E
+Hoy,2117,Chicago,IL,2011,D
+RedEye,2120,Chicago,IL,2006,D
+Bluffton Today,2121,Bluffton,SC,2008,F
+amNewYork,2123,New York,NY,2008,B
+Standard Journal,2124,Rexburg,ID,2009,H
+The Bossier Press-Tribune,2125,Bossier City,LA,2012,H
+Voice of San Diego,2133,San Diego,CA,2010,O
+St. Louis Beacon,2135,St. Louis,MO,2010,O
+Wisconsin Center for Investigative Journalism,2138,Madison,WI,2010,O
+Investigate West,2139,Edmonds,WA,2010,O
+Investigate West,2139,Seattle,WA,2011,O
+InvestigateWest,2139,Seattle,WA,2011,O
+MinnPost.com,2142,Minneapolis,MN,2011,O
+Center for Investigative Reporting/California Watc,2145,Berkeley,CA,2010,O
+The Root,2146,Washington,DC,2010,O
+The Texas Tribune,2147,Austin,TX,2010,O
+Crosscut Public Media,2154,Seattle,WA,2010,O
+Maine Center for Public Interest Reporting,2155,Hallowell,ME,2010,O
+The New Haven Independent,2156,New Haven,CT,2010,O
+SF Public Press,2159,San Francisco,CA,2011,O
+Texas Watchdog,2161,Houston,TX,2010,O
+The Center for Public Integrity,2166,Washington,DC,2010,O
+The B-Town Blog,2168,Burien,WA,2011,O
+The Fayetteville Flyer,2169,Fayetteville,AR,2011,O
+Gotham Gazette,2170,New York City,NY,2010,O
+Mission Local,2171,San Francisco,CA,2010,O
+Alaska Dispatch,2172,Anchorage,AK,2011,O
+New West,2179,Missoula,MT,2010,O
+The Sacramento Press,2180,Sacramento,CA,2010,O
+Wyofile,2182,Lander,WY,2011,O
+GablesHomePage,2187,Coral Gables,FL,2010,O
+GlobalPost,2190,Boston,MA,2010,O
+NJ Spotlight,2195,Montclair,NJ,2010,O
+Factcheck.org/Annenberg Public Policy Center,2197,Washington,DC,2010,O
+The Bay Citizen,2198,San Francisco,CA,2010,O
+ProPublica,2199,New York,NY,2010,O
+The News Mexico Independent,2202,Albuquerque,NM,2010,O
+The Colorado Independent,2203,Washington,DC,2011,O
+The Washington Independent,2207,,WA,2010,O
+The Florida Independent,2208,Washington,DC,2011,O
+Patch.com,2209,New York City,NY,2011,O
+OregonLive.com,2227,Portland,OR,2011,O
+The Philadelphia Inquirer,2231,Philadelphia,PA,2014,A
+Statesman Journal,2232,Salem,OR,2014,E
+The Gazette,2233,Colorado Springs,CO,2014,D
+Dundalk Eagle,2234,Dundalk,MD,2014,F
+The Fayetteville Observer,2236,Fayetteville,NC,2014,D2
+The Sun News,2238,Myrtle Beach,SC,2014,D2
+Capital Gazette Communications,2239,Annapolis,MD,2014,E
+Orlando Sentinel,2241,Orlando,FL,2014,B
+The News & Advance,2242,Lynchburg,VA,2014,E
+Visalia Times-Delta,2243,Visalia,CA,2014,F
+South Bend Tribune,2246,South Bend,IN,2014,D
+San Angelo Standard-Times,2248,San Angelo,TX,2014,F
+The Augusta Chronicle,2252,Augusta,GA,2014,D2
+Suburban Journals of Madison County,2253,Collinsville,IL,2014,F
+Watertown Daily Times,8926,Watertown,NY,2013,G
+Star Tribune Media Company,2254,Minneapolis,MN,2015,A
+"Star Tribune, Minneapolis",2255,Minneapolis,MN,2016,A
+The Arizona Republic/azcentral.com,2256,Phoenix,AZ,2016,A
+USA Today,2257,McLean,VA,2015,A
+San Antonio Express-News,2258,Houston,TX,2015,B
+The Baltimore Sun,2259,Baltimore,MD,2016,B
+Las Vegas Sun,2260,Henderson,NV,2015,C
+San Antonio Express News,2261,Houston,TX,2012,C
+Sun-Sentinel,2262,Fort Lauderdale,FL,2016,C
+"The Blade of Toledo, Ohio",2263,Toledo,OH,2015,C
+The Deseret News,2264,Salt Lake City,Utah,2016,C
+The Oregonian/OregonLive,2265,Portland,Oregon,2016,C
+The Record/Herald News,2266,Woodland Park,NJ,2015,C
+The San Diego Union Tribune,2267,San Diego,CA,2016,C
+Greensboro News-Record,2268,Greensboro,NC,2015,D
+Register-Guard,2269,Eugene,OR,2015,D
+The Macomb Daily,2270,Mount Clemens,MI,2016,D
+The Telegraph,2271,Macon,GA,2015,D
+The Times-Tribune,2272,Scranton,PA,2015,D
+Times Herald Record,2273,Middletown,NY,2015,D
+Evansville+Courier & Press,2274,Evansville,IN,2013,D2
+Journal Gazette,2275,Fort Wayne,IN,2015,D2
+New Haven Register/Torrington Register Citizen/Middletown Press,2276,New Haven,CT,2015,D2
+Alaska Dispatch News,2277,Anchorage,AK,2015,E
+Lafayette Journal & Courier,2278,Lafayette,IN,2013,E
+Las Cruces Sun-News,2279,Las Cruces Sun-News,NM,2015,E
+Ledger Enquirer,2280,Columbus,GA,2015,E
+St. Cloud Times/Times Media,2281,St. Cloud,MN,2016,E
+The Daily Advertiser,2282,LaFayette,LA,2016,E
+The Dallas Morning News/ Al D誕,2283,Dallas,TX,2015,E
+The Dallas Morning News/ Al Dﾕa,2283,Dallas,TX,2016,E
+The Herald,2285,Everett,WA,2015,E
+The Southern Illinoisan,2286,Carbondale,IL,2015,E
+The Tri-City Herald,2287,Kennewick,WA,2013,E
+Times Daily,2288,Florence,AL,2013,E
+High Country Press,2289,Boone,NC,2016,F
+Kane County Chronicle,2290,St. Charles,IL,2015,F
+Medford Daily Mercury/Malden Evening News,2291,Malden,MA,2016,F
+Niagara Gazette,2292,Niagra Falls,NY,2015,F
+San Angelo Standard Times,2293,San Angelo,TX,2015,F
+The Chronicle-Telegram,2294,Elyria,OH,2015,F
+The Commercial Dispatch,2295,Columbus,MS,2015,F
+The Daily Chronicle,2296,DeKalb,IL,2015,F
+The Daily Reflector,2297,Greenville,NC,2015,F
+The Dothan Eagle,2298,Dothan,AL,2015,F
+The Lufkin Daily News,2299,Lufkin,TX,2015,F
+The Review,2300,Alliance,OH,2015,F
+The St. Augustine Record,2301,Saint Augustine,FL,2016,F
+The Star,2302,Shelby,NC,2015,F
+The Whittier Daily News,2303,Whittier,CA,2016,F
+Carlsbad Current Argus,2304,Carlsbad,NM,2015,G
+Muskogee Daily Phoenix and Times-Democrat,2305,Muskogee,OK,2015,G
+Ogdensburg Journal/Advance News,2306,Ogdenburg,NY,2015,G
+The Bemidji Pioneer,2307,Bemidji,MN,2015,G
+The Daily Herald,2308,Roanoke Rapids,NC,2016,G
+The Evening Telegram,2309,Herkimer,NY,2015,G
+The McDonough County Voice,2310,Macomb,IL,2016,G
+The Times,2311,Noblesville,IN,2015,G
+The Westerly Sun,2312,Pawcatuck,CT,2016,G
+Wisconsin Rapids Daily Tribune,2313,Wisconsin Rapids,WI,2016,G
+Bay Area News Group,2314,,,2014,Groups
+"Bay Area News Group (San Jose Mercury News, Oakland Tribune, and Contra Costa Times)",2315,San Jose,CA,2015,Groups
+Baraboo News Republic,2316,Baraboo,WI,2016,H
+Cherokee Chronicle Times,2317,Cherokee,IA,2015,H
+Denison Bulletin & Review,2318,Denison,IA,2016,H
+Dowagiac Daily News,2319,Niles,MI,2016,H
+Lexington Minuteman,2320,Lexington,MA,2015,H
+The Augusta Daily Gazette,2321,Augusta,KS,2015,H
+The Baxter Bulletin,2322,Mountain Home,AR,2015,H
+The Leader & Times,2323,Liberal,KS,2016,H
+California McClatchy Multiplatform Desk,2324,HUB6,,2014,Hubs
+Cox consolidated copy desk & page design hubs - Dayton,2325,HUB14,,2014,Hubs
+Cox consolidated copy desk & page design hubs - Palm Beach,2326,HUB15,,2014,Hubs
+Cox consolidated wire editing desk - Atlanta,2327,HUB13,,2014,Hubs
+DFM - NorCal Design Center,2328,HUB17,,2014,Hubs
+Gannett Design Studio - Asbury Park,2329,Asbury Park,NJ,2015,Hubs
+Gannett Design Studio - Des Moines,2330,HUB8,,2014,Hubs
+Gannett Design Studio - Louisville,2331,HUB2,,2014,Hubs
+Gannett Design Studio - Nashville,2332,HUB7,,2014,Hubs
+Gannett Design Studio - Phoenix,2333,HUB16,,2014,Hubs
+GateHouse Media - Center for News and Design,2334,Austin,TX,2015,Hubs
+LA News Group Hub,2335,HUB4,,2014,Hubs
+Lee Enterprises - Lincoln Hub,2336,HUB9,,2014,Hubs
+Lee Enterprises - Madison Hub,2337,HUB11,,2014,Hubs
+Lee Enterprises - Munster Hub,2338,HUB10,,2014,Hubs
+McClatchy Newspapers - East Hub,2339,HUB18,,2014,Hubs
+Scripps - FL and SC,2340,HUB20,,2014,Hubs
+Scripps consolidated desk - Corpus Christi,2341,HUB19,,2014,Hubs
+Thunderdome - Digital First Media,2342,HUB5,,2014,Hubs
+100Reporters,2343,Washington,DC,2016,Online
+Arizona Center for Investigative Reporting,2344,Phoenix,AZ,2016,Online
+Baltimore Fishbowl,2345,,,2016,Online
+BenitoLink.com,2346,Hollister,CA,2016,Online
+Berkeleyside,2347,,,2016,Online
+Billy Penn,2348,Philadelphia,PA,2016,Online
+BlufftonIcon,2349,,,2016,Online
+Brentwood Home Page,2350,Brentwood,TN,2016,Online
+CalCoastNews.com,2351,Atascadero,CA,2016,Online
+Cambridge Day,2352,,,2016,Online
+Carson Now,2353,,,2016,Online
+Catalyst Chicago,2354,,,2016,Online
+Center for Investigative Reporting/California Watch,2355,Berkeley,CA,2016,Online
+Center for Public Integrity,2356,Washington,DC,2016,Online
+Charlottesville Tomorrow,2357,,,2016,Online
+City Limits,2358,New York,NY,2016,Online
+Coachella Valley Independent,2359,,,2016,Online
+Columbus Underground,2360,Columbus,OH,2016,Online
+Common Language Project,2361,Seattle,WA,2016,Online
+Corner News Media,2362,Brooklyn,NY,2016,Online
+Decaturish,2363,Decatur,GA,2016,Online
+Detailed Block,2364,,,2016,Online
+Edhat,2365,,,2016,Online
+Factcheck.org/Annenberg Public Policy Center,2366,Philadelphia,PA,2016,Online
+Geneva Shore Report,2367,Lake Geneva,WI,2016,Online
+Honolulu Civil Beat,2368,Honolulu,HI,2016,Online
+http://www.gloucestercitynews.net,2369,,NJ,2016,Online
+iMediaEthics.org,2370,New York,NY,2016,Online
+IowaWatch.org,2371,Iowa City,IA,2016,Online
+Jersey Bites,2372,,,2016,Online
+KyForward.com,2373,Edgewood,KY,2016,Online
+Lkldnow,2374,Lakeland,FL,2016,Online
+magnoliareporter.com,2375,Magnolia,AZ,2016,Online
+ManchesterInkLink.com,2376,,,2016,Online
+Mic Network Inc.,2377,New York,New York,2016,Online
+Milford LIVE,2378,,,2016,Online
+Milwaukee Nighborhood News Service,2379,,,2016,Online
+MinnPost,2380,Minneapolis,MN,2016,Online
+Monroe Local News,2381,Monroe,GA,2016,Online
+My Edmonds News,2382,,,2016,Online
+My Everett News,2383,,,2016,Online
+MyBurbank,2384,,,2016,Online
+Naija Standard Newspaper,2385,Arlington,TX,2016,Online
+New Jersey Arts News - www.njartsnews.org,2386,,,2016,Online
+North Carolina Health News,2387,,,2016,Online
+Orleans Hub,2388,,,2016,Online
+Philadelphia Public School Notebook,2389,Philadelphia,PA,2016,Online
+Progress Illinois,2390,,,2016,Online
+Quorom Report,2391,Austin,TX,2016,Online
+Racine County Eye,2392,,,2016,Online
+Richland Source,2393,Mansfield,OH,2016,Online
+San Angelo LIVE,2394,,,2016,Online
+Sangre de Cristo Chronicle,2395,Red River,NM,2016,Online
+Slate Magazine,2396,Brooklyn,NY,2016,Online
+StateCollege.com,2397,State College,PA,2016,Online
+Stillwater Current,2398,,,2016,Online
+Street Sense,2399,Washington,DC,2016,Online
+Technically Philly,2400,,,2016,Online
+The Batavian,2401,,,2016,Online
+The Berkshire Edge,2402,Great Barrington,MA,2016,Online
+The Columbia Heart Beat,2403,,,2016,Online
+The Franklin Reporter & Advocate,2404,Somerset,NJ,2016,Online
+The Groton Line,2405,,,2016,Online
+The Lens,2406,New Orleans,LA,2016,Online
+The Locust Fork News Journal,2407,,,2016,Online
+The Notebook,2408,,,2016,Online
+The Sanatoga Post,2409,Sanatoga,PA,2016,Online
+TucsonSentinel.com,2410,Tucson,AZ,2016,Online
+Twin Cities Daily Planet,2411,Minneapolis,MN,2016,Online
+TXK Today,2412,Texarkana,TX,2016,Online
+Uptown Messenger,2413,,,2016,Online
+Vox.com,2414,Washington,DC,2016,Online
+Watershed Post,2415,Delhi,NY,2016,Online
+We-Ha.com,2416,West Hartford,CT,2016,Online
+West of the I,2417,,,2016,Online
+West Philly Local,2418,,,2016,Online
+Westford Template,2419,Westford,MA,2016,Online
+www.delawarecurrents.org,2420,Port Jervis,NY,2016,Online
+www.westchesterhispano.net,2421,Westchester County,NY,2016,Online
+Yubanet,2422,,,2016,Online

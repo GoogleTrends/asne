@@ -1,0 +1,99 @@
+news_id,paper,city_state,coverage_area,hispanic,white,black,american_indian_alaska_native,asian,native_hawaiian_pacific_islander,other,two_or_more,same
+284,the star-ledger,"newark, nj",new jersey,20,55.8,15,0.6,9.8,0.1,null,2.2,no
+380,reading eagle,"reading, pa","reading, pa",61.2,25.9,9.3,0,0.7,0,0.3,2.4,yes
+225,detroit free press,"detriot, mi","detriot, mi",7.7,9.1,79.8,0.3,1.3,0,0.1,1.7,yes
+226,the detriot news,"detriot, mi","detriot, mi",7.7,9.1,79.8,0.3,1.3,0,0.1,1.7,yes
+389,the providence journal,"providence, ri",rhode island,14.9,73.3,8.1,1,3.6,0.2,null,2.7,no
+1771,the morning call,"allentown, pa","allentown, pa",47.1,37.6,10.8,0.1,1.9,0,0.1,2.5,yes
+199,the sun,"baltimore, md","baltimore, md",4.6,28.1,62.3,0.2,2.6,0,0.3,1.9,yes
+427,dallas morning news,"dallas, tx","dallas, tx",41.7,29.4,24.1,0.1,3,0,0.1,1.5,yes
+330,the plain dealer,"cleveland, oh","cleveland, oh",10.5,34.1,50.8,0.2,1.9,0,0.1,2.4,yes
+375,the philadelphia inquirer,"philadelphia, pa","philadelphia, pa",13.4,35.8,41.5,0.2,6.8,0,0.3,2,yes
+81,new haven register,"new haven, ct","new haven, ct",28.1,31.3,32.5,0.1,5.1,0,0.7,2.2,yes
+495,new york daily news,"new york, ny",new york,19,55.8,17.7,1,8.9,0.1,null,2.5,no
+192,the times-picayune,"new orleans, la","new orleans, la",5.5,30.8,59,0.2,3,0,0.3,1.3,yes
+432,houston chronicle,"houston, tx","houston, tx",43.9,25.5,22.7,0.2,6.4,0,0.2,1.2,yes
+1536,york daily record,"york, pa","york county, pa",7.2,84,6.7,0.3,1.5,0.1,null,2.1,no
+29,the fresno bee,"fresno, ca","fresno, ca",48.5,28.1,7.5,0.5,12.7,0.2,0.2,2.3,yes
+204,the christian science monitor,"boston, ma",united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,no
+99,the miami herald,"miami, fl","miami, fl",70.7,11.4,16.4,0.1,0.8,0,0.1,0.5,yes
+293,the wall street journal,"new york, ny",united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,no
+415,the commercial appeal,"memphis, tn","memphis, tn",6.7,27.3,62.6,0.1,1.8,0,0.2,1.4,yes
+34,los angeles time,los angeles,california,38.9,37.7,6.5,1.7,14.8,0.5,null,3.8,no
+292,the new york times,"new york, ny",united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,no
+455,the virginian-pilot,"norfolk, va","norfolk county, va",7.8,43.7,42.7,0.7,3.7,0.2,null,3.6,no
+487,times union,"albany, ny","albany, ny",9.6,51.2,28.3,0.2,7,0.1,0.1,3.5,yes
+376,philadelphia daily news,"philadelphia, pa","philadelphia, pa",13.4,35.8,41.5,0.2,6.8,0,0.3,2,yes
+135,chicago tribune,"chicago, il","chicago, il",29.1,32.2,30.9,0.1,5.9,0,0.2,1.6,yes
+479,milwaukee journal sentinel,"milwaukee, wi","milwaukee, wi",18,36.3,38.9,0.5,3.6,0,0.1,2.7,yes
+111,the tampa tribune,"tampa, fl","tampa, fl",23.4,46.1,23.9,0.2,3.7,0.1,0.3,2.2,yes
+550,northwest arkansas newspapers llc,"springdale, ar","fayetteville, springdale, rogers, bentonville counties; ar",83.9,265.7,12.4,3.6,18.7,6.9,1.3,7.5,no
+308,the fayetteville observer,"fayetteville, nc","fayetteville, nc",,52.5,34.8,0.1,5.4,0.3,0.1,2.1,yes
+328,the cincinnati enquirer,"cincinnati, oh","cincinnati, oh",3,49.3,42.7,0.2,2,0,0.3,2.6,yes
+290,albuquerque journal,"albuquerque, nm",new mexico,48.5,38.1,2.5,10.6,1.7,0.2,null,2.5,no
+431,fort worth star-telegram,"fort worth, tx","fort worth, tx",34.3,40.7,18.6,0.3,3.8,0.1,0.1,2.1,yes
+285,rochester democrat and chronicle,"rochester, ny","rochester, ny",17.4,36.5,38.8,0.1,3.6,0,0.4,3.1,yes
+491,the buffalo news,"buffalo, ny","buffalo, ny",10.8,44.9,36.6,0.4,4.4,0,0.2,2.7,yes
+263,st. louis post dispatch,"st. louis, mo","st. louis, mo",3.7,43.1,47.5,0.2,2.8,0,0.3,2.3,yes
+273,las vegas review-journal,"las vegas, nv","las vegas, nv",32.2,45.9,10.9,0.4,6.5,0.5,0.2,3.3,yes
+439,san antonio express news,"san antonia, tx","san antonio, tx",63.3,26,6.6,0.2,2.5,0,0.1,1.3,yes
+96,the florida times-union,"jacksonville, fl","jacksonville, fl",8.5,53.7,30.2,0.2,4.4,0.1,0.2,2.7,yes
+45,the sacramento bee,"sacramento, ca","sacramento, ca",28.1,33.5,13.2,0.4,18.2,1.5,0.3,4.9,yes
+1682,daily press media group,"newport news, va","virginia peninsula, va (chesapeake, franklin, hampton, newport news, norfolk, poquoson, portsmouth, suffolk, virginia beach, and williamsburg)",50.8,541.3,345.6,2,28.9,0.7,2.5,28.3,no
+93,the gainesville sun,"gainesville, fl","gainesville, fl",10,56.7,22.7,0.3,7.1,0.3,0.2,2.8,yes
+88,the washington post,"washington, dc",united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,no
+101,orlando sentinel,"orlando, fl","orlando, fl",28.9,39.1,26,0.2,3.4,0,0.7,1.7,yes
+219,telegram & gazette,"worcester, ma","worcester, ma",20.8,57.9,11.4,0.2,7.2,0,0.5,2,yes
+309,news & record,"greensboro, nc","greensboro, nc",7.4,44.4,41.3,0.3,4,0.1,0.6,1.9,yes
+315,the news & observer,"raleigh, nc","raleigh, nc",11.1,53.3,28.8,0.2,4.4,0.1,0.3,1.8,yes
+115,the atlanta journal-constitution,"atlanta, ga","atlanta, ga",5,36.8,52.4,0.1,3.9,0,0.1,1.5,yes
+425,corpus christi caller-times,"corpus christi, tx","corpus christi, tx",61.3,31.5,4,0.2,1.9,0,0.1,0.9,yes
+347,tulsa world,"tulsa, ok","tulsa, ok",15,56.3,14.9,4,2.8,0.1,0.2,6.8,yes
+156,south bend tribune,"south bend, in","south bend, in",13.8,54.2,26.8,0.3,1.4,0.1,0.1,3.3,yes
+1433,the oklahoman,"oklahoma city, ok","oklahoma city, ok",18.3,55.2,14.2,2.6,4.3,0,0.1,5.3,yes
+67,the denver post,"denver, co","denver, co",30.9,53.1,9.4,0.6,3.5,0.1,0.2,2.2,yes
+457,the roanoke times,"roanoke, va","roanoke, blacksburg, christiansburg; va",13.6,286.4,223.4,38.7,0.5,16.5,0.2,1.2,no
+306,the charlotte observer,"charlotte, nc","charlotte, nc",13.5,43.5,34.4,0.2,5.7,0.1,0.2,2.3,yes
+2080,pittsburgh tribune-review,"pittsburgh, pa","pittsburgh, pa",2.7,64.5,24.4,0.2,5.3,0,0.2,2.8,yes
+467,the news tribune,"tacoma, wa","tacoma, wa",11.5,59.9,10.2,1,8.9,1.1,0.2,7.2,yes
+98,the ledger,"lakeland, fl","lakeland, fl",14.4,61.6,20.1,0.2,1.6,0,0.1,2,yes
+177,the wichita eagle,"wichita, ks","wichita, ks",16,63.5,11.2,0.7,5,0,0.1,3.4,yes
+105,sarasota herald tribune,"sarasota, fl","sarasota, fl",17.1,65.2,14.8,0.1,1.2,0,0.3,1.3,yes
+1659,standard-examiner,"ogden, ut","weber, davis counties, box elder, cache counties; ut",47.1,332,4.5,4.1,7.2,1.8,null,9,no
+342,the blade,"toledo, oh","toledo, oh",7.8,60.7,26.3,0.2,1.3,0,0.2,3.5,yes
+377,pittsburgh post-gazette,"pittsburgh, pa","pittsburgh, pa",2.7,64.5,24.4,0.2,5.3,0,0.2,2.8,yes
+478,wisconsin state journal,"madison, wi","madison, wi",7,74.6,6.7,0.3,8.4,0,0.1,2.9,yes
+240,minneapolis star tribune,"minneapolis, mn",minnesota,5.2,80.6,6.2,1.3,4.9,0.1,null,2.4,no
+12,the arizona republic/phoenix gazette,"phoenix, az",arizona,30.9,55.5,4.9,5.4,3.4,0.3,null,2.8,no
+147,the journal gazette,"fort wayne, in","fort wayne, in",8.2,68.9,15.2,0.2,3.8,0,0.3,3.4,yes
+364,erie times-news,"erie, pa","erie, pa",6.9,70.9,15.5,0.3,2.6,0,0.1,3.6,yes
+15,arizona daily star,"tuscon, az","tuscon, az",42.5,45.8,4.6,1.7,2.8,0.1,0.1,2.3,yes
+108,tampa bay times,"st. petersburg, fl","tampa bay (clearwater, tampa, st. petersburg), fl",44.4,179.5,58.5,0.7,9,0.3,0.7,6,no
+326,akron beacon journal,"akron, oh","summit, medina, portage, stark and wayne counties; oh",9.6,442.2,30.2,1.1,8.5,0,null,9.8,no
+183,the courier-journal,"louisville, ky","louisville, ky",6,85.8,0.3,0.1,4.8,0,0.1,2.9,yes
+282,the record,"woodland park, nj","bergen, husdon, essex, passaic counties; nj",126.4,159,79.5,3.8,44,0.6,null,9.7,no
+381,the scranton times-tribune,"scranton, pa","scranton, pa",11.4,88.6,76.8,6,0.1,3.9,0,0.2,yes
+394,the post and courier,"charleston, sc","charleston, dorchester and berkeley counties; sc",16.5,193.1,78.1,1.8,6.1,0.4,null,7.2,no
+447,salt lake tribune,"salt lake city, ut",utah,13.8,78.8,1.4,1.6,2.5,1,null,2.5,no
+301,watertown daily times/the journal and courier-observer,"watertown, ny","jefferson, st. lawrence and lewis counties; ogdensburg; massena and potsdam; ny",21.4,534.8,22.3,4.1,8.2,0.7,null,9.9,no
+413,the knoxville news sentinel,"knoxville, tn","knoxville, tn",4.9,73.1,17.2,0.3,1.8,0.1,0.2,2.4,yes
+430,el paso times,"el paso, tx","el paso, tx",79.9,14.5,3.2,0.2,1.2,0.2,0.1,0.8,yes
+104,south florida sun-sentinel,"ft. lauderdale, fl","dade, broward and palm beach counties",117.9,107.5,67.6,1.3,8.2,0.2,null,5.2,no
+270,lincoln journal star,"lincoln, ne","lincoln, ne",0,72.1,24.8,0.3,0.9,0,0,1.8,yes
+357,the oregonian,"portland, or",oregon,12.8,76.4,2.1,1.8,4.5,0.4,null,3.8,no
+109,scripps treasure coast newspapers,"stuart, fl","indian river, martin and st. lucie counties; fl",43.5,213.5,35.3,1.9,4.8,0.3,0,5.1,no
+1865,USA Today,"mclean, va",united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,no
+129,daily herald,"arlington heights, il","suburban chicago (arlington heights, schaumburg, elgin, vernon hills and lisle; il)",79.3,319.3,18.2,0.1,71.3,0.2,0.7,10.9,no
+465,the seattle times,"seattle, wa","seattle, wa",6.5,65.9,7.1,0.6,14.1,0.4,0.2,5.3,yes
+636,the gazette,"colorado springs, co","colorado springs, co",17.2,69.4,5.7,0.4,3,0.2,0.2,3.7,yes
+196,bangor daily news,"bangor, me",maine,1.6,93.5,1.5,0.7,1.2,0,null,1.7,no 
+596,the desert sun,"palm springs, ca","palm springs, ca",25.8,61.4,4.7,0.4,5.1,0.3,0.2,2.1,yes
+372,bucks county courier times,"levittown, pa","bucks county, pa",5.2,84.6,4.2,0.3,4.8,0.1,null,1.7,no
+1180,asbury park press,"neptune, nj","monmouth and ocean counties, nj",19.9,159.9,11.2,0.6,7.6,0.1,null,3.1,no
+2083,the villages daily sun,"the villages, fl","the villages, fl",1.7,96.9,0.3,0.1,0.6,0,0,0.3,yes
+86,the news journal,"new castle, de",delaware,9.2,62.9,22.6,0.6,4,0.1,null,2.6,no
+417,the tennessean,"nashville, tn","nashville-davidson metropolitan government (balance), tn",10.2,56,27.9,0.3,3.3,0.1,0.3,2.1,yes
+494,newsday,"melville, ny","long island and nyc (nassau, suffolk, kings, queens, new york, bronx, richmond counties)",157.4,261.3,132.1,6.9,66.3,1,null,14.6,no
+202,the boston globe,"dorchester, ma",massachusetts,73,11.5,8.6,0.5,6.7,0.1,null,2.3,no
+61,los angeles daily news,"woodland hills, ca","los angeles county, ca",48.5,26.5,9.1,1.5,15.1,0.4,null,3,no
+126,honolulu star-advertiser,"honolulu, hi",hawaii,10.4,22.1,2.2,0.4,37.7,10.2,null,23.7,no

@@ -1,0 +1,137 @@
+news_id,paper,city_state,coverage_area,coverage_area_orig,hispanic,white,black,american_indian_alaska_native,asian,native_hawaiian_pacific_islander,other,two_or_more,female
+12,the arizona republic/phoenix gazette,"phoenix, az",Arizona,arizona,30.9,55.5,4.9,5.4,3.4,0.3,null,2.8,50.3
+15,arizona daily star,"tuscon, az","tuscon, AZ","tuscon, AZ",42.5,45.8,4.6,1.7,2.8,0.1,0.1,2.3,50.5
+34,los angeles times,los angeles,California,california,38.9,37.7,6.5,1.7,14.8,0.5,null,3.8,50.3
+50,san francisco chronicle,san francisco,Bay Area,"bay area (alameda, contra costa, marin, napa, san francisco, san mateo, santa clara, solano, and sonoma counties)",23.36,40.36,6.01,0.24,23.92,0.58,0.3,5.23,n/a
+51,san jose mercury news,san jose,Bay Area,"bay area (alameda, contra costa, marin, napa, san francisco, san mateo, santa clara, solano, and sonoma counties)",23.36,40.36,6.01,0.24,23.92,0.58,0.3,5.23,n/a
+61,los angeles daily news,"woodland hills, ca",Los angeles County,"los angeles county, CA",48.5,26.5,9.1,1.5,15.1,0.4,null,3,50.7
+62,Ventura County Star,Camarillo,"ventura county, ca",,41.6,47,1.6,0.3,6.9,0.1,0.1,4.2,50.4
+86,the news journal,"new castle, de",Deleware,delaware,9.2,62.9,22.6,0.6,4,0.1,null,2.6,51.6
+88,the washington post,"washington, dc",United States,united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+104,south florida sun-sentinel,"ft. lauderdale, fl","Dade, Broward and Palm Beach County","dade, broward and palm beach counties",44.43,31.37,22.24,0.4,2.58,0.06,0,1.66,n/a
+108,tampa bay times,"st. petersburg, fl","Tampa Bay, FL","tampa bay (clearwater, tampa, st. petersburg), fl",16.23,55.75,21.81,0.23,3.26,0.1,0.27,2.25,n/a
+109,scripps treasure coast newspapers,"stuart, fl","Indian River, Martin and St. Lucie County","indian river, martin and st. lucie counties; fl",15.44,68.08,13.86,0.63,1.67,0.1,0,1.82,n/a
+112,The Palm Beach Post,west palm beach,Palm Beach and Treasure Coast County,,18.6,60.62,16.08,0.13,2.16,0.03,0.3,2.08,n/a
+126,honolulu star-advertiser,"honolulu, hi",Hawaii,hawaii,10.4,22.1,2.2,0.4,37.7,10.2,null,23.7,49.5
+129,daily herald,"arlington heights, il","Cook, Dupage, Kane, Lake, Mckhenry County","suburban chicago (cook, dupage, kane, lake, mckhenry counties)",23.57,49.85,18.45,0.76,7.56,0.1,0,1.9,n/a
+139,The Dispatch and The Rock Island Argus,Moline,"Moline, East moline and Rock island, IL, Davenport and Bettendorf, IA",,10.47,73.86,10.29,0.25,2.77,0.01,0.1,2.25,n/a
+196,bangor daily news,"bangor, me",Maine,maine,1.6,93.5,1.5,0.7,1.2,0,null,1.7,51.1
+202,the boston globe,"dorchester, ma",Massachusetts,massachusetts,11.5,73,8.6,0.5,6.7,0.1,null,2.3,51.5
+204,the christian science monitor,"boston, ma",United States,united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+225,detroit free press,"detriot, mi","Detriot, MI","detriot, MI",7.7,9.1,79.8,0.3,1.3,0,0.1,1.7,52
+226,the detroit news,"detriot, mi","Detriot, MI","detriot, MI",7.7,9.1,79.8,0.3,1.3,0,0.1,1.7,52
+240,minneapolis star tribune,"minneapolis, mn",Minnesota,minnesota,5.2,80.6,6.2,1.3,4.9,0.1,null,2.4,50.3
+263,St. Louis Post Dispatch,"St. Louis, MO","St. Louis, MO-IL CSA","St. Louis-St. Charles-Farmington, MO-IL CSA",3,75,18,0,2,0,0,2,51
+282,Bergen Record,"woodland park, nj","Bergen, Husdon, Essex, Passaic County","bergen, husdon, essex, passaic counties; nj",29.59,40.84,19.91,0.86,11.59,0.14,0,2.37,n/a
+284,the star-ledger,"newark, nj",New Jersey,new jersey,20,55.8,15,0.6,9.8,0.1,null,2.2,51.2
+290,albuquerque journal,"albuquerque, nm",New Mexico,new mexico,48.5,38.1,2.5,10.6,1.7,0.2,null,2.5,50.5
+292,the new york times,"new york, ny",United States,united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+293,the wall street journal,"new york, ny",United States,united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+296,The Daily Gazette,"Schenectady, NY","Schenectady, Saratoga, Fulton, Montgomery Schoharie and Albany County",,5.04,81.29,6.77,0.14,3.64,0.03,0.45,2.63,n/a
+301,watertown daily times,"watertown, ny","Jefferson, St. Lawrence and Lewis County","jefferson, st. lawrence and lewis counties;",4.46,87.92,4.33,0.75,1.02,0.19,0,2,n/a
+302,The Journal News,"white plains, ny","Westchester, Rockland, Putnam County",,20.78,58.49,11.99,0.12,5.46,0.01,0.36,2.78,n/a
+326,akron beacon journal,"akron, oh","Summit, Medina, Portage, Stark and Wayne County","summit, medina, portage, stark and wayne counties; oh",1.96,85.08,8.86,0.23,2.04,0,0,2.17,n/a
+352,Register-Guard,Eugene,Sangamon and Lane County,,5.9,82.25,4.97,0.64,2.21,0.15,0.23,3.64,n/a
+357,the oregonian,"portland, or",Oregon,oregon,12.8,76.4,2.1,1.8,4.5,0.4,null,3.8,50.5
+371,Intelligencer Journal / Lancaster New Era / Sunday News,lancaster,"Lancaster County, PA",,9.6,83.4,3.5,0.1,2,0,0.1,2,51
+372,bucks county courier times,"levittown, pa","Bucks County, PA","bucks county, pa",5.2,84.6,4.2,0.3,4.8,0.1,null,1.7,51
+389,the providence journal,"providence, ri",Rhode Island,rhode island,14.9,73.3,8.1,1,3.6,0.2,null,2.7,51.6
+394,the post and courier,"charleston, sc","Charleston, Dorchester and Berkeley County","charleston, dorchester and berkeley counties; sc",5.4,64.36,26.46,0.54,1.94,0.12,0,2.17,n/a
+417,the tennessean,"nashville, tn","Nashville-Davidson, TN","nashville-davidson metropolitan government (balance), tn",10.2,56,27.9,0.3,3.3,0.1,0.3,2.1,51.5
+447,salt lake tribune,"salt lake city, ut",Utah,utah,13.8,78.8,1.4,1.6,2.5,1,null,2.5,49.7
+455,the virginian-pilot,"norfolk, va","Norfolk County, VA","norfolk county, VA",7.8,43.7,42.7,0.7,3.7,0.2,null,3.6,47.8
+457,the roanoke times,"roanoke, va","Roanoke, Blacksburg, Christiansburg","roanoke, blacksburg, christiansburg; va",5.11,68.09,18.74,0.15,4.92,0.09,0.37,2.55,n/a
+468,The Columbian,"Vancouver, WA","clark county, wa",,8.4,80.3,1.8,0.6,4.1,0.7,0.2,4.5,50.5
+494,newsday,"melville, ny",Long Island and NYC,"long island and nyc (nassau, suffolk, kings, queens, new york, bronx, richmond counties)",26.69,39.28,24.06,1.23,13.03,0.18,0,2.67,52
+495,new york daily news,"new york, ny",New York,new york,19,55.8,17.7,1,8.9,0.1,null,2.5,51.5
+550,northwest arkansas newspapers llc,"springdale, ar","Fayetteville, Springdale, Rogers, Bentonville County","fayetteville, springdale, rogers, bentonville counties; ar",21.68,65.83,3.28,0.92,4,2.01,0.3,1.98,n/a
+673,Florida Today,Melbourne,"Brevard, Orange, Seminole, Osceola, Brevard, Volusia and Lake County",,21.86,57.77,13.58,0.19,3.4,0.06,0.4,2.74,n/a
+675,The News-Press,Fort Myers,"Collier ,Llee, Charlotte, Manatee, Sarasota, Desoto, Hendry and Glades County",,16.22,71.86,8.49,0.21,1.45,0.02,0.15,1.6,n/a
+1180,asbury park press,"neptune, nj",Monmouth and Ocean County,"monmouth and ocean counties, NJ",9.97,79.82,7.55,0.3,3.85,0.05,0,1.56,n/a
+1247,Times Herald Record,"Middletown, NY","Orange, Sullivan, Ulster, Pike, Sussex County",,13.74,74.08,6.68,0.11,2.06,0.02,0.25,3.05,n/a
+1462,Beaver County Times,"Beaver, PA","Beaver, Alegheny and Lawrence County",,1.74,81.4,11.51,0.09,2.78,0.02,0.17,2.3,n/a
+1478,The Intelligencer,doylestown pa,Bucks and Montgomery County,,4.66,80.76,6.49,0.1,5.82,0.01,0.19,1.96,n/a
+1536,york daily record,"york, pa","York County, PA","york county, PA",7.2,84,6.7,0.3,1.5,0.1,null,2.1,50.6
+1659,standard-examiner,"ogden, ut","Weber, Davis, Box Elder, Cache County","weber, davis counties, box elder, cache counties; ut",12.34,81.89,1.35,0.97,1.91,0.55,0,2.45,n/a
+1682,daily press media group,"newport news, va","Virginia Peninsula, VA","virginia peninsula, va (chesapeake, franklin, hampton, newport news, norfolk, poquoson, portsmouth, suffolk, virginia beach, and williamsburg)",6.38,52.76,33.14,0.26,3.82,0.11,0.27,3.24,n/a
+1722,The Parkersburg News and The Parkersburg Sentinel,Parkersburg,Mid-Ohio Valley,"Mid-ohio valley (calhoun, jackson, pleasants, ritchie, roane, wirt, and wood counties), wv",0.75,96.3,0.77,0.13,0.38,0.02,0.07,1.59,n/a
+1865,USA Today,"mclean, va",United States,united states,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,n/a
+2029,Charlotte Sun,"charlotte harbor, fl","port charlotte/punta gorda, fl",,7.81,80.21,7.7,0.14,1.82,0.01,0.27,2.04,n/a
+2147,The Texas Tribune,Austin,Texas,,39.1,42.6,12.6,1,4.8,0.1,null,1.9,50.3
+2199,ProPublica,"new york, ny",United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+2274,center for investigative reporting/california watch,berkeley ca,united states,,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+2408,Arkansas Democrat-Gazette,little rock,Arkansas,,7.3,72.9,15.7,1,1.6,0.3,null,2,50.9
+2415,Gannett Corporate,n/a,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9900,Georgia News Lab,,Georgia,,9.1,54.6,30.5,0.2,3.6,0,0.2,1.7,51.2
+9903,Conn. Health I-Team,,Connecticut,,14.7,69.2,9.6,0.1,4.2,0,0.3,1.9,51.3
+9904,Iowa Center for Public Affairs Journalism,,Iowa,,5.4,87.4,3.1,0.3,2,0.1,0.1,1.6,50.4
+9906,Aspen Journalism,,Colorado,,21.1,69.1,3.9,0.5,2.8,0.1,0.2,2.3,51.2
+9908,Highlands Current,,"Cold Spring, Philipstown and Beacon",,18.4,59.6,16.6,0.4,1.6,0,0.4,3,48.7
+9909,Montana Free Press,,Montana,,3.3,87,0.4,6.3,0.7,0.1,0,2.2,49.7
+9910,Ensia,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9911,www.grantcountybeat.com,,"Grant County, NM",,49.2,47.6,0.5,0.7,0.1,0,0,1.9,50.6
+9912,Solitary Watch,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9914,Auricle Productions,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9915,BenitoLink.com,,"San Benito County, CA",,57.9,36.6,0.7,0.3,2.5,0.1,0.1,1.7,50
+9916,Carolina Public Press,,North Carolina,,8.8,64.2,21.2,1.1,2.5,0.1,0.2,1.9,51.3
+9917,Shelterforce,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9918,The GroundTruth Project,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9919,Alabama Initiative for Independent Journalism publishing as BirminghamWatch,,Alabama,,4,66.3,26.3,0.5,1.2,0,0.1,1.5,51.5
+9920,California Health Report,,California,california,38.9,37.7,6.5,1.7,14.8,0.5,null,3.8,50.3
+9922,Pulitzer Center,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9925,CNBNEWS,,Southern New Jersey,,7.2,85,2.3,0.2,4.2,0,0.1,1.1,52.2
+9926,Georgia Health News,,Georgia,,9.1,54.6,30.5,0.2,3.6,0,0.2,1.7,51.2
+9927,FairWarning,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9928,ecoRI News,,New England,,9.9,77.2,6,0.2,4.3,0,0.4,1.9,51.3
+9929,Food and Environment Reporting Network,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9930,MuckRock,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9931,Investigative Reporting Workshop,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9932,Center for Sustainable Journalism,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9933,Centro de Periodismo Investigativo,,Puerto Rico,,99,0.7,0.1,0,0.1,0,0,0.1,52.2
+9934,The Midwest Center for Investigative Reporting,,Midwest,,7.4,76.9,10.2,0.5,2.9,0,0.1,2,50.7
+9937,Maryland Matters,,Maryland,,9,53,29.1,0.2,6,0,0.2,2.4,51.6
+9938,OpenSecrets,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9939,Current,,Northwest Washington,"Northwest Washington (Chevy Chase, Dupont Circle, Foggy Bottom, Georgetown and the Palisades)",10.5,69.9,9.7,0.2,6.4,0.1,0.2,3,52.2
+9940,Voices of Monterey Bay,,Monterey and Santa Cruz County,,47.7,41.9,1.9,0.3,5.2,0.3,0.1,2.6,49.4
+9941,The Investigative Fund,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9942,Voice of OC,,"Orange County, CA",,34.2,42.4,1.5,0.2,18.8,0.3,0.2,2.5,50.6
+9943,Technically Media (publishes two brands: Technical.ly and Generocity.org),,Mid-Atlantic Region,,14.8,63.5,12.8,0.2,6.6,0,0.4,1.7,51.3
+9944,Madison365,,"Madison, WI Metro Area",,5.5,83.4,4.2,0.2,4.5,0,0,2.1,50.3
+9947,PublicSource,,"Pittsburgh, PA Metro Area",,1.5,86.3,8.1,0.1,2,0,0.1,1.9,51.5
+9948,new food economy,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9949,Connecticut News Project / Connecticut Mirror,,Connecticut,,14.7,69.2,9.6,0.1,4.2,0,0.3,1.9,51.3
+9950,Oklahoma Watch,,Oklahoma,,9.6,67.3,7.1,6.9,1.9,0.1,0.1,6.9,50.5
+9951,International Consortium of Investigative Journalists,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9952,Injustice Watch,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9953,The Trace,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9954,InsideClimate News,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9955,CALmatters,,California,,38.9,37.7,6.5,1.7,14.8,0.5,null,3.8,50.3
+9956,Better Government Association,,Illinois,,16.5,62.5,14.1,0.1,5,0,0.1,1.7,50.9
+9957,Youth Radio,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9958,VTDigger.org,,Vermont,,1.7,93.6,1.1,0.3,1.4,0,0.1,1.8,50.8
+9959,The Hechinger Report,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9960,The Texas Observer,,Texas,,39.1,42.6,12.6,1,4.8,0.1,null,1.9,50.3
+9961,The Marshall Project,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9962,St. Louis Public Radio,,"St. Louis Metropolitan region, Quincy, IL, Rolla, MO, Lebanon, MO",,2.8,74.8,17.8,0.2,2.3,0,0.1,2,51.5
+9964,Chalkbeat,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9965,"WHYY, Inc.",,PA-NJ-DE-MD Metro Area,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",8.6,63.5,20.2,0.1,5.4,0,0.3,1.9,51.7
+9966,PBS NewsHour,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9967,The Intercept,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9969,The Post Publications,,"Sanatoga, Limerick, Pottstown, Schwenksville, Gilbertsville, and Phoenixville, PA",,7.9,76.9,10.6,0.1,1.2,0,0.2,3.2,52.3
+9970,Axios,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9972,Mississippi Today,,Mississippi,,2.9,57.4,37.2,0.4,1,0,0.1,1,51.4
+9973,The Mendocino Voice,,"Mendocino County, CA",,23.6,66.7,0.6,3.4,1.9,0.2,0.4,3.2,49.9
+9975,Southern California Public Radio,,"Los Angeles, Orange, Riverside, San Bernardino, Santa Barbara, and Ventura counties",,45.7,32.6,6.3,0.2,12.4,0.3,0.4,2,50.6
+9976,The Verge,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9977,SB Nation,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9978,Polygon,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9979,Recode,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9980,Curbed,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9981,Eater,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9982,McClatchy Washington Bureau,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9983,Chemical & Engineering News (C&EN),,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+9984,MPR News,,Minnesota,minnesota,5.2,80.6,6.2,1.3,4.9,0.1,null,2.4,50.3
+9985,New York Public Radio,,New York City metro,,23.6,47.9,15.8,0.1,10.4,0,0.6,1.6,51.7
+9986,Chicago Public Media,,Chicago metro,,21.4,54,16.7,0.1,6.1,0,0.1,1.6,51.1
+9987,WhereBy.Us,,"Miami, Orlando, Portland, Seattle Metros",,26.6,51.3,12.7,0.4,5.7,0.3,0.3,2.7,50.9
+9988,The Daily Dot,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
