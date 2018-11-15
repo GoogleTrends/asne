@@ -121,7 +121,7 @@ news_id,paper,city_state,coverage_area,coverage_area_orig,hispanic,white,black,a
 9970,Axios,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
 9972,Mississippi Today,,Mississippi,,2.9,57.4,37.2,0.4,1,0,0.1,1,51.4
 9973,The Mendocino Voice,,"Mendocino County, CA",,23.6,66.7,0.6,3.4,1.9,0.2,0.4,3.2,49.9
-9975,Southern California Public Radio,,"Los Angeles, Orange, Riverside, San Bernardino, Santa Barbara, and Ventura counties",,45.7,32.6,6.3,0.2,12.4,0.3,0.4,2,50.6
+9975,Southern California Public Radio,,"LA, Orange, Riverside, San Bernardino, Santa Barbara, Ventura counties",,45.7,32.6,6.3,0.2,12.4,0.3,0.4,2,50.6
 9976,The Verge,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
 9977,SB Nation,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
 9978,Polygon,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
@@ -135,3 +135,6 @@ news_id,paper,city_state,coverage_area,coverage_area_orig,hispanic,white,black,a
 9986,Chicago Public Media,,Chicago metro,,21.4,54,16.7,0.1,6.1,0,0.1,1.6,51.1
 9987,WhereBy.Us,,"Miami, Orlando, Portland, Seattle Metros",,26.6,51.3,12.7,0.4,5.7,0.3,0.3,2.7,50.9
 9988,The Daily Dot,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+2356,Slate Magazine,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+2398,Vox.com,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
+2166,the center for public integrity,,United States,United States,17.8,61.3,13.3,1.3,5.7,0.2,null,2.6,50.8
